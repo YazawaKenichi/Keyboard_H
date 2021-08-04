@@ -1,0 +1,3521 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FCE020
+P 2250 2300
+F 0 "SW?" H 2250 2685 50  0000 C CNN
+F 1 "Esc" H 2250 2594 50  0000 C CNN
+F 2 "" H 2250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2250 2600 50  0001 C CNN
+	1    2250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FCF688
+P 2750 2750
+F 0 "D?" V 2796 2670 50  0000 R CNN
+F 1 "1N4148W" V 2705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2750 2750 50  0001 C CNN
+	1    2750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2450 2200 2750 2200
+Wire Wire Line
+	2750 2200 2750 2600
+Wire Wire Line
+	2450 2300 3050 2300
+Wire Wire Line
+	2750 2900 2750 3000
+Wire Wire Line
+	2050 2200 2000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD02CE
+P 3250 2300
+F 0 "SW?" H 3250 2685 50  0000 C CNN
+F 1 "F1" H 3250 2594 50  0000 C CNN
+F 2 "" H 3250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3250 2600 50  0001 C CNN
+	1    3250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD02D4
+P 3750 2750
+F 0 "D?" V 3796 2670 50  0000 R CNN
+F 1 "1N4148W" V 3705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3750 2750 50  0001 C CNN
+	1    3750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3450 2200 3750 2200
+Wire Wire Line
+	3750 2200 3750 2600
+Wire Wire Line
+	3450 2300 4050 2300
+Wire Wire Line
+	3750 2900 3750 3000
+Wire Wire Line
+	3050 2200 3000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD0C80
+P 4250 2300
+F 0 "SW?" H 4250 2685 50  0000 C CNN
+F 1 "F2" H 4250 2594 50  0000 C CNN
+F 2 "" H 4250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 2600 50  0001 C CNN
+	1    4250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD0C86
+P 4750 2750
+F 0 "D?" V 4796 2670 50  0000 R CNN
+F 1 "1N4148W" V 4705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 2750 50  0001 C CNN
+	1    4750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4450 2200 4750 2200
+Wire Wire Line
+	4750 2200 4750 2600
+Wire Wire Line
+	4450 2300 5050 2300
+Wire Wire Line
+	4750 2900 4750 3000
+Wire Wire Line
+	4050 2200 4000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD1573
+P 5250 2300
+F 0 "SW?" H 5250 2685 50  0000 C CNN
+F 1 "F3" H 5250 2594 50  0000 C CNN
+F 2 "" H 5250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 2600 50  0001 C CNN
+	1    5250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD1579
+P 5750 2750
+F 0 "D?" V 5796 2670 50  0000 R CNN
+F 1 "1N4148W" V 5705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5750 2750 50  0001 C CNN
+	1    5750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 2200 5750 2200
+Wire Wire Line
+	5750 2200 5750 2600
+Wire Wire Line
+	5750 2900 5750 3000
+Wire Wire Line
+	5050 2200 5000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD6684
+P 8250 2300
+F 0 "SW?" H 8250 2685 50  0000 C CNN
+F 1 "F5" H 8250 2594 50  0000 C CNN
+F 2 "" H 8250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8250 2600 50  0001 C CNN
+	1    8250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD668A
+P 8750 2750
+F 0 "D?" V 8796 2670 50  0000 R CNN
+F 1 "1N4148W" V 8705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 8750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8750 2750 50  0001 C CNN
+	1    8750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8450 2200 8750 2200
+Wire Wire Line
+	8750 2200 8750 2600
+Wire Wire Line
+	8450 2300 9050 2300
+Wire Wire Line
+	8750 2900 8750 3000
+Wire Wire Line
+	8050 2200 8000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD6695
+P 9250 2300
+F 0 "SW?" H 9250 2685 50  0000 C CNN
+F 1 "F6" H 9250 2594 50  0000 C CNN
+F 2 "" H 9250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 2600 50  0001 C CNN
+	1    9250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD669B
+P 9750 2750
+F 0 "D?" V 9796 2670 50  0000 R CNN
+F 1 "1N4148W" V 9705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 9750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9750 2750 50  0001 C CNN
+	1    9750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9450 2200 9750 2200
+Wire Wire Line
+	9750 2200 9750 2600
+Wire Wire Line
+	9450 2300 10050 2300
+Wire Wire Line
+	9750 2900 9750 3000
+Wire Wire Line
+	9050 2200 9000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD66A6
+P 10250 2300
+F 0 "SW?" H 10250 2685 50  0000 C CNN
+F 1 "F7" H 10250 2594 50  0000 C CNN
+F 2 "" H 10250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10250 2600 50  0001 C CNN
+	1    10250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD66AC
+P 10750 2750
+F 0 "D?" V 10796 2670 50  0000 R CNN
+F 1 "1N4148W" V 10705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 10750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10750 2750 50  0001 C CNN
+	1    10750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10450 2200 10750 2200
+Wire Wire Line
+	10750 2200 10750 2600
+Wire Wire Line
+	10450 2300 11050 2300
+Wire Wire Line
+	10750 2900 10750 3000
+Wire Wire Line
+	10050 2200 10000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD66B7
+P 11250 2300
+F 0 "SW?" H 11250 2685 50  0000 C CNN
+F 1 "F8" H 11250 2594 50  0000 C CNN
+F 2 "" H 11250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11250 2600 50  0001 C CNN
+	1    11250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD66BD
+P 11750 2750
+F 0 "D?" V 11796 2670 50  0000 R CNN
+F 1 "1N4148W" V 11705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 11750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 11750 2750 50  0001 C CNN
+	1    11750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11450 2200 11750 2200
+Wire Wire Line
+	11750 2200 11750 2600
+Wire Wire Line
+	12450 2300 13050 2300
+Wire Wire Line
+	11750 2900 11750 3000
+Wire Wire Line
+	11050 2200 11000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD66C8
+P 13250 2300
+F 0 "SW?" H 13250 2685 50  0000 C CNN
+F 1 "F9" H 13250 2594 50  0000 C CNN
+F 2 "" H 13250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 2600 50  0001 C CNN
+	1    13250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD66CE
+P 13750 2750
+F 0 "D?" V 13796 2670 50  0000 R CNN
+F 1 "1N4148W" V 13705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 13750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 13750 2750 50  0001 C CNN
+	1    13750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13450 2200 13750 2200
+Wire Wire Line
+	13750 2200 13750 2600
+Wire Wire Line
+	13450 2300 14050 2300
+Wire Wire Line
+	13750 2900 13750 3000
+Wire Wire Line
+	13050 2200 13000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FEC431
+P 14250 2300
+F 0 "SW?" H 14250 2685 50  0000 C CNN
+F 1 "F10" H 14250 2594 50  0000 C CNN
+F 2 "" H 14250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 2600 50  0001 C CNN
+	1    14250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FEC437
+P 14750 2750
+F 0 "D?" V 14796 2670 50  0000 R CNN
+F 1 "1N4148W" V 14705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 14750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 14750 2750 50  0001 C CNN
+	1    14750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14450 2200 14750 2200
+Wire Wire Line
+	14750 2200 14750 2600
+Wire Wire Line
+	14450 2300 15050 2300
+Wire Wire Line
+	14750 2900 14750 3000
+Wire Wire Line
+	14050 2200 14000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FEC442
+P 15250 2300
+F 0 "SW?" H 15250 2685 50  0000 C CNN
+F 1 "F11" H 15250 2594 50  0000 C CNN
+F 2 "" H 15250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15250 2600 50  0001 C CNN
+	1    15250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FEC448
+P 15750 2750
+F 0 "D?" V 15796 2670 50  0000 R CNN
+F 1 "1N4148W" V 15705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 15750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 15750 2750 50  0001 C CNN
+	1    15750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	15450 2200 15750 2200
+Wire Wire Line
+	15750 2200 15750 2600
+Wire Wire Line
+	15450 2300 16050 2300
+Wire Wire Line
+	15750 2900 15750 3000
+Wire Wire Line
+	15050 2200 15000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FEC453
+P 16250 2300
+F 0 "SW?" H 16250 2685 50  0000 C CNN
+F 1 "F12" H 16250 2594 50  0000 C CNN
+F 2 "" H 16250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16250 2600 50  0001 C CNN
+	1    16250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FEC459
+P 16750 2750
+F 0 "D?" V 16796 2670 50  0000 R CNN
+F 1 "1N4148W" V 16705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 16750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 16750 2750 50  0001 C CNN
+	1    16750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	16450 2200 16750 2200
+Wire Wire Line
+	16750 2200 16750 2600
+Wire Wire Line
+	16750 2900 16750 3000
+Wire Wire Line
+	16050 2200 16000 2200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FCB6
+P 2250 3300
+F 0 "SW?" H 2250 3685 50  0000 C CNN
+F 1 "Zen/Han" H 2250 3594 50  0000 C CNN
+F 2 "" H 2250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2250 3600 50  0001 C CNN
+	1    2250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FCBC
+P 2750 3750
+F 0 "D?" V 2796 3670 50  0000 R CNN
+F 1 "1N4148W" V 2705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2750 3750 50  0001 C CNN
+	1    2750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2450 3200 2750 3200
+Wire Wire Line
+	2750 3200 2750 3600
+Wire Wire Line
+	2450 3300 3050 3300
+Wire Wire Line
+	2750 3900 2750 4000
+Wire Wire Line
+	2050 3200 2000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FCC7
+P 3250 3300
+F 0 "SW?" H 3250 3685 50  0000 C CNN
+F 1 "1" H 3250 3594 50  0000 C CNN
+F 2 "" H 3250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3250 3600 50  0001 C CNN
+	1    3250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FCCD
+P 3750 3750
+F 0 "D?" V 3796 3670 50  0000 R CNN
+F 1 "1N4148W" V 3705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3750 3750 50  0001 C CNN
+	1    3750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3450 3200 3750 3200
+Wire Wire Line
+	3750 3200 3750 3600
+Wire Wire Line
+	3450 3300 4050 3300
+Wire Wire Line
+	3750 3900 3750 4000
+Wire Wire Line
+	3050 3200 3000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FCD8
+P 4250 3300
+F 0 "SW?" H 4250 3685 50  0000 C CNN
+F 1 "2" H 4250 3594 50  0000 C CNN
+F 2 "" H 4250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 3600 50  0001 C CNN
+	1    4250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FCDE
+P 4750 3750
+F 0 "D?" V 4796 3670 50  0000 R CNN
+F 1 "1N4148W" V 4705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 3750 50  0001 C CNN
+	1    4750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4450 3200 4750 3200
+Wire Wire Line
+	4750 3200 4750 3600
+Wire Wire Line
+	4450 3300 5050 3300
+Wire Wire Line
+	4750 3900 4750 4000
+Wire Wire Line
+	4050 3200 4000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FCE9
+P 5250 3300
+F 0 "SW?" H 5250 3685 50  0000 C CNN
+F 1 "3" H 5250 3594 50  0000 C CNN
+F 2 "" H 5250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 3600 50  0001 C CNN
+	1    5250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FCEF
+P 5750 3750
+F 0 "D?" V 5796 3670 50  0000 R CNN
+F 1 "1N4148W" V 5705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5750 3750 50  0001 C CNN
+	1    5750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 3200 5750 3200
+Wire Wire Line
+	5750 3200 5750 3600
+Wire Wire Line
+	5450 3300 6050 3300
+Wire Wire Line
+	5750 3900 5750 4000
+Wire Wire Line
+	5050 3200 5000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FCFA
+P 6250 3300
+F 0 "SW?" H 6250 3685 50  0000 C CNN
+F 1 "4" H 6250 3594 50  0000 C CNN
+F 2 "" H 6250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6250 3600 50  0001 C CNN
+	1    6250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD00
+P 6750 3750
+F 0 "D?" V 6796 3670 50  0000 R CNN
+F 1 "1N4148W" V 6705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 3750 50  0001 C CNN
+	1    6750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 3200 6750 3200
+Wire Wire Line
+	6750 3200 6750 3600
+Wire Wire Line
+	6450 3300 7050 3300
+Wire Wire Line
+	6750 3900 6750 4000
+Wire Wire Line
+	6050 3200 6000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD0B
+P 7250 3300
+F 0 "SW?" H 7250 3685 50  0000 C CNN
+F 1 "5" H 7250 3594 50  0000 C CNN
+F 2 "" H 7250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7250 3600 50  0001 C CNN
+	1    7250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD11
+P 7750 3750
+F 0 "D?" V 7796 3670 50  0000 R CNN
+F 1 "1N4148W" V 7705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7750 3750 50  0001 C CNN
+	1    7750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7450 3200 7750 3200
+Wire Wire Line
+	7750 3200 7750 3600
+Wire Wire Line
+	7450 3300 8050 3300
+Wire Wire Line
+	7750 3900 7750 4000
+Wire Wire Line
+	7050 3200 7000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD1C
+P 8250 3300
+F 0 "SW?" H 8250 3685 50  0000 C CNN
+F 1 "6" H 8250 3594 50  0000 C CNN
+F 2 "" H 8250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8250 3600 50  0001 C CNN
+	1    8250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD22
+P 8750 3750
+F 0 "D?" V 8796 3670 50  0000 R CNN
+F 1 "1N4148W" V 8705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 8750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8750 3750 50  0001 C CNN
+	1    8750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8450 3200 8750 3200
+Wire Wire Line
+	8750 3200 8750 3600
+Wire Wire Line
+	8450 3300 9050 3300
+Wire Wire Line
+	8750 3900 8750 4000
+Wire Wire Line
+	8050 3200 8000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD2D
+P 9250 3300
+F 0 "SW?" H 9250 3685 50  0000 C CNN
+F 1 "7" H 9250 3594 50  0000 C CNN
+F 2 "" H 9250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 3600 50  0001 C CNN
+	1    9250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD33
+P 9750 3750
+F 0 "D?" V 9796 3670 50  0000 R CNN
+F 1 "1N4148W" V 9705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 9750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9750 3750 50  0001 C CNN
+	1    9750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9450 3200 9750 3200
+Wire Wire Line
+	9750 3200 9750 3600
+Wire Wire Line
+	9450 3300 10050 3300
+Wire Wire Line
+	9750 3900 9750 4000
+Wire Wire Line
+	9050 3200 9000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD3E
+P 10250 3300
+F 0 "SW?" H 10250 3685 50  0000 C CNN
+F 1 "8" H 10250 3594 50  0000 C CNN
+F 2 "" H 10250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10250 3600 50  0001 C CNN
+	1    10250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD44
+P 10750 3750
+F 0 "D?" V 10796 3670 50  0000 R CNN
+F 1 "1N4148W" V 10705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 10750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10750 3750 50  0001 C CNN
+	1    10750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10450 3200 10750 3200
+Wire Wire Line
+	10750 3200 10750 3600
+Wire Wire Line
+	10450 3300 11050 3300
+Wire Wire Line
+	10750 3900 10750 4000
+Wire Wire Line
+	10050 3200 10000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD4F
+P 11250 3300
+F 0 "SW?" H 11250 3685 50  0000 C CNN
+F 1 "9" H 11250 3594 50  0000 C CNN
+F 2 "" H 11250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11250 3600 50  0001 C CNN
+	1    11250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD55
+P 11750 3750
+F 0 "D?" V 11796 3670 50  0000 R CNN
+F 1 "1N4148W" V 11705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 11750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 11750 3750 50  0001 C CNN
+	1    11750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11450 3200 11750 3200
+Wire Wire Line
+	11750 3200 11750 3600
+Wire Wire Line
+	11450 3300 12050 3300
+Wire Wire Line
+	11750 3900 11750 4000
+Wire Wire Line
+	11050 3200 11000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD60
+P 12250 3300
+F 0 "SW?" H 12250 3685 50  0000 C CNN
+F 1 "0" H 12250 3594 50  0000 C CNN
+F 2 "" H 12250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12250 3600 50  0001 C CNN
+	1    12250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD66
+P 12750 3750
+F 0 "D?" V 12796 3670 50  0000 R CNN
+F 1 "1N4148W" V 12705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 12750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 12750 3750 50  0001 C CNN
+	1    12750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12450 3200 12750 3200
+Wire Wire Line
+	12750 3200 12750 3600
+Wire Wire Line
+	12450 3300 13050 3300
+Wire Wire Line
+	12750 3900 12750 4000
+Wire Wire Line
+	12050 3200 12000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD71
+P 13250 3300
+F 0 "SW?" H 13250 3685 50  0000 C CNN
+F 1 "-" H 13250 3594 50  0000 C CNN
+F 2 "" H 13250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 3600 50  0001 C CNN
+	1    13250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD77
+P 13750 3750
+F 0 "D?" V 13796 3670 50  0000 R CNN
+F 1 "1N4148W" V 13705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 13750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 13750 3750 50  0001 C CNN
+	1    13750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13450 3200 13750 3200
+Wire Wire Line
+	13750 3200 13750 3600
+Wire Wire Line
+	13450 3300 14050 3300
+Wire Wire Line
+	13750 3900 13750 4000
+Wire Wire Line
+	13050 3200 13000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD82
+P 14250 3300
+F 0 "SW?" H 14250 3685 50  0000 C CNN
+F 1 "^" H 14250 3594 50  0000 C CNN
+F 2 "" H 14250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 3600 50  0001 C CNN
+	1    14250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD88
+P 14750 3750
+F 0 "D?" V 14796 3670 50  0000 R CNN
+F 1 "1N4148W" V 14705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 14750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 14750 3750 50  0001 C CNN
+	1    14750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14450 3200 14750 3200
+Wire Wire Line
+	14750 3200 14750 3600
+Wire Wire Line
+	14450 3300 15050 3300
+Wire Wire Line
+	14750 3900 14750 4000
+Wire Wire Line
+	14050 3200 14000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FD93
+P 15250 3300
+F 0 "SW?" H 15250 3685 50  0000 C CNN
+F 1 "\\" H 15250 3594 50  0000 C CNN
+F 2 "" H 15250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15250 3600 50  0001 C CNN
+	1    15250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FD99
+P 15750 3750
+F 0 "D?" V 15796 3670 50  0000 R CNN
+F 1 "1N4148W" V 15705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 15750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 15750 3750 50  0001 C CNN
+	1    15750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	15450 3200 15750 3200
+Wire Wire Line
+	15750 3200 15750 3600
+Wire Wire Line
+	15450 3300 16050 3300
+Wire Wire Line
+	15750 3900 15750 4000
+Wire Wire Line
+	15050 3200 15000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FDA4
+P 16250 3300
+F 0 "SW?" H 16250 3685 50  0000 C CNN
+F 1 "BS" H 16250 3594 50  0000 C CNN
+F 2 "" H 16250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16250 3600 50  0001 C CNN
+	1    16250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FDAA
+P 16750 3750
+F 0 "D?" V 16796 3670 50  0000 R CNN
+F 1 "1N4148W" V 16705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 16750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 16750 3750 50  0001 C CNN
+	1    16750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	16450 3200 16750 3200
+Wire Wire Line
+	16750 3200 16750 3600
+Wire Wire Line
+	17450 3300 18050 3300
+Wire Wire Line
+	16750 3900 16750 4000
+Wire Wire Line
+	16050 3200 16000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FDB5
+P 18250 3300
+F 0 "SW?" H 18250 3685 50  0000 C CNN
+F 1 "PrtSc" H 18250 3594 50  0000 C CNN
+F 2 "" H 18250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18250 3600 50  0001 C CNN
+	1    18250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FDBB
+P 18750 3750
+F 0 "D?" V 18796 3670 50  0000 R CNN
+F 1 "1N4148W" V 18705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 18750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 18750 3750 50  0001 C CNN
+	1    18750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	18450 3200 18750 3200
+Wire Wire Line
+	18750 3200 18750 3600
+Wire Wire Line
+	18450 3300 19050 3300
+Wire Wire Line
+	18750 3900 18750 4000
+Wire Wire Line
+	18050 3200 18000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FDC6
+P 19250 3300
+F 0 "SW?" H 19250 3685 50  0000 C CNN
+F 1 "Home" H 19250 3594 50  0000 C CNN
+F 2 "" H 19250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19250 3600 50  0001 C CNN
+	1    19250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FDCC
+P 19750 3750
+F 0 "D?" V 19796 3670 50  0000 R CNN
+F 1 "1N4148W" V 19705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 19750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 19750 3750 50  0001 C CNN
+	1    19750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	19450 3200 19750 3200
+Wire Wire Line
+	19750 3200 19750 3600
+Wire Wire Line
+	19450 3300 20050 3300
+Wire Wire Line
+	19750 3900 19750 4000
+Wire Wire Line
+	19050 3200 19000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FDD7
+P 20250 3300
+F 0 "SW?" H 20250 3685 50  0000 C CNN
+F 1 "PgUp" H 20250 3594 50  0000 C CNN
+F 2 "" H 20250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20250 3600 50  0001 C CNN
+	1    20250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FDDD
+P 20750 3750
+F 0 "D?" V 20796 3670 50  0000 R CNN
+F 1 "1N4148W" V 20705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 20750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 20750 3750 50  0001 C CNN
+	1    20750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	20450 3200 20750 3200
+Wire Wire Line
+	20750 3200 20750 3600
+Wire Wire Line
+	21450 3300 22050 3300
+Wire Wire Line
+	20750 3900 20750 4000
+Wire Wire Line
+	20050 3200 20000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FDE8
+P 22250 3300
+F 0 "SW?" H 22250 3685 50  0000 C CNN
+F 1 "BS" H 22250 3594 50  0000 C CNN
+F 2 "" H 22250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22250 3600 50  0001 C CNN
+	1    22250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FDEE
+P 22750 3750
+F 0 "D?" V 22796 3670 50  0000 R CNN
+F 1 "1N4148W" V 22705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 22750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 22750 3750 50  0001 C CNN
+	1    22750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	22450 3200 22750 3200
+Wire Wire Line
+	22750 3200 22750 3600
+Wire Wire Line
+	22750 3900 22750 4000
+Wire Wire Line
+	22050 3200 22000 3200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D4FC
+P 2250 4300
+F 0 "SW?" H 2250 4685 50  0000 C CNN
+F 1 "Tab" H 2250 4594 50  0000 C CNN
+F 2 "" H 2250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2250 4600 50  0001 C CNN
+	1    2250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D502
+P 2750 4750
+F 0 "D?" V 2796 4670 50  0000 R CNN
+F 1 "1N4148W" V 2705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2750 4750 50  0001 C CNN
+	1    2750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2450 4200 2750 4200
+Wire Wire Line
+	2750 4200 2750 4600
+Wire Wire Line
+	2450 4300 3050 4300
+Wire Wire Line
+	2750 4900 2750 5000
+Wire Wire Line
+	2050 4200 2000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D50D
+P 3250 4300
+F 0 "SW?" H 3250 4685 50  0000 C CNN
+F 1 "Q" H 3250 4594 50  0000 C CNN
+F 2 "" H 3250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3250 4600 50  0001 C CNN
+	1    3250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D513
+P 3750 4750
+F 0 "D?" V 3796 4670 50  0000 R CNN
+F 1 "1N4148W" V 3705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3750 4750 50  0001 C CNN
+	1    3750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3450 4200 3750 4200
+Wire Wire Line
+	3750 4200 3750 4600
+Wire Wire Line
+	3450 4300 4050 4300
+Wire Wire Line
+	3750 4900 3750 5000
+Wire Wire Line
+	3050 4200 3000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D51E
+P 4250 4300
+F 0 "SW?" H 4250 4685 50  0000 C CNN
+F 1 "W" H 4250 4594 50  0000 C CNN
+F 2 "" H 4250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 4600 50  0001 C CNN
+	1    4250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D524
+P 4750 4750
+F 0 "D?" V 4796 4670 50  0000 R CNN
+F 1 "1N4148W" V 4705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 4750 50  0001 C CNN
+	1    4750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4450 4200 4750 4200
+Wire Wire Line
+	4750 4200 4750 4600
+Wire Wire Line
+	4450 4300 5050 4300
+Wire Wire Line
+	4750 4900 4750 5000
+Wire Wire Line
+	4050 4200 4000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D52F
+P 5250 4300
+F 0 "SW?" H 5250 4685 50  0000 C CNN
+F 1 "E" H 5250 4594 50  0000 C CNN
+F 2 "" H 5250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 4600 50  0001 C CNN
+	1    5250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D535
+P 5750 4750
+F 0 "D?" V 5796 4670 50  0000 R CNN
+F 1 "1N4148W" V 5705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5750 4750 50  0001 C CNN
+	1    5750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 4200 5750 4200
+Wire Wire Line
+	5750 4200 5750 4600
+Wire Wire Line
+	5450 4300 6050 4300
+Wire Wire Line
+	5750 4900 5750 5000
+Wire Wire Line
+	5050 4200 5000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D540
+P 6250 4300
+F 0 "SW?" H 6250 4685 50  0000 C CNN
+F 1 "R" H 6250 4594 50  0000 C CNN
+F 2 "" H 6250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6250 4600 50  0001 C CNN
+	1    6250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D546
+P 6750 4750
+F 0 "D?" V 6796 4670 50  0000 R CNN
+F 1 "1N4148W" V 6705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 4750 50  0001 C CNN
+	1    6750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 4200 6750 4200
+Wire Wire Line
+	6750 4200 6750 4600
+Wire Wire Line
+	6450 4300 7050 4300
+Wire Wire Line
+	6750 4900 6750 5000
+Wire Wire Line
+	6050 4200 6000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D551
+P 7250 4300
+F 0 "SW?" H 7250 4685 50  0000 C CNN
+F 1 "T" H 7250 4594 50  0000 C CNN
+F 2 "" H 7250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7250 4600 50  0001 C CNN
+	1    7250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D557
+P 7750 4750
+F 0 "D?" V 7796 4670 50  0000 R CNN
+F 1 "1N4148W" V 7705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7750 4750 50  0001 C CNN
+	1    7750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7450 4200 7750 4200
+Wire Wire Line
+	7750 4200 7750 4600
+Wire Wire Line
+	7450 4300 8050 4300
+Wire Wire Line
+	7750 4900 7750 5000
+Wire Wire Line
+	7050 4200 7000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D562
+P 8250 4300
+F 0 "SW?" H 8250 4685 50  0000 C CNN
+F 1 "Y" H 8250 4594 50  0000 C CNN
+F 2 "" H 8250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8250 4600 50  0001 C CNN
+	1    8250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D568
+P 8750 4750
+F 0 "D?" V 8796 4670 50  0000 R CNN
+F 1 "1N4148W" V 8705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 8750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8750 4750 50  0001 C CNN
+	1    8750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8450 4200 8750 4200
+Wire Wire Line
+	8750 4200 8750 4600
+Wire Wire Line
+	8450 4300 9050 4300
+Wire Wire Line
+	8750 4900 8750 5000
+Wire Wire Line
+	8050 4200 8000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D573
+P 9250 4300
+F 0 "SW?" H 9250 4685 50  0000 C CNN
+F 1 "U" H 9250 4594 50  0000 C CNN
+F 2 "" H 9250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 4600 50  0001 C CNN
+	1    9250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D579
+P 9750 4750
+F 0 "D?" V 9796 4670 50  0000 R CNN
+F 1 "1N4148W" V 9705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 9750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9750 4750 50  0001 C CNN
+	1    9750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9450 4200 9750 4200
+Wire Wire Line
+	9750 4200 9750 4600
+Wire Wire Line
+	9450 4300 10050 4300
+Wire Wire Line
+	9750 4900 9750 5000
+Wire Wire Line
+	9050 4200 9000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D584
+P 10250 4300
+F 0 "SW?" H 10250 4685 50  0000 C CNN
+F 1 "I" H 10250 4594 50  0000 C CNN
+F 2 "" H 10250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10250 4600 50  0001 C CNN
+	1    10250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D58A
+P 10750 4750
+F 0 "D?" V 10796 4670 50  0000 R CNN
+F 1 "1N4148W" V 10705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 10750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10750 4750 50  0001 C CNN
+	1    10750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10450 4200 10750 4200
+Wire Wire Line
+	10750 4200 10750 4600
+Wire Wire Line
+	10450 4300 11050 4300
+Wire Wire Line
+	10750 4900 10750 5000
+Wire Wire Line
+	10050 4200 10000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D595
+P 11250 4300
+F 0 "SW?" H 11250 4685 50  0000 C CNN
+F 1 "O" H 11250 4594 50  0000 C CNN
+F 2 "" H 11250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11250 4600 50  0001 C CNN
+	1    11250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D59B
+P 11750 4750
+F 0 "D?" V 11796 4670 50  0000 R CNN
+F 1 "1N4148W" V 11705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 11750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 11750 4750 50  0001 C CNN
+	1    11750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11450 4200 11750 4200
+Wire Wire Line
+	11750 4200 11750 4600
+Wire Wire Line
+	11450 4300 12050 4300
+Wire Wire Line
+	11750 4900 11750 5000
+Wire Wire Line
+	11050 4200 11000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D5A6
+P 12250 4300
+F 0 "SW?" H 12250 4685 50  0000 C CNN
+F 1 "P" H 12250 4594 50  0000 C CNN
+F 2 "" H 12250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12250 4600 50  0001 C CNN
+	1    12250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D5AC
+P 12750 4750
+F 0 "D?" V 12796 4670 50  0000 R CNN
+F 1 "1N4148W" V 12705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 12750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 12750 4750 50  0001 C CNN
+	1    12750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12450 4200 12750 4200
+Wire Wire Line
+	12750 4200 12750 4600
+Wire Wire Line
+	12450 4300 13050 4300
+Wire Wire Line
+	12750 4900 12750 5000
+Wire Wire Line
+	12050 4200 12000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D5B7
+P 13250 4300
+F 0 "SW?" H 13250 4685 50  0000 C CNN
+F 1 "@" H 13250 4594 50  0000 C CNN
+F 2 "" H 13250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 4600 50  0001 C CNN
+	1    13250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D5BD
+P 13750 4750
+F 0 "D?" V 13796 4670 50  0000 R CNN
+F 1 "1N4148W" V 13705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 13750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 13750 4750 50  0001 C CNN
+	1    13750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13450 4200 13750 4200
+Wire Wire Line
+	13750 4200 13750 4600
+Wire Wire Line
+	13450 4300 14050 4300
+Wire Wire Line
+	13750 4900 13750 5000
+Wire Wire Line
+	13050 4200 13000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D5C8
+P 14250 4300
+F 0 "SW?" H 14250 4685 50  0000 C CNN
+F 1 "[" H 14250 4594 50  0000 C CNN
+F 2 "" H 14250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 4600 50  0001 C CNN
+	1    14250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D5CE
+P 14750 4750
+F 0 "D?" V 14796 4670 50  0000 R CNN
+F 1 "1N4148W" V 14705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 14750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 14750 4750 50  0001 C CNN
+	1    14750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14450 4200 14750 4200
+Wire Wire Line
+	14750 4200 14750 4600
+Wire Wire Line
+	14750 4900 14750 5000
+Wire Wire Line
+	14050 4200 14000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D5EA
+P 16250 4300
+F 0 "SW?" H 16250 4685 50  0000 C CNN
+F 1 "Enter" H 16250 4594 50  0000 C CNN
+F 2 "" H 16250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16250 4600 50  0001 C CNN
+	1    16250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D5F0
+P 16750 4750
+F 0 "D?" V 16796 4670 50  0000 R CNN
+F 1 "1N4148W" V 16705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 16750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 16750 4750 50  0001 C CNN
+	1    16750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	16450 4200 16750 4200
+Wire Wire Line
+	16750 4200 16750 4600
+Wire Wire Line
+	17450 4300 18050 4300
+Wire Wire Line
+	16750 4900 16750 5000
+Wire Wire Line
+	16050 4200 16000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D5FB
+P 18250 4300
+F 0 "SW?" H 18250 4685 50  0000 C CNN
+F 1 "Delete" H 18250 4594 50  0000 C CNN
+F 2 "" H 18250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18250 4600 50  0001 C CNN
+	1    18250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D601
+P 18750 4750
+F 0 "D?" V 18796 4670 50  0000 R CNN
+F 1 "1N4148W" V 18705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 18750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 18750 4750 50  0001 C CNN
+	1    18750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	18450 4200 18750 4200
+Wire Wire Line
+	18750 4200 18750 4600
+Wire Wire Line
+	18450 4300 19050 4300
+Wire Wire Line
+	18750 4900 18750 5000
+Wire Wire Line
+	18050 4200 18000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D60C
+P 19250 4300
+F 0 "SW?" H 19250 4685 50  0000 C CNN
+F 1 "End" H 19250 4594 50  0000 C CNN
+F 2 "" H 19250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19250 4600 50  0001 C CNN
+	1    19250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D612
+P 19750 4750
+F 0 "D?" V 19796 4670 50  0000 R CNN
+F 1 "1N4148W" V 19705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 19750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 19750 4750 50  0001 C CNN
+	1    19750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	19450 4200 19750 4200
+Wire Wire Line
+	19750 4200 19750 4600
+Wire Wire Line
+	19450 4300 20050 4300
+Wire Wire Line
+	19750 4900 19750 5000
+Wire Wire Line
+	19050 4200 19000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D61D
+P 20250 4300
+F 0 "SW?" H 20250 4685 50  0000 C CNN
+F 1 "PgDn" H 20250 4594 50  0000 C CNN
+F 2 "" H 20250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20250 4600 50  0001 C CNN
+	1    20250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D623
+P 20750 4750
+F 0 "D?" V 20796 4670 50  0000 R CNN
+F 1 "1N4148W" V 20705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 20750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 20750 4750 50  0001 C CNN
+	1    20750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	20450 4200 20750 4200
+Wire Wire Line
+	20750 4200 20750 4600
+Wire Wire Line
+	21450 4300 22050 4300
+Wire Wire Line
+	20750 4900 20750 5000
+Wire Wire Line
+	20050 4200 20000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D62E
+P 22250 4300
+F 0 "SW?" H 22250 4685 50  0000 C CNN
+F 1 "7" H 22250 4594 50  0000 C CNN
+F 2 "" H 22250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22250 4600 50  0001 C CNN
+	1    22250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D634
+P 22750 4750
+F 0 "D?" V 22796 4670 50  0000 R CNN
+F 1 "1N4148W" V 22705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 22750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 22750 4750 50  0001 C CNN
+	1    22750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	22450 4200 22750 4200
+Wire Wire Line
+	22750 4200 22750 4600
+Wire Wire Line
+	22750 4900 22750 5000
+Wire Wire Line
+	22050 4200 22000 4200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F294
+P 2250 5300
+F 0 "SW?" H 2250 5685 50  0000 C CNN
+F 1 "CaptLock" H 2250 5594 50  0000 C CNN
+F 2 "" H 2250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2250 5600 50  0001 C CNN
+	1    2250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F29A
+P 2750 5750
+F 0 "D?" V 2796 5670 50  0000 R CNN
+F 1 "1N4148W" V 2705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2750 5750 50  0001 C CNN
+	1    2750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2450 5200 2750 5200
+Wire Wire Line
+	2750 5200 2750 5600
+Wire Wire Line
+	2450 5300 3050 5300
+Wire Wire Line
+	2750 5900 2750 6000
+Wire Wire Line
+	2050 5200 2000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F2A5
+P 3250 5300
+F 0 "SW?" H 3250 5685 50  0000 C CNN
+F 1 "A" H 3250 5594 50  0000 C CNN
+F 2 "" H 3250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3250 5600 50  0001 C CNN
+	1    3250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F2AB
+P 3750 5750
+F 0 "D?" V 3796 5670 50  0000 R CNN
+F 1 "1N4148W" V 3705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3750 5750 50  0001 C CNN
+	1    3750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3450 5200 3750 5200
+Wire Wire Line
+	3750 5200 3750 5600
+Wire Wire Line
+	3450 5300 4050 5300
+Wire Wire Line
+	3750 5900 3750 6000
+Wire Wire Line
+	3050 5200 3000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F2B6
+P 4250 5300
+F 0 "SW?" H 4250 5685 50  0000 C CNN
+F 1 "S" H 4250 5594 50  0000 C CNN
+F 2 "" H 4250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 5600 50  0001 C CNN
+	1    4250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F2BC
+P 4750 5750
+F 0 "D?" V 4796 5670 50  0000 R CNN
+F 1 "1N4148W" V 4705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 5750 50  0001 C CNN
+	1    4750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4450 5200 4750 5200
+Wire Wire Line
+	4750 5200 4750 5600
+Wire Wire Line
+	4450 5300 5050 5300
+Wire Wire Line
+	4750 5900 4750 6000
+Wire Wire Line
+	4050 5200 4000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F2C7
+P 5250 5300
+F 0 "SW?" H 5250 5685 50  0000 C CNN
+F 1 "D" H 5250 5594 50  0000 C CNN
+F 2 "" H 5250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 5600 50  0001 C CNN
+	1    5250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F2CD
+P 5750 5750
+F 0 "D?" V 5796 5670 50  0000 R CNN
+F 1 "1N4148W" V 5705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5750 5750 50  0001 C CNN
+	1    5750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 5200 5750 5200
+Wire Wire Line
+	5750 5200 5750 5600
+Wire Wire Line
+	5450 5300 6050 5300
+Wire Wire Line
+	5750 5900 5750 6000
+Wire Wire Line
+	5050 5200 5000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F2D8
+P 6250 5300
+F 0 "SW?" H 6250 5685 50  0000 C CNN
+F 1 "F" H 6250 5594 50  0000 C CNN
+F 2 "" H 6250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6250 5600 50  0001 C CNN
+	1    6250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F2DE
+P 6750 5750
+F 0 "D?" V 6796 5670 50  0000 R CNN
+F 1 "1N4148W" V 6705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 5750 50  0001 C CNN
+	1    6750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 5200 6750 5200
+Wire Wire Line
+	6750 5200 6750 5600
+Wire Wire Line
+	6450 5300 7050 5300
+Wire Wire Line
+	6750 5900 6750 6000
+Wire Wire Line
+	6050 5200 6000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F2E9
+P 7250 5300
+F 0 "SW?" H 7250 5685 50  0000 C CNN
+F 1 "G" H 7250 5594 50  0000 C CNN
+F 2 "" H 7250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7250 5600 50  0001 C CNN
+	1    7250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F2EF
+P 7750 5750
+F 0 "D?" V 7796 5670 50  0000 R CNN
+F 1 "1N4148W" V 7705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7750 5750 50  0001 C CNN
+	1    7750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7450 5200 7750 5200
+Wire Wire Line
+	7750 5200 7750 5600
+Wire Wire Line
+	7450 5300 8050 5300
+Wire Wire Line
+	7750 5900 7750 6000
+Wire Wire Line
+	7050 5200 7000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F2FA
+P 8250 5300
+F 0 "SW?" H 8250 5685 50  0000 C CNN
+F 1 "H" H 8250 5594 50  0000 C CNN
+F 2 "" H 8250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8250 5600 50  0001 C CNN
+	1    8250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F300
+P 8750 5750
+F 0 "D?" V 8796 5670 50  0000 R CNN
+F 1 "1N4148W" V 8705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 8750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8750 5750 50  0001 C CNN
+	1    8750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8450 5200 8750 5200
+Wire Wire Line
+	8750 5200 8750 5600
+Wire Wire Line
+	8450 5300 9050 5300
+Wire Wire Line
+	8750 5900 8750 6000
+Wire Wire Line
+	8050 5200 8000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F30B
+P 9250 5300
+F 0 "SW?" H 9250 5685 50  0000 C CNN
+F 1 "J" H 9250 5594 50  0000 C CNN
+F 2 "" H 9250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 5600 50  0001 C CNN
+	1    9250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F311
+P 9750 5750
+F 0 "D?" V 9796 5670 50  0000 R CNN
+F 1 "1N4148W" V 9705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 9750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9750 5750 50  0001 C CNN
+	1    9750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9450 5200 9750 5200
+Wire Wire Line
+	9750 5200 9750 5600
+Wire Wire Line
+	9450 5300 10050 5300
+Wire Wire Line
+	9750 5900 9750 6000
+Wire Wire Line
+	9050 5200 9000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F31C
+P 10250 5300
+F 0 "SW?" H 10250 5685 50  0000 C CNN
+F 1 "K" H 10250 5594 50  0000 C CNN
+F 2 "" H 10250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10250 5600 50  0001 C CNN
+	1    10250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F322
+P 10750 5750
+F 0 "D?" V 10796 5670 50  0000 R CNN
+F 1 "1N4148W" V 10705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 10750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10750 5750 50  0001 C CNN
+	1    10750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10450 5200 10750 5200
+Wire Wire Line
+	10750 5200 10750 5600
+Wire Wire Line
+	10450 5300 11050 5300
+Wire Wire Line
+	10750 5900 10750 6000
+Wire Wire Line
+	10050 5200 10000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F32D
+P 11250 5300
+F 0 "SW?" H 11250 5685 50  0000 C CNN
+F 1 "L" H 11250 5594 50  0000 C CNN
+F 2 "" H 11250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11250 5600 50  0001 C CNN
+	1    11250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F333
+P 11750 5750
+F 0 "D?" V 11796 5670 50  0000 R CNN
+F 1 "1N4148W" V 11705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 11750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 11750 5750 50  0001 C CNN
+	1    11750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11450 5200 11750 5200
+Wire Wire Line
+	11750 5200 11750 5600
+Wire Wire Line
+	11450 5300 12050 5300
+Wire Wire Line
+	11750 5900 11750 6000
+Wire Wire Line
+	11050 5200 11000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F33E
+P 12250 5300
+F 0 "SW?" H 12250 5685 50  0000 C CNN
+F 1 ";" H 12250 5594 50  0000 C CNN
+F 2 "" H 12250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12250 5600 50  0001 C CNN
+	1    12250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F344
+P 12750 5750
+F 0 "D?" V 12796 5670 50  0000 R CNN
+F 1 "1N4148W" V 12705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 12750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 12750 5750 50  0001 C CNN
+	1    12750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12450 5200 12750 5200
+Wire Wire Line
+	12750 5200 12750 5600
+Wire Wire Line
+	12450 5300 13050 5300
+Wire Wire Line
+	12750 5900 12750 6000
+Wire Wire Line
+	12050 5200 12000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F34F
+P 13250 5300
+F 0 "SW?" H 13250 5685 50  0000 C CNN
+F 1 ":" H 13250 5594 50  0000 C CNN
+F 2 "" H 13250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 5600 50  0001 C CNN
+	1    13250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F355
+P 13750 5750
+F 0 "D?" V 13796 5670 50  0000 R CNN
+F 1 "1N4148W" V 13705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 13750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 13750 5750 50  0001 C CNN
+	1    13750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13450 5200 13750 5200
+Wire Wire Line
+	13750 5200 13750 5600
+Wire Wire Line
+	13450 5300 14050 5300
+Wire Wire Line
+	13750 5900 13750 6000
+Wire Wire Line
+	13050 5200 13000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F360
+P 14250 5300
+F 0 "SW?" H 14250 5685 50  0000 C CNN
+F 1 "]" H 14250 5594 50  0000 C CNN
+F 2 "" H 14250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 5600 50  0001 C CNN
+	1    14250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F366
+P 14750 5750
+F 0 "D?" V 14796 5670 50  0000 R CNN
+F 1 "1N4148W" V 14705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 14750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 14750 5750 50  0001 C CNN
+	1    14750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14450 5200 14750 5200
+Wire Wire Line
+	14750 5200 14750 5600
+Wire Wire Line
+	14750 5900 14750 6000
+Wire Wire Line
+	14050 5200 14000 5200
+Wire Wire Line
+	21450 5300 22050 5300
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F3C6
+P 22250 5300
+F 0 "SW?" H 22250 5685 50  0000 C CNN
+F 1 "4" H 22250 5594 50  0000 C CNN
+F 2 "" H 22250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22250 5600 50  0001 C CNN
+	1    22250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F3CC
+P 22750 5750
+F 0 "D?" V 22796 5670 50  0000 R CNN
+F 1 "1N4148W" V 22705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 22750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 22750 5750 50  0001 C CNN
+	1    22750 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	22450 5200 22750 5200
+Wire Wire Line
+	22750 5200 22750 5600
+Wire Wire Line
+	22750 5900 22750 6000
+Wire Wire Line
+	22050 5200 22000 5200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F40A
+P 2250 6300
+F 0 "SW?" H 2250 6685 50  0000 C CNN
+F 1 "Shift" H 2250 6594 50  0000 C CNN
+F 2 "" H 2250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2250 6600 50  0001 C CNN
+	1    2250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F410
+P 2750 6750
+F 0 "D?" V 2796 6670 50  0000 R CNN
+F 1 "1N4148W" V 2705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2750 6750 50  0001 C CNN
+	1    2750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2450 6200 2750 6200
+Wire Wire Line
+	2750 6200 2750 6600
+Wire Wire Line
+	3450 6300 4050 6300
+Wire Wire Line
+	2750 6900 2750 7000
+Wire Wire Line
+	2050 6200 2000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F41B
+P 4250 6300
+F 0 "SW?" H 4250 6685 50  0000 C CNN
+F 1 "Z" H 4250 6594 50  0000 C CNN
+F 2 "" H 4250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 6600 50  0001 C CNN
+	1    4250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F421
+P 4750 6750
+F 0 "D?" V 4796 6670 50  0000 R CNN
+F 1 "1N4148W" V 4705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 6750 50  0001 C CNN
+	1    4750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4450 6200 4750 6200
+Wire Wire Line
+	4750 6200 4750 6600
+Wire Wire Line
+	4450 6300 5050 6300
+Wire Wire Line
+	4750 6900 4750 7000
+Wire Wire Line
+	4050 6200 4000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F42C
+P 5250 6300
+F 0 "SW?" H 5250 6685 50  0000 C CNN
+F 1 "X" H 5250 6594 50  0000 C CNN
+F 2 "" H 5250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 6600 50  0001 C CNN
+	1    5250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F432
+P 5750 6750
+F 0 "D?" V 5796 6670 50  0000 R CNN
+F 1 "1N4148W" V 5705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5750 6750 50  0001 C CNN
+	1    5750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 6200 5750 6200
+Wire Wire Line
+	5750 6200 5750 6600
+Wire Wire Line
+	5450 6300 6050 6300
+Wire Wire Line
+	5750 6900 5750 7000
+Wire Wire Line
+	5050 6200 5000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F43D
+P 6250 6300
+F 0 "SW?" H 6250 6685 50  0000 C CNN
+F 1 "C" H 6250 6594 50  0000 C CNN
+F 2 "" H 6250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6250 6600 50  0001 C CNN
+	1    6250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F443
+P 6750 6750
+F 0 "D?" V 6796 6670 50  0000 R CNN
+F 1 "1N4148W" V 6705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 6750 50  0001 C CNN
+	1    6750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 6200 6750 6200
+Wire Wire Line
+	6750 6200 6750 6600
+Wire Wire Line
+	6450 6300 7050 6300
+Wire Wire Line
+	6750 6900 6750 7000
+Wire Wire Line
+	6050 6200 6000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F44E
+P 7250 6300
+F 0 "SW?" H 7250 6685 50  0000 C CNN
+F 1 "V" H 7250 6594 50  0000 C CNN
+F 2 "" H 7250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7250 6600 50  0001 C CNN
+	1    7250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F454
+P 7750 6750
+F 0 "D?" V 7796 6670 50  0000 R CNN
+F 1 "1N4148W" V 7705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7750 6750 50  0001 C CNN
+	1    7750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7450 6200 7750 6200
+Wire Wire Line
+	7750 6200 7750 6600
+Wire Wire Line
+	7450 6300 8050 6300
+Wire Wire Line
+	7050 6200 7000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F45F
+P 8250 6300
+F 0 "SW?" H 8250 6685 50  0000 C CNN
+F 1 "B" H 8250 6594 50  0000 C CNN
+F 2 "" H 8250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8250 6600 50  0001 C CNN
+	1    8250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F465
+P 8750 6750
+F 0 "D?" V 8796 6670 50  0000 R CNN
+F 1 "1N4148W" V 8705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 8750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8750 6750 50  0001 C CNN
+	1    8750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8450 6200 8750 6200
+Wire Wire Line
+	8750 6200 8750 6600
+Wire Wire Line
+	8450 6300 9050 6300
+Wire Wire Line
+	8750 6900 8750 7000
+Wire Wire Line
+	8050 6200 8000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F470
+P 9250 6300
+F 0 "SW?" H 9250 6685 50  0000 C CNN
+F 1 "N" H 9250 6594 50  0000 C CNN
+F 2 "" H 9250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 6600 50  0001 C CNN
+	1    9250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F476
+P 9750 6750
+F 0 "D?" V 9796 6670 50  0000 R CNN
+F 1 "1N4148W" V 9705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 9750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9750 6750 50  0001 C CNN
+	1    9750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9450 6200 9750 6200
+Wire Wire Line
+	9750 6200 9750 6600
+Wire Wire Line
+	9450 6300 10050 6300
+Wire Wire Line
+	9750 6900 9750 7000
+Wire Wire Line
+	9050 6200 9000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F481
+P 10250 6300
+F 0 "SW?" H 10250 6685 50  0000 C CNN
+F 1 "M" H 10250 6594 50  0000 C CNN
+F 2 "" H 10250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10250 6600 50  0001 C CNN
+	1    10250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F487
+P 10750 6750
+F 0 "D?" V 10796 6670 50  0000 R CNN
+F 1 "1N4148W" V 10705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 10750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10750 6750 50  0001 C CNN
+	1    10750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10450 6200 10750 6200
+Wire Wire Line
+	10750 6200 10750 6600
+Wire Wire Line
+	10450 6300 11050 6300
+Wire Wire Line
+	10750 6900 10750 7000
+Wire Wire Line
+	10050 6200 10000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F492
+P 11250 6300
+F 0 "SW?" H 11250 6685 50  0000 C CNN
+F 1 "," H 11250 6594 50  0000 C CNN
+F 2 "" H 11250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11250 6600 50  0001 C CNN
+	1    11250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F498
+P 11750 6750
+F 0 "D?" V 11796 6670 50  0000 R CNN
+F 1 "1N4148W" V 11705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 11750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 11750 6750 50  0001 C CNN
+	1    11750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11450 6200 11750 6200
+Wire Wire Line
+	11750 6200 11750 6600
+Wire Wire Line
+	11450 6300 12050 6300
+Wire Wire Line
+	11750 6900 11750 7000
+Wire Wire Line
+	11050 6200 11000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F4A3
+P 12250 6300
+F 0 "SW?" H 12250 6685 50  0000 C CNN
+F 1 "." H 12250 6594 50  0000 C CNN
+F 2 "" H 12250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12250 6600 50  0001 C CNN
+	1    12250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F4A9
+P 12750 6750
+F 0 "D?" V 12796 6670 50  0000 R CNN
+F 1 "1N4148W" V 12705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 12750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 12750 6750 50  0001 C CNN
+	1    12750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12450 6200 12750 6200
+Wire Wire Line
+	12750 6200 12750 6600
+Wire Wire Line
+	12450 6300 13050 6300
+Wire Wire Line
+	12750 6900 12750 7000
+Wire Wire Line
+	12050 6200 12000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F4B4
+P 13250 6300
+F 0 "SW?" H 13250 6685 50  0000 C CNN
+F 1 "/" H 13250 6594 50  0000 C CNN
+F 2 "" H 13250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 6600 50  0001 C CNN
+	1    13250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F4BA
+P 13750 6750
+F 0 "D?" V 13796 6670 50  0000 R CNN
+F 1 "1N4148W" V 13705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 13750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 13750 6750 50  0001 C CNN
+	1    13750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13450 6200 13750 6200
+Wire Wire Line
+	13750 6200 13750 6600
+Wire Wire Line
+	13450 6300 14050 6300
+Wire Wire Line
+	13750 6900 13750 7000
+Wire Wire Line
+	13050 6200 13000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F4C5
+P 14250 6300
+F 0 "SW?" H 14250 6685 50  0000 C CNN
+F 1 "\\" H 14250 6594 50  0000 C CNN
+F 2 "" H 14250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 6600 50  0001 C CNN
+	1    14250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F4CB
+P 14750 6750
+F 0 "D?" V 14796 6670 50  0000 R CNN
+F 1 "1N4148W" V 14705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 14750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 14750 6750 50  0001 C CNN
+	1    14750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14450 6200 14750 6200
+Wire Wire Line
+	14750 6200 14750 6600
+Wire Wire Line
+	15450 6300 16050 6300
+Wire Wire Line
+	14750 6900 14750 7000
+Wire Wire Line
+	14050 6200 14000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F4D6
+P 16250 6300
+F 0 "SW?" H 16250 6685 50  0000 C CNN
+F 1 "Shift" H 16250 6594 50  0000 C CNN
+F 2 "" H 16250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16250 6600 50  0001 C CNN
+	1    16250 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	16450 6200 16750 6200
+Wire Wire Line
+	16750 6200 16750 6600
+Wire Wire Line
+	16750 6900 16750 7000
+Wire Wire Line
+	16050 6200 16000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F51A
+P 19250 6300
+F 0 "SW?" H 19250 6685 50  0000 C CNN
+F 1 "Up" H 19250 6594 50  0000 C CNN
+F 2 "" H 19250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19250 6600 50  0001 C CNN
+	1    19250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F520
+P 19750 6750
+F 0 "D?" V 19796 6670 50  0000 R CNN
+F 1 "1N4148W" V 19705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 19750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 19750 6750 50  0001 C CNN
+	1    19750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	19450 6200 19750 6200
+Wire Wire Line
+	19750 6200 19750 6600
+Wire Wire Line
+	19750 6900 19750 7000
+Wire Wire Line
+	19050 6200 19000 6200
+Wire Wire Line
+	21450 6300 22050 6300
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F53C
+P 22250 6300
+F 0 "SW?" H 22250 6685 50  0000 C CNN
+F 1 "1" H 22250 6594 50  0000 C CNN
+F 2 "" H 22250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22250 6600 50  0001 C CNN
+	1    22250 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F542
+P 22750 6750
+F 0 "D?" V 22796 6670 50  0000 R CNN
+F 1 "1N4148W" V 22705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 22750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 22750 6750 50  0001 C CNN
+	1    22750 6750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	22450 6200 22750 6200
+Wire Wire Line
+	22750 6200 22750 6600
+Wire Wire Line
+	22750 6900 22750 7000
+Wire Wire Line
+	22050 6200 22000 6200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F580
+P 2250 7300
+F 0 "SW?" H 2250 7685 50  0000 C CNN
+F 1 "Ctrl" H 2250 7594 50  0000 C CNN
+F 2 "" H 2250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2250 7600 50  0001 C CNN
+	1    2250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F586
+P 2750 7750
+F 0 "D?" V 2796 7670 50  0000 R CNN
+F 1 "1N4148W" V 2705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2750 7750 50  0001 C CNN
+	1    2750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2450 7200 2750 7200
+Wire Wire Line
+	2750 7200 2750 7600
+Wire Wire Line
+	2450 7300 3050 7300
+Wire Wire Line
+	2750 7900 2750 8000
+Wire Wire Line
+	2050 7200 2000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F591
+P 3250 7300
+F 0 "SW?" H 3250 7685 50  0000 C CNN
+F 1 "Fn" H 3250 7594 50  0000 C CNN
+F 2 "" H 3250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3250 7600 50  0001 C CNN
+	1    3250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F597
+P 3750 7750
+F 0 "D?" V 3796 7670 50  0000 R CNN
+F 1 "1N4148W" V 3705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3750 7750 50  0001 C CNN
+	1    3750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3450 7200 3750 7200
+Wire Wire Line
+	3750 7200 3750 7600
+Wire Wire Line
+	3450 7300 4050 7300
+Wire Wire Line
+	3750 7900 3750 8000
+Wire Wire Line
+	3050 7200 3000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F5A2
+P 4250 7300
+F 0 "SW?" H 4250 7685 50  0000 C CNN
+F 1 "Win" H 4250 7594 50  0000 C CNN
+F 2 "" H 4250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 7600 50  0001 C CNN
+	1    4250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F5A8
+P 4750 7750
+F 0 "D?" V 4796 7670 50  0000 R CNN
+F 1 "1N4148W" V 4705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 7750 50  0001 C CNN
+	1    4750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4450 7200 4750 7200
+Wire Wire Line
+	4750 7200 4750 7600
+Wire Wire Line
+	4450 7300 5050 7300
+Wire Wire Line
+	4750 7900 4750 8000
+Wire Wire Line
+	4050 7200 4000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F5B3
+P 5250 7300
+F 0 "SW?" H 5250 7685 50  0000 C CNN
+F 1 "Alt" H 5250 7594 50  0000 C CNN
+F 2 "" H 5250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 7600 50  0001 C CNN
+	1    5250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F5B9
+P 5750 7750
+F 0 "D?" V 5796 7670 50  0000 R CNN
+F 1 "1N4148W" V 5705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5750 7750 50  0001 C CNN
+	1    5750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 7200 5750 7200
+Wire Wire Line
+	5750 7200 5750 7600
+Wire Wire Line
+	5750 7900 5750 8000
+Wire Wire Line
+	5050 7200 5000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F5F7
+P 9250 7300
+F 0 "SW?" H 9250 7685 50  0000 C CNN
+F 1 "SW_MEC_5G_LED" H 9250 7594 50  0000 C CNN
+F 2 "" H 9250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 7600 50  0001 C CNN
+	1    9250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F5FD
+P 9750 7750
+F 0 "D?" V 9796 7670 50  0000 R CNN
+F 1 "1N4148W" V 9705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 9750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9750 7750 50  0001 C CNN
+	1    9750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9450 7200 9750 7200
+Wire Wire Line
+	9750 7200 9750 7600
+Wire Wire Line
+	9750 7900 9750 8000
+Wire Wire Line
+	9050 7200 9000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F63B
+P 13250 7300
+F 0 "SW?" H 13250 7685 50  0000 C CNN
+F 1 "Alt" H 13250 7594 50  0000 C CNN
+F 2 "" H 13250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 7600 50  0001 C CNN
+	1    13250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F641
+P 13750 7750
+F 0 "D?" V 13796 7670 50  0000 R CNN
+F 1 "1N4148W" V 13705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 13750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 13750 7750 50  0001 C CNN
+	1    13750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13450 7200 13750 7200
+Wire Wire Line
+	13750 7200 13750 7600
+Wire Wire Line
+	13450 7300 14050 7300
+Wire Wire Line
+	13750 7900 13750 8000
+Wire Wire Line
+	13050 7200 13000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F64C
+P 14250 7300
+F 0 "SW?" H 14250 7685 50  0000 C CNN
+F 1 "Win" H 14250 7594 50  0000 C CNN
+F 2 "" H 14250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 7600 50  0001 C CNN
+	1    14250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F652
+P 14750 7750
+F 0 "D?" V 14796 7670 50  0000 R CNN
+F 1 "1N4148W" V 14705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 14750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 14750 7750 50  0001 C CNN
+	1    14750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14450 7200 14750 7200
+Wire Wire Line
+	14750 7200 14750 7600
+Wire Wire Line
+	14450 7300 15050 7300
+Wire Wire Line
+	14750 7900 14750 8000
+Wire Wire Line
+	14050 7200 14000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F65D
+P 15250 7300
+F 0 "SW?" H 15250 7685 50  0000 C CNN
+F 1 "Fn" H 15250 7594 50  0000 C CNN
+F 2 "" H 15250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15250 7600 50  0001 C CNN
+	1    15250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F663
+P 15750 7750
+F 0 "D?" V 15796 7670 50  0000 R CNN
+F 1 "1N4148W" V 15705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 15750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 15750 7750 50  0001 C CNN
+	1    15750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	15450 7200 15750 7200
+Wire Wire Line
+	15750 7200 15750 7600
+Wire Wire Line
+	15450 7300 16050 7300
+Wire Wire Line
+	15750 7900 15750 8000
+Wire Wire Line
+	15050 7200 15000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F66E
+P 16250 7300
+F 0 "SW?" H 16250 7685 50  0000 C CNN
+F 1 "Ctrl" H 16250 7594 50  0000 C CNN
+F 2 "" H 16250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16250 7600 50  0001 C CNN
+	1    16250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F674
+P 16750 7750
+F 0 "D?" V 16796 7670 50  0000 R CNN
+F 1 "1N4148W" V 16705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 16750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 16750 7750 50  0001 C CNN
+	1    16750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	16450 7200 16750 7200
+Wire Wire Line
+	16750 7200 16750 7600
+Wire Wire Line
+	17450 7300 18050 7300
+Wire Wire Line
+	16750 7900 16750 8000
+Wire Wire Line
+	16050 7200 16000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F67F
+P 18250 7300
+F 0 "SW?" H 18250 7685 50  0000 C CNN
+F 1 "Left" H 18250 7594 50  0000 C CNN
+F 2 "" H 18250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18250 7600 50  0001 C CNN
+	1    18250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F685
+P 18750 7750
+F 0 "D?" V 18796 7670 50  0000 R CNN
+F 1 "1N4148W" V 18705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 18750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 18750 7750 50  0001 C CNN
+	1    18750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	18450 7200 18750 7200
+Wire Wire Line
+	18750 7200 18750 7600
+Wire Wire Line
+	18450 7300 19050 7300
+Wire Wire Line
+	18750 7900 18750 8000
+Wire Wire Line
+	18050 7200 18000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F690
+P 19250 7300
+F 0 "SW?" H 19250 7685 50  0000 C CNN
+F 1 "Dn" H 19250 7594 50  0000 C CNN
+F 2 "" H 19250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19250 7600 50  0001 C CNN
+	1    19250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F696
+P 19750 7750
+F 0 "D?" V 19796 7670 50  0000 R CNN
+F 1 "1N4148W" V 19705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 19750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 19750 7750 50  0001 C CNN
+	1    19750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	19450 7200 19750 7200
+Wire Wire Line
+	19750 7200 19750 7600
+Wire Wire Line
+	19450 7300 20050 7300
+Wire Wire Line
+	19750 7900 19750 8000
+Wire Wire Line
+	19050 7200 19000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F6A1
+P 20250 7300
+F 0 "SW?" H 20250 7685 50  0000 C CNN
+F 1 "Right" H 20250 7594 50  0000 C CNN
+F 2 "" H 20250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20250 7600 50  0001 C CNN
+	1    20250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F6A7
+P 20750 7750
+F 0 "D?" V 20796 7670 50  0000 R CNN
+F 1 "1N4148W" V 20705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 20750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 20750 7750 50  0001 C CNN
+	1    20750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	20450 7200 20750 7200
+Wire Wire Line
+	20750 7200 20750 7600
+Wire Wire Line
+	21450 7300 22050 7300
+Wire Wire Line
+	20750 7900 20750 8000
+Wire Wire Line
+	20050 7200 20000 7200
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F6B2
+P 22250 7300
+F 0 "SW?" H 22250 7685 50  0000 C CNN
+F 1 "0" H 22250 7594 50  0000 C CNN
+F 2 "" H 22250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22250 7600 50  0001 C CNN
+	1    22250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F6B8
+P 22750 7750
+F 0 "D?" V 22796 7670 50  0000 R CNN
+F 1 "1N4148W" V 22705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 22750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 22750 7750 50  0001 C CNN
+	1    22750 7750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	22450 7200 22750 7200
+Wire Wire Line
+	22750 7200 22750 7600
+Wire Wire Line
+	22750 7900 22750 8000
+Wire Wire Line
+	22050 7200 22000 7200
+Wire Wire Line
+	25050 7200 25000 7200
+Wire Wire Line
+	25750 7900 25750 8000
+Wire Wire Line
+	25450 7300 26050 7300
+Wire Wire Line
+	25750 7200 25750 7600
+Wire Wire Line
+	25450 7200 25750 7200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F6EB
+P 25750 7750
+F 0 "D?" V 25796 7670 50  0000 R CNN
+F 1 "1N4148W" V 25705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 25750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 25750 7750 50  0001 C CNN
+	1    25750 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F6E5
+P 25250 7300
+F 0 "SW?" H 25250 7685 50  0000 C CNN
+F 1 "Enter" H 25250 7594 50  0000 C CNN
+F 2 "" H 25250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 25250 7600 50  0001 C CNN
+	1    25250 7300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24050 7200 24000 7200
+Wire Wire Line
+	24750 7900 24750 8000
+Wire Wire Line
+	24450 7300 25050 7300
+Wire Wire Line
+	24750 7200 24750 7600
+Wire Wire Line
+	24450 7200 24750 7200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F6DA
+P 24750 7750
+F 0 "D?" V 24796 7670 50  0000 R CNN
+F 1 "1N4148W" V 24705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 24750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 24750 7750 50  0001 C CNN
+	1    24750 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F6D4
+P 24250 7300
+F 0 "SW?" H 24250 7685 50  0000 C CNN
+F 1 "." H 24250 7594 50  0000 C CNN
+F 2 "" H 24250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24250 7600 50  0001 C CNN
+	1    24250 7300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23050 7200 23000 7200
+Wire Wire Line
+	23750 7900 23750 8000
+Wire Wire Line
+	23450 7300 24050 7300
+Wire Wire Line
+	23750 7200 23750 7600
+Wire Wire Line
+	23450 7200 23750 7200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F6C9
+P 23750 7750
+F 0 "D?" V 23796 7670 50  0000 R CNN
+F 1 "1N4148W" V 23705 7670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 23750 7575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 23750 7750 50  0001 C CNN
+	1    23750 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F6C3
+P 23250 7300
+F 0 "SW?" H 23250 7685 50  0000 C CNN
+F 1 "00" H 23250 7594 50  0000 C CNN
+F 2 "" H 23250 7600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23250 7600 50  0001 C CNN
+	1    23250 7300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22450 7300 23050 7300
+Wire Wire Line
+	25050 6200 25000 6200
+Wire Wire Line
+	25750 6900 25750 7000
+Wire Wire Line
+	25450 6300 26050 6300
+Wire Wire Line
+	25750 6200 25750 6600
+Wire Wire Line
+	25450 6200 25750 6200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F575
+P 25750 6750
+F 0 "D?" V 25796 6670 50  0000 R CNN
+F 1 "1N4148W" V 25705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 25750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 25750 6750 50  0001 C CNN
+	1    25750 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F56F
+P 25250 6300
+F 0 "SW?" H 25250 6685 50  0000 C CNN
+F 1 "=" H 25250 6594 50  0000 C CNN
+F 2 "" H 25250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 25250 6600 50  0001 C CNN
+	1    25250 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24050 6200 24000 6200
+Wire Wire Line
+	24750 6900 24750 7000
+Wire Wire Line
+	24450 6300 25050 6300
+Wire Wire Line
+	24750 6200 24750 6600
+Wire Wire Line
+	24450 6200 24750 6200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F564
+P 24750 6750
+F 0 "D?" V 24796 6670 50  0000 R CNN
+F 1 "1N4148W" V 24705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 24750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 24750 6750 50  0001 C CNN
+	1    24750 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F55E
+P 24250 6300
+F 0 "SW?" H 24250 6685 50  0000 C CNN
+F 1 "3" H 24250 6594 50  0000 C CNN
+F 2 "" H 24250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24250 6600 50  0001 C CNN
+	1    24250 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23050 6200 23000 6200
+Wire Wire Line
+	23750 6900 23750 7000
+Wire Wire Line
+	23450 6300 24050 6300
+Wire Wire Line
+	23750 6200 23750 6600
+Wire Wire Line
+	23450 6200 23750 6200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F553
+P 23750 6750
+F 0 "D?" V 23796 6670 50  0000 R CNN
+F 1 "1N4148W" V 23705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 23750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 23750 6750 50  0001 C CNN
+	1    23750 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F54D
+P 23250 6300
+F 0 "SW?" H 23250 6685 50  0000 C CNN
+F 1 "2" H 23250 6594 50  0000 C CNN
+F 2 "" H 23250 6600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23250 6600 50  0001 C CNN
+	1    23250 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22450 6300 23050 6300
+Wire Wire Line
+	25050 5200 25000 5200
+Wire Wire Line
+	25750 5900 25750 6000
+Wire Wire Line
+	25450 5300 26050 5300
+Wire Wire Line
+	25750 5200 25750 5600
+Wire Wire Line
+	25450 5200 25750 5200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F3FF
+P 25750 5750
+F 0 "D?" V 25796 5670 50  0000 R CNN
+F 1 "1N4148W" V 25705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 25750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 25750 5750 50  0001 C CNN
+	1    25750 5750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F3F9
+P 25250 5300
+F 0 "SW?" H 25250 5685 50  0000 C CNN
+F 1 "+" H 25250 5594 50  0000 C CNN
+F 2 "" H 25250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 25250 5600 50  0001 C CNN
+	1    25250 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24050 5200 24000 5200
+Wire Wire Line
+	24750 5900 24750 6000
+Wire Wire Line
+	24450 5300 25050 5300
+Wire Wire Line
+	24750 5200 24750 5600
+Wire Wire Line
+	24450 5200 24750 5200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F3EE
+P 24750 5750
+F 0 "D?" V 24796 5670 50  0000 R CNN
+F 1 "1N4148W" V 24705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 24750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 24750 5750 50  0001 C CNN
+	1    24750 5750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F3E8
+P 24250 5300
+F 0 "SW?" H 24250 5685 50  0000 C CNN
+F 1 "6" H 24250 5594 50  0000 C CNN
+F 2 "" H 24250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24250 5600 50  0001 C CNN
+	1    24250 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23050 5200 23000 5200
+Wire Wire Line
+	23750 5900 23750 6000
+Wire Wire Line
+	23450 5300 24050 5300
+Wire Wire Line
+	23750 5200 23750 5600
+Wire Wire Line
+	23450 5200 23750 5200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F3DD
+P 23750 5750
+F 0 "D?" V 23796 5670 50  0000 R CNN
+F 1 "1N4148W" V 23705 5670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 23750 5575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 23750 5750 50  0001 C CNN
+	1    23750 5750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6107F3D7
+P 23250 5300
+F 0 "SW?" H 23250 5685 50  0000 C CNN
+F 1 "5" H 23250 5594 50  0000 C CNN
+F 2 "" H 23250 5600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23250 5600 50  0001 C CNN
+	1    23250 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22450 5300 23050 5300
+Wire Wire Line
+	25050 4200 25000 4200
+Wire Wire Line
+	25750 4900 25750 5000
+Wire Wire Line
+	25450 4300 26050 4300
+Wire Wire Line
+	25750 4200 25750 4600
+Wire Wire Line
+	25450 4200 25750 4200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D667
+P 25750 4750
+F 0 "D?" V 25796 4670 50  0000 R CNN
+F 1 "1N4148W" V 25705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 25750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 25750 4750 50  0001 C CNN
+	1    25750 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D661
+P 25250 4300
+F 0 "SW?" H 25250 4685 50  0000 C CNN
+F 1 "-" H 25250 4594 50  0000 C CNN
+F 2 "" H 25250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 25250 4600 50  0001 C CNN
+	1    25250 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24050 4200 24000 4200
+Wire Wire Line
+	24750 4900 24750 5000
+Wire Wire Line
+	24450 4300 25050 4300
+Wire Wire Line
+	24750 4200 24750 4600
+Wire Wire Line
+	24450 4200 24750 4200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D656
+P 24750 4750
+F 0 "D?" V 24796 4670 50  0000 R CNN
+F 1 "1N4148W" V 24705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 24750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 24750 4750 50  0001 C CNN
+	1    24750 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D650
+P 24250 4300
+F 0 "SW?" H 24250 4685 50  0000 C CNN
+F 1 "9" H 24250 4594 50  0000 C CNN
+F 2 "" H 24250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24250 4600 50  0001 C CNN
+	1    24250 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23050 4200 23000 4200
+Wire Wire Line
+	23750 4900 23750 5000
+Wire Wire Line
+	23450 4300 24050 4300
+Wire Wire Line
+	23750 4200 23750 4600
+Wire Wire Line
+	23450 4200 23750 4200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6101D645
+P 23750 4750
+F 0 "D?" V 23796 4670 50  0000 R CNN
+F 1 "1N4148W" V 23705 4670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 23750 4575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 23750 4750 50  0001 C CNN
+	1    23750 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6101D63F
+P 23250 4300
+F 0 "SW?" H 23250 4685 50  0000 C CNN
+F 1 "8" H 23250 4594 50  0000 C CNN
+F 2 "" H 23250 4600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23250 4600 50  0001 C CNN
+	1    23250 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22450 4300 23050 4300
+Wire Wire Line
+	25050 3200 25000 3200
+Wire Wire Line
+	25750 3900 25750 4000
+Wire Wire Line
+	25450 3300 26050 3300
+Wire Wire Line
+	25750 3200 25750 3600
+Wire Wire Line
+	25450 3200 25750 3200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FE21
+P 25750 3750
+F 0 "D?" V 25796 3670 50  0000 R CNN
+F 1 "1N4148W" V 25705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 25750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 25750 3750 50  0001 C CNN
+	1    25750 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FE1B
+P 25250 3300
+F 0 "SW?" H 25250 3685 50  0000 C CNN
+F 1 "Tab" H 25250 3594 50  0000 C CNN
+F 2 "" H 25250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 25250 3600 50  0001 C CNN
+	1    25250 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24050 3200 24000 3200
+Wire Wire Line
+	24750 3900 24750 4000
+Wire Wire Line
+	24450 3300 25050 3300
+Wire Wire Line
+	24750 3200 24750 3600
+Wire Wire Line
+	24450 3200 24750 3200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FE10
+P 24750 3750
+F 0 "D?" V 24796 3670 50  0000 R CNN
+F 1 "1N4148W" V 24705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 24750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 24750 3750 50  0001 C CNN
+	1    24750 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FE0A
+P 24250 3300
+F 0 "SW?" H 24250 3685 50  0000 C CNN
+F 1 "*" H 24250 3594 50  0000 C CNN
+F 2 "" H 24250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24250 3600 50  0001 C CNN
+	1    24250 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23050 3200 23000 3200
+Wire Wire Line
+	23750 3900 23750 4000
+Wire Wire Line
+	23450 3300 24050 3300
+Wire Wire Line
+	23750 3200 23750 3600
+Wire Wire Line
+	23450 3200 23750 3200
+$Comp
+L Diode:1N4148W D?
+U 1 1 6100FDFF
+P 23750 3750
+F 0 "D?" V 23796 3670 50  0000 R CNN
+F 1 "1N4148W" V 23705 3670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 23750 3575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 23750 3750 50  0001 C CNN
+	1    23750 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 6100FDF9
+P 23250 3300
+F 0 "SW?" H 23250 3685 50  0000 C CNN
+F 1 "/" H 23250 3594 50  0000 C CNN
+F 2 "" H 23250 3600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23250 3600 50  0001 C CNN
+	1    23250 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22450 3300 23050 3300
+Wire Wire Line
+	7750 6900 7750 7000
+Wire Wire Line
+	9050 7300 5450 7300
+Wire Wire Line
+	9450 7300 13050 7300
+$Comp
+L Diode:1N4148W D?
+U 1 1 6107F4DC
+P 16750 6750
+F 0 "D?" V 16796 6670 50  0000 R CNN
+F 1 "1N4148W" V 16705 6670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 16750 6575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 16750 6750 50  0001 C CNN
+	1    16750 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_SPDT SW?
+U 1 1 619377EA
+P 22250 1750
+F 0 "SW?" H 22250 2035 50  0000 C CNN
+F 1 "SW_SPDT" H 22250 1944 50  0000 C CNN
+F 2 "" H 22250 1750 50  0001 C CNN
+F 3 "~" H 22250 1750 50  0001 C CNN
+	1    22250 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6193DEF3
+P 22500 2000
+F 0 "#PWR?" H 22500 1750 50  0001 C CNN
+F 1 "GND" H 22505 1827 50  0000 C CNN
+F 2 "" H 22500 2000 50  0001 C CNN
+F 3 "" H 22500 2000 50  0001 C CNN
+	1    22500 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22500 2000 22500 1850
+Wire Wire Line
+	22500 1850 22450 1850
+$Comp
+L Device:LED D?
+U 1 1 6198791D
+P 21750 2050
+F 0 "D?" V 21789 1932 50  0000 R CNN
+F 1 "NumLock_LED" V 21698 1932 50  0000 R CNN
+F 2 "" H 21750 2050 50  0001 C CNN
+F 3 "~" H 21750 2050 50  0001 C CNN
+	1    21750 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 619D2CF8
+P 21750 2500
+F 0 "R?" H 21820 2546 50  0000 L CNN
+F 1 "R" H 21820 2455 50  0000 L CNN
+F 2 "" V 21680 2500 50  0001 C CNN
+F 3 "~" H 21750 2500 50  0001 C CNN
+	1    21750 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	21750 2350 21750 2200
+$Comp
+L power:GND #PWR?
+U 1 1 61A1C997
+P 21750 2800
+F 0 "#PWR?" H 21750 2550 50  0001 C CNN
+F 1 "GND" H 21755 2627 50  0000 C CNN
+F 2 "" H 21750 2800 50  0001 C CNN
+F 3 "" H 21750 2800 50  0001 C CNN
+	1    21750 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	21750 2800 21750 2650
+Wire Wire Line
+	22050 1750 21750 1750
+Wire Wire Line
+	21750 1750 21750 1900
+Connection ~ 21750 1750
+Text GLabel 21450 1750 0    50   Input ~ 0
+NumLock
+$Comp
+L power:+5V #PWR?
+U 1 1 61AFD27F
+P 22500 1250
+F 0 "#PWR?" H 22500 1100 50  0001 C CNN
+F 1 "+5V" H 22515 1423 50  0000 C CNN
+F 2 "" H 22500 1250 50  0001 C CNN
+F 3 "" H 22500 1250 50  0001 C CNN
+	1    22500 1250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22500 1250 22500 1650
+Wire Wire Line
+	22500 1650 22450 1650
+Wire Wire Line
+	21450 1750 21750 1750
+Wire Wire Line
+	5450 2300 6050 2300
+$Comp
+L Switch:SW_MEC_5G_LED SW?
+U 1 1 60FD248E
+P 6250 2300
+F 0 "SW?" H 6250 2685 50  0000 C CNN
+F 1 "F4" H 6250 2594 50  0000 C CNN
+F 2 "" H 6250 2600 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6250 2600 50  0001 C CNN
+	1    6250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D?
+U 1 1 60FD2494
+P 6750 2750
+F 0 "D?" V 6796 2670 50  0000 R CNN
+F 1 "1N4148W" V 6705 2670 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 2575 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 2750 50  0001 C CNN
+	1    6750 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 2200 6750 2200
+Wire Wire Line
+	6750 2200 6750 2600
+Wire Wire Line
+	6450 2300 7050 2300
+Wire Wire Line
+	6750 2900 6750 3000
+Wire Wire Line
+	6050 2200 6000 2200
+$EndSCHEMATC
