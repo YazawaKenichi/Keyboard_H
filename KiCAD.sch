@@ -19,7 +19,7 @@ U 1 1 6100FCB6
 P 6400 16800
 F 0 "SW2" H 6400 17185 50  0000 C CNN
 F 1 "Zen/Han" H 6400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 6400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6400 17100 50  0001 C CNN
 	1    6400 16800
 	1    0    0    -1  
@@ -40,8 +40,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 16700 6900 17100
 Wire Wire Line
-	6600 16800 7200 16800
-Wire Wire Line
 	6900 17400 6900 17500
 Wire Wire Line
 	6200 16700 6150 16700
@@ -51,7 +49,7 @@ U 1 1 6100FCC7
 P 7400 16800
 F 0 "SW8" H 7400 17185 50  0000 C CNN
 F 1 "1" H 7400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 7400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7400 17100 50  0001 C CNN
 	1    7400 16800
 	1    0    0    -1  
@@ -72,8 +70,6 @@ Wire Wire Line
 Wire Wire Line
 	7900 16700 7900 17100
 Wire Wire Line
-	7600 16800 8200 16800
-Wire Wire Line
 	7900 17400 7900 17500
 Wire Wire Line
 	7200 16700 7150 16700
@@ -83,7 +79,7 @@ U 1 1 6100FCD8
 P 8400 16800
 F 0 "SW13" H 8400 17185 50  0000 C CNN
 F 1 "2" H 8400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 8400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8400 17100 50  0001 C CNN
 	1    8400 16800
 	1    0    0    -1  
@@ -104,8 +100,6 @@ Wire Wire Line
 Wire Wire Line
 	8900 16700 8900 17100
 Wire Wire Line
-	8600 16800 9200 16800
-Wire Wire Line
 	8900 17400 8900 17500
 Wire Wire Line
 	8200 16700 8150 16700
@@ -115,7 +109,7 @@ U 1 1 6100FCE9
 P 9400 16800
 F 0 "SW19" H 9400 17185 50  0000 C CNN
 F 1 "3" H 9400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 9400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9400 17100 50  0001 C CNN
 	1    9400 16800
 	1    0    0    -1  
@@ -136,8 +130,6 @@ Wire Wire Line
 Wire Wire Line
 	9900 16700 9900 17100
 Wire Wire Line
-	9600 16800 10200 16800
-Wire Wire Line
 	9900 17400 9900 17500
 Wire Wire Line
 	9200 16700 9150 16700
@@ -147,7 +139,7 @@ U 1 1 6100FCFA
 P 10400 16800
 F 0 "SW25" H 10400 17185 50  0000 C CNN
 F 1 "4" H 10400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 10400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10400 17100 50  0001 C CNN
 	1    10400 16800
 	1    0    0    -1  
@@ -168,8 +160,6 @@ Wire Wire Line
 Wire Wire Line
 	10900 16700 10900 17100
 Wire Wire Line
-	10600 16800 11200 16800
-Wire Wire Line
 	10900 17400 10900 17500
 Wire Wire Line
 	10200 16700 10150 16700
@@ -179,7 +169,7 @@ U 1 1 6100FD0B
 P 11400 16800
 F 0 "SW29" H 11400 17185 50  0000 C CNN
 F 1 "5" H 11400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 11400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11400 17100 50  0001 C CNN
 	1    11400 16800
 	1    0    0    -1  
@@ -200,8 +190,6 @@ Wire Wire Line
 Wire Wire Line
 	11900 16700 11900 17100
 Wire Wire Line
-	11600 16800 12200 16800
-Wire Wire Line
 	11900 17400 11900 17500
 Wire Wire Line
 	11200 16700 11150 16700
@@ -211,7 +199,7 @@ U 1 1 6100FD1C
 P 12400 16800
 F 0 "SW34" H 12400 17185 50  0000 C CNN
 F 1 "6" H 12400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 12400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12400 17100 50  0001 C CNN
 	1    12400 16800
 	1    0    0    -1  
@@ -232,8 +220,6 @@ Wire Wire Line
 Wire Wire Line
 	12900 16700 12900 17100
 Wire Wire Line
-	12600 16800 13200 16800
-Wire Wire Line
 	12900 17400 12900 17500
 Wire Wire Line
 	12200 16700 12150 16700
@@ -243,7 +229,7 @@ U 1 1 6100FD2D
 P 13400 16800
 F 0 "SW39" H 13400 17185 50  0000 C CNN
 F 1 "7" H 13400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 13400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13400 17100 50  0001 C CNN
 	1    13400 16800
 	1    0    0    -1  
@@ -264,8 +250,6 @@ Wire Wire Line
 Wire Wire Line
 	13900 16700 13900 17100
 Wire Wire Line
-	13600 16800 14200 16800
-Wire Wire Line
 	13900 17400 13900 17500
 Wire Wire Line
 	13200 16700 13150 16700
@@ -275,7 +259,7 @@ U 1 1 6100FD3E
 P 14400 16800
 F 0 "SW45" H 14400 17185 50  0000 C CNN
 F 1 "8" H 14400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 14400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14400 17100 50  0001 C CNN
 	1    14400 16800
 	1    0    0    -1  
@@ -296,8 +280,6 @@ Wire Wire Line
 Wire Wire Line
 	14900 16700 14900 17100
 Wire Wire Line
-	14600 16800 15200 16800
-Wire Wire Line
 	14900 17400 14900 17500
 Wire Wire Line
 	14200 16700 14150 16700
@@ -307,7 +289,7 @@ U 1 1 6100FD4F
 P 15400 16800
 F 0 "SW50" H 15400 17185 50  0000 C CNN
 F 1 "9" H 15400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 15400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15400 17100 50  0001 C CNN
 	1    15400 16800
 	1    0    0    -1  
@@ -328,8 +310,6 @@ Wire Wire Line
 Wire Wire Line
 	15900 16700 15900 17100
 Wire Wire Line
-	15600 16800 16200 16800
-Wire Wire Line
 	15900 17400 15900 17500
 Wire Wire Line
 	15200 16700 15150 16700
@@ -339,7 +319,7 @@ U 1 1 6100FD60
 P 16400 16800
 F 0 "SW54" H 16400 17185 50  0000 C CNN
 F 1 "0" H 16400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 16400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16400 17100 50  0001 C CNN
 	1    16400 16800
 	1    0    0    -1  
@@ -369,7 +349,7 @@ U 1 1 6100FD71
 P 17400 16800
 F 0 "SW59" H 17400 17185 50  0000 C CNN
 F 1 "-" H 17400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 17400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 17400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 17400 17100 50  0001 C CNN
 	1    17400 16800
 	1    0    0    -1  
@@ -390,8 +370,6 @@ Wire Wire Line
 Wire Wire Line
 	17900 16700 17900 17100
 Wire Wire Line
-	17600 16800 18200 16800
-Wire Wire Line
 	17900 17400 17900 17500
 Wire Wire Line
 	17200 16700 17150 16700
@@ -401,7 +379,7 @@ U 1 1 6100FD82
 P 18400 16800
 F 0 "SW65" H 18400 17185 50  0000 C CNN
 F 1 "^" H 18400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 18400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18400 17100 50  0001 C CNN
 	1    18400 16800
 	1    0    0    -1  
@@ -422,8 +400,6 @@ Wire Wire Line
 Wire Wire Line
 	18900 16700 18900 17100
 Wire Wire Line
-	18600 16800 19200 16800
-Wire Wire Line
 	18900 17400 18900 17500
 Wire Wire Line
 	18200 16700 18150 16700
@@ -433,7 +409,7 @@ U 1 1 6100FD93
 P 19400 16800
 F 0 "SW71" H 19400 17185 50  0000 C CNN
 F 1 "\\" H 19400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 19400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19400 17100 50  0001 C CNN
 	1    19400 16800
 	1    0    0    -1  
@@ -463,7 +439,7 @@ U 1 1 6100FDA4
 P 20400 16800
 F 0 "SW74" H 20400 17185 50  0000 C CNN
 F 1 "BS" H 20400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 20400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20400 17100 50  0001 C CNN
 	1    20400 16800
 	1    0    0    -1  
@@ -487,7 +463,7 @@ U 1 1 6100FDB5
 P 22400 16800
 F 0 "SW78" H 22400 17185 50  0000 C CNN
 F 1 "PrtSc" H 22400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 22400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 22400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22400 17100 50  0001 C CNN
 	1    22400 16800
 	1    0    0    -1  
@@ -508,8 +484,6 @@ Wire Wire Line
 Wire Wire Line
 	22900 16700 22900 17100
 Wire Wire Line
-	22600 16800 23200 16800
-Wire Wire Line
 	22900 17400 22900 17500
 Wire Wire Line
 	22200 16700 22150 16700
@@ -519,7 +493,7 @@ U 1 1 6100FDC6
 P 23400 16800
 F 0 "SW81" H 23400 17185 50  0000 C CNN
 F 1 "Home" H 23400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 23400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 23400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23400 17100 50  0001 C CNN
 	1    23400 16800
 	1    0    0    -1  
@@ -540,8 +514,6 @@ Wire Wire Line
 Wire Wire Line
 	23900 16700 23900 17100
 Wire Wire Line
-	23600 16800 24200 16800
-Wire Wire Line
 	23900 17400 23900 17500
 Wire Wire Line
 	23200 16700 23150 16700
@@ -551,7 +523,7 @@ U 1 1 6100FDD7
 P 24400 16800
 F 0 "SW85" H 24400 17185 50  0000 C CNN
 F 1 "PgUp" H 24400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 24400 17100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 24400 17100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24400 17100 50  0001 C CNN
 	1    24400 16800
 	1    0    0    -1  
@@ -576,42 +548,12 @@ Wire Wire Line
 Wire Wire Line
 	24200 16700 24150 16700
 $Comp
-L Switch:SW_MEC_5G_LED SW88
-U 1 1 6100FDE8
-P 26400 16800
-F 0 "SW88" H 26400 17185 50  0000 C CNN
-F 1 "BS" H 26400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 26400 17100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 26400 17100 50  0001 C CNN
-	1    26400 16800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148W D88
-U 1 1 6100FDEE
-P 26900 17250
-F 0 "D88" V 26946 17170 50  0000 R CNN
-F 1 "1N4148W" V 26855 17170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 26900 17075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 26900 17250 50  0001 C CNN
-	1    26900 17250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	26600 16700 26900 16700
-Wire Wire Line
-	26900 16700 26900 17100
-Wire Wire Line
-	26900 17400 26900 17500
-Wire Wire Line
-	26200 16700 26150 16700
-$Comp
 L Switch:SW_MEC_5G_LED SW3
 U 1 1 6101D4FC
 P 6400 17800
 F 0 "SW3" H 6400 18185 50  0000 C CNN
 F 1 "Tab" H 6400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 6400 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6400 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6400 18100 50  0001 C CNN
 	1    6400 17800
 	1    0    0    -1  
@@ -641,7 +583,7 @@ U 1 1 6101D5EA
 P 20400 17800
 F 0 "SW75" H 20400 18185 50  0000 C CNN
 F 1 "Enter" H 20400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 20400 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20400 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20400 18100 50  0001 C CNN
 	1    20400 17800
 	1    0    0    -1  
@@ -669,7 +611,7 @@ U 1 1 6101D5FB
 P 22400 17800
 F 0 "SW79" H 22400 18185 50  0000 C CNN
 F 1 "Delete" H 22400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 22400 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 22400 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22400 18100 50  0001 C CNN
 	1    22400 17800
 	1    0    0    -1  
@@ -690,22 +632,9 @@ Wire Wire Line
 Wire Wire Line
 	22900 17700 22900 18100
 Wire Wire Line
-	22600 17800 23200 17800
-Wire Wire Line
 	22900 18400 22900 18500
 Wire Wire Line
 	22200 17700 22150 17700
-$Comp
-L Switch:SW_MEC_5G_LED SW82
-U 1 1 6101D60C
-P 23400 17800
-F 0 "SW82" H 23400 18185 50  0000 C CNN
-F 1 "End" H 23400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 23400 18100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23400 18100 50  0001 C CNN
-	1    23400 17800
-	1    0    0    -1  
-$EndComp
 $Comp
 L Diode:1N4148W D82
 U 1 1 6101D612
@@ -722,8 +651,6 @@ Wire Wire Line
 Wire Wire Line
 	23900 17700 23900 18100
 Wire Wire Line
-	23600 17800 24200 17800
-Wire Wire Line
 	23900 18400 23900 18500
 Wire Wire Line
 	23200 17700 23150 17700
@@ -733,7 +660,7 @@ U 1 1 6101D61D
 P 24400 17800
 F 0 "SW86" H 24400 18185 50  0000 C CNN
 F 1 "PgDn" H 24400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 24400 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 24400 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24400 18100 50  0001 C CNN
 	1    24400 17800
 	1    0    0    -1  
@@ -758,42 +685,12 @@ Wire Wire Line
 Wire Wire Line
 	24200 17700 24150 17700
 $Comp
-L Switch:SW_MEC_5G_LED SW89
-U 1 1 6101D62E
-P 26400 17800
-F 0 "SW89" H 26400 18185 50  0000 C CNN
-F 1 "7" H 26400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 26400 18100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 26400 18100 50  0001 C CNN
-	1    26400 17800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148W D89
-U 1 1 6101D634
-P 26900 18250
-F 0 "D89" V 26946 18170 50  0000 R CNN
-F 1 "1N4148W" V 26855 18170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 26900 18075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 26900 18250 50  0001 C CNN
-	1    26900 18250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	26600 17700 26900 17700
-Wire Wire Line
-	26900 17700 26900 18100
-Wire Wire Line
-	26900 18400 26900 18500
-Wire Wire Line
-	26200 17700 26150 17700
-$Comp
 L Switch:SW_MEC_5G_LED SW4
 U 1 1 6107F294
 P 6400 18800
 F 0 "SW4" H 6400 19185 50  0000 C CNN
 F 1 "CaptLock" H 6400 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 6400 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6400 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6400 19100 50  0001 C CNN
 	1    6400 18800
 	1    0    0    -1  
@@ -818,42 +715,12 @@ Wire Wire Line
 Wire Wire Line
 	6200 18700 6150 18700
 $Comp
-L Switch:SW_MEC_5G_LED SW90
-U 1 1 6107F3C6
-P 26400 18800
-F 0 "SW90" H 26400 19185 50  0000 C CNN
-F 1 "4" H 26400 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 26400 19100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 26400 19100 50  0001 C CNN
-	1    26400 18800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148W D90
-U 1 1 6107F3CC
-P 26900 19250
-F 0 "D90" V 26946 19170 50  0000 R CNN
-F 1 "1N4148W" V 26855 19170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 26900 19075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 26900 19250 50  0001 C CNN
-	1    26900 19250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	26600 18700 26900 18700
-Wire Wire Line
-	26900 18700 26900 19100
-Wire Wire Line
-	26900 19400 26900 19500
-Wire Wire Line
-	26200 18700 26150 18700
-$Comp
 L Switch:SW_MEC_5G_LED SW5
 U 1 1 6107F40A
 P 6400 19800
 F 0 "SW5" H 6400 20185 50  0000 C CNN
 F 1 "Shift" H 6400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 6400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6400 20100 50  0001 C CNN
 	1    6400 19800
 	1    0    0    -1  
@@ -883,7 +750,7 @@ U 1 1 6107F41B
 P 8400 19800
 F 0 "SW14" H 8400 20185 50  0000 C CNN
 F 1 "Z" H 8400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 8400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8400 20100 50  0001 C CNN
 	1    8400 19800
 	1    0    0    -1  
@@ -904,8 +771,6 @@ Wire Wire Line
 Wire Wire Line
 	8900 19700 8900 20100
 Wire Wire Line
-	8600 19800 9200 19800
-Wire Wire Line
 	8900 20400 8900 20500
 Wire Wire Line
 	8200 19700 8150 19700
@@ -915,7 +780,7 @@ U 1 1 6107F42C
 P 9400 19800
 F 0 "SW20" H 9400 20185 50  0000 C CNN
 F 1 "X" H 9400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 9400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9400 20100 50  0001 C CNN
 	1    9400 19800
 	1    0    0    -1  
@@ -936,8 +801,6 @@ Wire Wire Line
 Wire Wire Line
 	9900 19700 9900 20100
 Wire Wire Line
-	9600 19800 10200 19800
-Wire Wire Line
 	9900 20400 9900 20500
 Wire Wire Line
 	9200 19700 9150 19700
@@ -947,7 +810,7 @@ U 1 1 6107F43D
 P 10400 19800
 F 0 "SW26" H 10400 20185 50  0000 C CNN
 F 1 "C" H 10400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 10400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10400 20100 50  0001 C CNN
 	1    10400 19800
 	1    0    0    -1  
@@ -968,8 +831,6 @@ Wire Wire Line
 Wire Wire Line
 	10900 19700 10900 20100
 Wire Wire Line
-	10600 19800 11200 19800
-Wire Wire Line
 	10900 20400 10900 20500
 Wire Wire Line
 	10200 19700 10150 19700
@@ -979,7 +840,7 @@ U 1 1 6107F44E
 P 11400 19800
 F 0 "SW30" H 11400 20185 50  0000 C CNN
 F 1 "V" H 11400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 11400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11400 20100 50  0001 C CNN
 	1    11400 19800
 	1    0    0    -1  
@@ -1000,8 +861,6 @@ Wire Wire Line
 Wire Wire Line
 	11900 19700 11900 20100
 Wire Wire Line
-	11600 19800 12200 19800
-Wire Wire Line
 	11200 19700 11150 19700
 $Comp
 L Switch:SW_MEC_5G_LED SW35
@@ -1009,7 +868,7 @@ U 1 1 6107F45F
 P 12400 19800
 F 0 "SW35" H 12400 20185 50  0000 C CNN
 F 1 "B" H 12400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 12400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12400 20100 50  0001 C CNN
 	1    12400 19800
 	1    0    0    -1  
@@ -1030,8 +889,6 @@ Wire Wire Line
 Wire Wire Line
 	12900 19700 12900 20100
 Wire Wire Line
-	12600 19800 13200 19800
-Wire Wire Line
 	12900 20400 12900 20500
 Wire Wire Line
 	12200 19700 12150 19700
@@ -1041,7 +898,7 @@ U 1 1 6107F470
 P 13400 19800
 F 0 "SW40" H 13400 20185 50  0000 C CNN
 F 1 "N" H 13400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 13400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13400 20100 50  0001 C CNN
 	1    13400 19800
 	1    0    0    -1  
@@ -1062,8 +919,6 @@ Wire Wire Line
 Wire Wire Line
 	13900 19700 13900 20100
 Wire Wire Line
-	13600 19800 14200 19800
-Wire Wire Line
 	13900 20400 13900 20500
 Wire Wire Line
 	13200 19700 13150 19700
@@ -1073,7 +928,7 @@ U 1 1 6107F481
 P 14400 19800
 F 0 "SW46" H 14400 20185 50  0000 C CNN
 F 1 "M" H 14400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 14400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14400 20100 50  0001 C CNN
 	1    14400 19800
 	1    0    0    -1  
@@ -1094,8 +949,6 @@ Wire Wire Line
 Wire Wire Line
 	14900 19700 14900 20100
 Wire Wire Line
-	14600 19800 15200 19800
-Wire Wire Line
 	14900 20400 14900 20500
 Wire Wire Line
 	14200 19700 14150 19700
@@ -1105,7 +958,7 @@ U 1 1 6107F492
 P 15400 19800
 F 0 "SW51" H 15400 20185 50  0000 C CNN
 F 1 "," H 15400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 15400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15400 20100 50  0001 C CNN
 	1    15400 19800
 	1    0    0    -1  
@@ -1126,8 +979,6 @@ Wire Wire Line
 Wire Wire Line
 	15900 19700 15900 20100
 Wire Wire Line
-	15600 19800 16200 19800
-Wire Wire Line
 	15900 20400 15900 20500
 Wire Wire Line
 	15200 19700 15150 19700
@@ -1137,7 +988,7 @@ U 1 1 6107F4A3
 P 16400 19800
 F 0 "SW55" H 16400 20185 50  0000 C CNN
 F 1 "." H 16400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 16400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16400 20100 50  0001 C CNN
 	1    16400 19800
 	1    0    0    -1  
@@ -1158,8 +1009,6 @@ Wire Wire Line
 Wire Wire Line
 	16900 19700 16900 20100
 Wire Wire Line
-	16600 19800 17200 19800
-Wire Wire Line
 	16900 20400 16900 20500
 Wire Wire Line
 	16200 19700 16150 19700
@@ -1169,7 +1018,7 @@ U 1 1 6107F4B4
 P 17400 19800
 F 0 "SW60" H 17400 20185 50  0000 C CNN
 F 1 "/" H 17400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 17400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 17400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 17400 20100 50  0001 C CNN
 	1    17400 19800
 	1    0    0    -1  
@@ -1199,7 +1048,7 @@ U 1 1 6107F4C5
 P 18400 19800
 F 0 "SW66" H 18400 20185 50  0000 C CNN
 F 1 "\\" H 18400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 18400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18400 20100 50  0001 C CNN
 	1    18400 19800
 	1    0    0    -1  
@@ -1229,7 +1078,7 @@ U 1 1 6107F4D6
 P 20400 19800
 F 0 "SW76" H 20400 20185 50  0000 C CNN
 F 1 "Shift" H 20400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 20400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20400 20100 50  0001 C CNN
 	1    20400 19800
 	1    0    0    -1  
@@ -1248,7 +1097,7 @@ U 1 1 6107F51A
 P 23400 19800
 F 0 "SW83" H 23400 20185 50  0000 C CNN
 F 1 "Up" H 23400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 23400 20100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 23400 20100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23400 20100 50  0001 C CNN
 	1    23400 19800
 	1    0    0    -1  
@@ -1273,42 +1122,12 @@ Wire Wire Line
 Wire Wire Line
 	23200 19700 23150 19700
 $Comp
-L Switch:SW_MEC_5G_LED SW91
-U 1 1 6107F53C
-P 26400 19800
-F 0 "SW91" H 26400 20185 50  0000 C CNN
-F 1 "1" H 26400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 26400 20100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 26400 20100 50  0001 C CNN
-	1    26400 19800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148W D91
-U 1 1 6107F542
-P 26900 20250
-F 0 "D91" V 26946 20170 50  0000 R CNN
-F 1 "1N4148W" V 26855 20170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 26900 20075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 26900 20250 50  0001 C CNN
-	1    26900 20250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	26600 19700 26900 19700
-Wire Wire Line
-	26900 19700 26900 20100
-Wire Wire Line
-	26900 20400 26900 20500
-Wire Wire Line
-	26200 19700 26150 19700
-$Comp
 L Switch:SW_MEC_5G_LED SW6
 U 1 1 6107F580
 P 6400 20800
 F 0 "SW6" H 6400 21185 50  0000 C CNN
 F 1 "Ctrl" H 6400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 6400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6400 21100 50  0001 C CNN
 	1    6400 20800
 	1    0    0    -1  
@@ -1329,8 +1148,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 20700 6900 21100
 Wire Wire Line
-	6600 20800 7200 20800
-Wire Wire Line
 	6900 21400 6900 21500
 Wire Wire Line
 	6200 20700 6150 20700
@@ -1340,7 +1157,7 @@ U 1 1 6107F591
 P 7400 20800
 F 0 "SW9" H 7400 21185 50  0000 C CNN
 F 1 "Fn" H 7400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 7400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7400 21100 50  0001 C CNN
 	1    7400 20800
 	1    0    0    -1  
@@ -1361,8 +1178,6 @@ Wire Wire Line
 Wire Wire Line
 	7900 20700 7900 21100
 Wire Wire Line
-	7600 20800 8200 20800
-Wire Wire Line
 	7900 21400 7900 21500
 Wire Wire Line
 	7200 20700 7150 20700
@@ -1372,7 +1187,7 @@ U 1 1 6107F5A2
 P 8400 20800
 F 0 "SW15" H 8400 21185 50  0000 C CNN
 F 1 "Win" H 8400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 8400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8400 21100 50  0001 C CNN
 	1    8400 20800
 	1    0    0    -1  
@@ -1393,8 +1208,6 @@ Wire Wire Line
 Wire Wire Line
 	8900 20700 8900 21100
 Wire Wire Line
-	8600 20800 9200 20800
-Wire Wire Line
 	8900 21400 8900 21500
 Wire Wire Line
 	8200 20700 8150 20700
@@ -1404,7 +1217,7 @@ U 1 1 6107F5B3
 P 9400 20800
 F 0 "SW21" H 9400 21185 50  0000 C CNN
 F 1 "Alt" H 9400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 9400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9400 21100 50  0001 C CNN
 	1    9400 20800
 	1    0    0    -1  
@@ -1433,8 +1246,8 @@ L Switch:SW_MEC_5G_LED SW41
 U 1 1 6107F5F7
 P 13400 20800
 F 0 "SW41" H 13400 21185 50  0000 C CNN
-F 1 "SW_MEC_5G_LED" H 13400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 13400 21100 50  0001 C CNN
+F 1 "Space" H 13400 21094 50  0000 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13400 21100 50  0001 C CNN
 	1    13400 20800
 	1    0    0    -1  
@@ -1464,7 +1277,7 @@ U 1 1 6107F63B
 P 17400 20800
 F 0 "SW61" H 17400 21185 50  0000 C CNN
 F 1 "Alt" H 17400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 17400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 17400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 17400 21100 50  0001 C CNN
 	1    17400 20800
 	1    0    0    -1  
@@ -1485,8 +1298,6 @@ Wire Wire Line
 Wire Wire Line
 	17900 20700 17900 21100
 Wire Wire Line
-	17600 20800 18200 20800
-Wire Wire Line
 	17900 21400 17900 21500
 Wire Wire Line
 	17200 20700 17150 20700
@@ -1496,7 +1307,7 @@ U 1 1 6107F64C
 P 18400 20800
 F 0 "SW67" H 18400 21185 50  0000 C CNN
 F 1 "Win" H 18400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 18400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18400 21100 50  0001 C CNN
 	1    18400 20800
 	1    0    0    -1  
@@ -1517,8 +1328,6 @@ Wire Wire Line
 Wire Wire Line
 	18900 20700 18900 21100
 Wire Wire Line
-	18600 20800 19200 20800
-Wire Wire Line
 	18900 21400 18900 21500
 Wire Wire Line
 	18200 20700 18150 20700
@@ -1528,7 +1337,7 @@ U 1 1 6107F65D
 P 19400 20800
 F 0 "SW72" H 19400 21185 50  0000 C CNN
 F 1 "Fn" H 19400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 19400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19400 21100 50  0001 C CNN
 	1    19400 20800
 	1    0    0    -1  
@@ -1549,8 +1358,6 @@ Wire Wire Line
 Wire Wire Line
 	19900 20700 19900 21100
 Wire Wire Line
-	19600 20800 20200 20800
-Wire Wire Line
 	19900 21400 19900 21500
 Wire Wire Line
 	19200 20700 19150 20700
@@ -1560,7 +1367,7 @@ U 1 1 6107F66E
 P 20400 20800
 F 0 "SW77" H 20400 21185 50  0000 C CNN
 F 1 "Ctrl" H 20400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 20400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20400 21100 50  0001 C CNN
 	1    20400 20800
 	1    0    0    -1  
@@ -1590,7 +1397,7 @@ U 1 1 6107F67F
 P 22400 20800
 F 0 "SW80" H 22400 21185 50  0000 C CNN
 F 1 "Left" H 22400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 22400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 22400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 22400 21100 50  0001 C CNN
 	1    22400 20800
 	1    0    0    -1  
@@ -1611,8 +1418,6 @@ Wire Wire Line
 Wire Wire Line
 	22900 20700 22900 21100
 Wire Wire Line
-	22600 20800 23200 20800
-Wire Wire Line
 	22900 21400 22900 21500
 Wire Wire Line
 	22200 20700 22150 20700
@@ -1622,7 +1427,7 @@ U 1 1 6107F690
 P 23400 20800
 F 0 "SW84" H 23400 21185 50  0000 C CNN
 F 1 "Dn" H 23400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 23400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 23400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23400 21100 50  0001 C CNN
 	1    23400 20800
 	1    0    0    -1  
@@ -1643,8 +1448,6 @@ Wire Wire Line
 Wire Wire Line
 	23900 20700 23900 21100
 Wire Wire Line
-	23600 20800 24200 20800
-Wire Wire Line
 	23900 21400 23900 21500
 Wire Wire Line
 	23200 20700 23150 20700
@@ -1654,7 +1457,7 @@ U 1 1 6107F6A1
 P 24400 20800
 F 0 "SW87" H 24400 21185 50  0000 C CNN
 F 1 "Right" H 24400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 24400 21100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 24400 21100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 24400 21100 50  0001 C CNN
 	1    24400 20800
 	1    0    0    -1  
@@ -1678,522 +1481,8 @@ Wire Wire Line
 	24900 21400 24900 21500
 Wire Wire Line
 	24200 20700 24150 20700
-$Comp
-L Switch:SW_MEC_5G_LED SW92
-U 1 1 6107F6B2
-P 26400 20800
-F 0 "SW92" H 26400 21185 50  0000 C CNN
-F 1 "0" H 26400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 26400 21100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 26400 21100 50  0001 C CNN
-	1    26400 20800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148W D92
-U 1 1 6107F6B8
-P 26900 21250
-F 0 "D92" V 26946 21170 50  0000 R CNN
-F 1 "1N4148W" V 26855 21170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 26900 21075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 26900 21250 50  0001 C CNN
-	1    26900 21250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	26600 20700 26900 20700
-Wire Wire Line
-	26900 20700 26900 21100
-Wire Wire Line
-	26900 21400 26900 21500
-Wire Wire Line
-	26200 20700 26150 20700
-Wire Wire Line
-	29200 20700 29150 20700
-Wire Wire Line
-	29900 21400 29900 21500
-Wire Wire Line
-	29900 20700 29900 21100
-Wire Wire Line
-	29600 20700 29900 20700
-$Comp
-L Diode:1N4148W D107
-U 1 1 6107F6EB
-P 29900 21250
-F 0 "D107" V 29946 21170 50  0000 R CNN
-F 1 "1N4148W" V 29855 21170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 29900 21075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 29900 21250 50  0001 C CNN
-	1    29900 21250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW107
-U 1 1 6107F6E5
-P 29400 20800
-F 0 "SW107" H 29400 21185 50  0000 C CNN
-F 1 "Enter" H 29400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 29400 21100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 29400 21100 50  0001 C CNN
-	1    29400 20800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	28200 20700 28150 20700
-Wire Wire Line
-	28900 21400 28900 21500
-Wire Wire Line
-	28600 20800 29200 20800
-Wire Wire Line
-	28900 20700 28900 21100
-Wire Wire Line
-	28600 20700 28900 20700
-$Comp
-L Diode:1N4148W D102
-U 1 1 6107F6DA
-P 28900 21250
-F 0 "D102" V 28946 21170 50  0000 R CNN
-F 1 "1N4148W" V 28855 21170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 28900 21075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 28900 21250 50  0001 C CNN
-	1    28900 21250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW102
-U 1 1 6107F6D4
-P 28400 20800
-F 0 "SW102" H 28400 21185 50  0000 C CNN
-F 1 "." H 28400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 28400 21100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 28400 21100 50  0001 C CNN
-	1    28400 20800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27200 20700 27150 20700
-Wire Wire Line
-	27900 21400 27900 21500
-Wire Wire Line
-	27600 20800 28200 20800
-Wire Wire Line
-	27900 20700 27900 21100
-Wire Wire Line
-	27600 20700 27900 20700
-$Comp
-L Diode:1N4148W D97
-U 1 1 6107F6C9
-P 27900 21250
-F 0 "D97" V 27946 21170 50  0000 R CNN
-F 1 "1N4148W" V 27855 21170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 27900 21075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 27900 21250 50  0001 C CNN
-	1    27900 21250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW97
-U 1 1 6107F6C3
-P 27400 20800
-F 0 "SW97" H 27400 21185 50  0000 C CNN
-F 1 "00" H 27400 21094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 27400 21100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 27400 21100 50  0001 C CNN
-	1    27400 20800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	26600 20800 27200 20800
-Wire Wire Line
-	29200 19700 29150 19700
-Wire Wire Line
-	29900 20400 29900 20500
-Wire Wire Line
-	29900 19700 29900 20100
-Wire Wire Line
-	29600 19700 29900 19700
-$Comp
-L Diode:1N4148W D106
-U 1 1 6107F575
-P 29900 20250
-F 0 "D106" V 29946 20170 50  0000 R CNN
-F 1 "1N4148W" V 29855 20170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 29900 20075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 29900 20250 50  0001 C CNN
-	1    29900 20250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW106
-U 1 1 6107F56F
-P 29400 19800
-F 0 "SW106" H 29400 20185 50  0000 C CNN
-F 1 "=" H 29400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 29400 20100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 29400 20100 50  0001 C CNN
-	1    29400 19800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	28200 19700 28150 19700
-Wire Wire Line
-	28900 20400 28900 20500
-Wire Wire Line
-	28600 19800 29200 19800
-Wire Wire Line
-	28900 19700 28900 20100
-Wire Wire Line
-	28600 19700 28900 19700
-$Comp
-L Diode:1N4148W D101
-U 1 1 6107F564
-P 28900 20250
-F 0 "D101" V 28946 20170 50  0000 R CNN
-F 1 "1N4148W" V 28855 20170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 28900 20075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 28900 20250 50  0001 C CNN
-	1    28900 20250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW101
-U 1 1 6107F55E
-P 28400 19800
-F 0 "SW101" H 28400 20185 50  0000 C CNN
-F 1 "3" H 28400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 28400 20100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 28400 20100 50  0001 C CNN
-	1    28400 19800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27200 19700 27150 19700
-Wire Wire Line
-	27900 20400 27900 20500
-Wire Wire Line
-	27600 19800 28200 19800
-Wire Wire Line
-	27900 19700 27900 20100
-Wire Wire Line
-	27600 19700 27900 19700
-$Comp
-L Diode:1N4148W D96
-U 1 1 6107F553
-P 27900 20250
-F 0 "D96" V 27946 20170 50  0000 R CNN
-F 1 "1N4148W" V 27855 20170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 27900 20075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 27900 20250 50  0001 C CNN
-	1    27900 20250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW96
-U 1 1 6107F54D
-P 27400 19800
-F 0 "SW96" H 27400 20185 50  0000 C CNN
-F 1 "2" H 27400 20094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 27400 20100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 27400 20100 50  0001 C CNN
-	1    27400 19800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	26600 19800 27200 19800
-Wire Wire Line
-	29200 18700 29150 18700
-Wire Wire Line
-	29900 19400 29900 19500
-Wire Wire Line
-	29900 18700 29900 19100
-Wire Wire Line
-	29600 18700 29900 18700
-$Comp
-L Diode:1N4148W D105
-U 1 1 6107F3FF
-P 29900 19250
-F 0 "D105" V 29946 19170 50  0000 R CNN
-F 1 "1N4148W" V 29855 19170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 29900 19075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 29900 19250 50  0001 C CNN
-	1    29900 19250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW105
-U 1 1 6107F3F9
-P 29400 18800
-F 0 "SW105" H 29400 19185 50  0000 C CNN
-F 1 "+" H 29400 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 29400 19100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 29400 19100 50  0001 C CNN
-	1    29400 18800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	28200 18700 28150 18700
-Wire Wire Line
-	28900 19400 28900 19500
-Wire Wire Line
-	28600 18800 29200 18800
-Wire Wire Line
-	28900 18700 28900 19100
-Wire Wire Line
-	28600 18700 28900 18700
-$Comp
-L Diode:1N4148W D100
-U 1 1 6107F3EE
-P 28900 19250
-F 0 "D100" V 28946 19170 50  0000 R CNN
-F 1 "1N4148W" V 28855 19170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 28900 19075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 28900 19250 50  0001 C CNN
-	1    28900 19250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW100
-U 1 1 6107F3E8
-P 28400 18800
-F 0 "SW100" H 28400 19185 50  0000 C CNN
-F 1 "6" H 28400 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 28400 19100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 28400 19100 50  0001 C CNN
-	1    28400 18800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27200 18700 27150 18700
-Wire Wire Line
-	27900 19400 27900 19500
-Wire Wire Line
-	27600 18800 28200 18800
-Wire Wire Line
-	27900 18700 27900 19100
-Wire Wire Line
-	27600 18700 27900 18700
-$Comp
-L Diode:1N4148W D95
-U 1 1 6107F3DD
-P 27900 19250
-F 0 "D95" V 27946 19170 50  0000 R CNN
-F 1 "1N4148W" V 27855 19170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 27900 19075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 27900 19250 50  0001 C CNN
-	1    27900 19250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW95
-U 1 1 6107F3D7
-P 27400 18800
-F 0 "SW95" H 27400 19185 50  0000 C CNN
-F 1 "5" H 27400 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 27400 19100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 27400 19100 50  0001 C CNN
-	1    27400 18800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	26600 18800 27200 18800
-Wire Wire Line
-	29200 17700 29150 17700
-Wire Wire Line
-	29900 18400 29900 18500
-Wire Wire Line
-	29900 17700 29900 18100
-Wire Wire Line
-	29600 17700 29900 17700
-$Comp
-L Diode:1N4148W D104
-U 1 1 6101D667
-P 29900 18250
-F 0 "D104" V 29946 18170 50  0000 R CNN
-F 1 "1N4148W" V 29855 18170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 29900 18075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 29900 18250 50  0001 C CNN
-	1    29900 18250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW104
-U 1 1 6101D661
-P 29400 17800
-F 0 "SW104" H 29400 18185 50  0000 C CNN
-F 1 "-" H 29400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 29400 18100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 29400 18100 50  0001 C CNN
-	1    29400 17800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	28200 17700 28150 17700
-Wire Wire Line
-	28900 18400 28900 18500
-Wire Wire Line
-	28600 17800 29200 17800
-Wire Wire Line
-	28900 17700 28900 18100
-Wire Wire Line
-	28600 17700 28900 17700
-$Comp
-L Diode:1N4148W D99
-U 1 1 6101D656
-P 28900 18250
-F 0 "D99" V 28946 18170 50  0000 R CNN
-F 1 "1N4148W" V 28855 18170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 28900 18075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 28900 18250 50  0001 C CNN
-	1    28900 18250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW99
-U 1 1 6101D650
-P 28400 17800
-F 0 "SW99" H 28400 18185 50  0000 C CNN
-F 1 "9" H 28400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 28400 18100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 28400 18100 50  0001 C CNN
-	1    28400 17800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27200 17700 27150 17700
-Wire Wire Line
-	27900 18400 27900 18500
-Wire Wire Line
-	27600 17800 28200 17800
-Wire Wire Line
-	27900 17700 27900 18100
-Wire Wire Line
-	27600 17700 27900 17700
-$Comp
-L Diode:1N4148W D94
-U 1 1 6101D645
-P 27900 18250
-F 0 "D94" V 27946 18170 50  0000 R CNN
-F 1 "1N4148W" V 27855 18170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 27900 18075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 27900 18250 50  0001 C CNN
-	1    27900 18250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW94
-U 1 1 6101D63F
-P 27400 17800
-F 0 "SW94" H 27400 18185 50  0000 C CNN
-F 1 "8" H 27400 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 27400 18100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 27400 18100 50  0001 C CNN
-	1    27400 17800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	26600 17800 27200 17800
-Wire Wire Line
-	29200 16700 29150 16700
-Wire Wire Line
-	29900 17400 29900 17500
-Wire Wire Line
-	29900 16700 29900 17100
-Wire Wire Line
-	29600 16700 29900 16700
-$Comp
-L Diode:1N4148W D103
-U 1 1 6100FE21
-P 29900 17250
-F 0 "D103" V 29946 17170 50  0000 R CNN
-F 1 "1N4148W" V 29855 17170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 29900 17075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 29900 17250 50  0001 C CNN
-	1    29900 17250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW103
-U 1 1 6100FE1B
-P 29400 16800
-F 0 "SW103" H 29400 17185 50  0000 C CNN
-F 1 "Tab" H 29400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 29400 17100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 29400 17100 50  0001 C CNN
-	1    29400 16800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	28200 16700 28150 16700
-Wire Wire Line
-	28900 17400 28900 17500
-Wire Wire Line
-	28600 16800 29200 16800
-Wire Wire Line
-	28900 16700 28900 17100
-Wire Wire Line
-	28600 16700 28900 16700
-$Comp
-L Diode:1N4148W D98
-U 1 1 6100FE10
-P 28900 17250
-F 0 "D98" V 28946 17170 50  0000 R CNN
-F 1 "1N4148W" V 28855 17170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 28900 17075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 28900 17250 50  0001 C CNN
-	1    28900 17250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW98
-U 1 1 6100FE0A
-P 28400 16800
-F 0 "SW98" H 28400 17185 50  0000 C CNN
-F 1 "*" H 28400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 28400 17100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 28400 17100 50  0001 C CNN
-	1    28400 16800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27200 16700 27150 16700
-Wire Wire Line
-	27900 17400 27900 17500
-Wire Wire Line
-	27600 16800 28200 16800
-Wire Wire Line
-	27900 16700 27900 17100
-Wire Wire Line
-	27600 16700 27900 16700
-$Comp
-L Diode:1N4148W D93
-U 1 1 6100FDFF
-P 27900 17250
-F 0 "D93" V 27946 17170 50  0000 R CNN
-F 1 "1N4148W" V 27855 17170 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 27900 17075 50  0001 C CNN
-F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 27900 17250 50  0001 C CNN
-	1    27900 17250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_MEC_5G_LED SW93
-U 1 1 6100FDF9
-P 27400 16800
-F 0 "SW93" H 27400 17185 50  0000 C CNN
-F 1 "/" H 27400 17094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 27400 17100 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 27400 17100 50  0001 C CNN
-	1    27400 16800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	26600 16800 27200 16800
 Wire Wire Line
 	11900 20400 11900 20500
-Wire Wire Line
-	13200 20800 9600 20800
-Wire Wire Line
-	13600 20800 17200 20800
 $Comp
 L Diode:1N4148W D75
 U 1 1 6107F4DC
@@ -2211,7 +1500,7 @@ U 1 1 6107F2A5
 P 8150 18800
 F 0 "SW11" H 8150 19185 50  0000 C CNN
 F 1 "A" H 8150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 8150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8150 19100 50  0001 C CNN
 	1    8150 18800
 	1    0    0    -1  
@@ -2232,8 +1521,6 @@ Wire Wire Line
 Wire Wire Line
 	8650 18700 8650 19100
 Wire Wire Line
-	8350 18800 8950 18800
-Wire Wire Line
 	8650 19400 8650 19500
 Wire Wire Line
 	7950 18700 7900 18700
@@ -2243,7 +1530,7 @@ U 1 1 6107F2B6
 P 9150 18800
 F 0 "SW17" H 9150 19185 50  0000 C CNN
 F 1 "S" H 9150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 9150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9150 19100 50  0001 C CNN
 	1    9150 18800
 	1    0    0    -1  
@@ -2264,8 +1551,6 @@ Wire Wire Line
 Wire Wire Line
 	9650 18700 9650 19100
 Wire Wire Line
-	9350 18800 9950 18800
-Wire Wire Line
 	9650 19400 9650 19500
 Wire Wire Line
 	8950 18700 8900 18700
@@ -2275,7 +1560,7 @@ U 1 1 6107F2C7
 P 10150 18800
 F 0 "SW23" H 10150 19185 50  0000 C CNN
 F 1 "D" H 10150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 10150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10150 19100 50  0001 C CNN
 	1    10150 18800
 	1    0    0    -1  
@@ -2296,8 +1581,6 @@ Wire Wire Line
 Wire Wire Line
 	10650 18700 10650 19100
 Wire Wire Line
-	10350 18800 10950 18800
-Wire Wire Line
 	10650 19400 10650 19500
 Wire Wire Line
 	9950 18700 9900 18700
@@ -2307,7 +1590,7 @@ U 1 1 6107F2D8
 P 11150 18800
 F 0 "SW28" H 11150 19185 50  0000 C CNN
 F 1 "F" H 11150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 11150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11150 19100 50  0001 C CNN
 	1    11150 18800
 	1    0    0    -1  
@@ -2328,8 +1611,6 @@ Wire Wire Line
 Wire Wire Line
 	11650 18700 11650 19100
 Wire Wire Line
-	11350 18800 11950 18800
-Wire Wire Line
 	11650 19400 11650 19500
 Wire Wire Line
 	10950 18700 10900 18700
@@ -2339,7 +1620,7 @@ U 1 1 6107F2E9
 P 12150 18800
 F 0 "SW32" H 12150 19185 50  0000 C CNN
 F 1 "G" H 12150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 12150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12150 19100 50  0001 C CNN
 	1    12150 18800
 	1    0    0    -1  
@@ -2360,8 +1641,6 @@ Wire Wire Line
 Wire Wire Line
 	12650 18700 12650 19100
 Wire Wire Line
-	12350 18800 12950 18800
-Wire Wire Line
 	12650 19400 12650 19500
 Wire Wire Line
 	11950 18700 11900 18700
@@ -2371,7 +1650,7 @@ U 1 1 6107F2FA
 P 13150 18800
 F 0 "SW37" H 13150 19185 50  0000 C CNN
 F 1 "H" H 13150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 13150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13150 19100 50  0001 C CNN
 	1    13150 18800
 	1    0    0    -1  
@@ -2392,8 +1671,6 @@ Wire Wire Line
 Wire Wire Line
 	13650 18700 13650 19100
 Wire Wire Line
-	13350 18800 13950 18800
-Wire Wire Line
 	13650 19400 13650 19500
 Wire Wire Line
 	12950 18700 12900 18700
@@ -2403,7 +1680,7 @@ U 1 1 6107F30B
 P 14150 18800
 F 0 "SW43" H 14150 19185 50  0000 C CNN
 F 1 "J" H 14150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 14150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14150 19100 50  0001 C CNN
 	1    14150 18800
 	1    0    0    -1  
@@ -2424,8 +1701,6 @@ Wire Wire Line
 Wire Wire Line
 	14650 18700 14650 19100
 Wire Wire Line
-	14350 18800 14950 18800
-Wire Wire Line
 	14650 19400 14650 19500
 Wire Wire Line
 	13950 18700 13900 18700
@@ -2435,7 +1710,7 @@ U 1 1 6107F31C
 P 15150 18800
 F 0 "SW48" H 15150 19185 50  0000 C CNN
 F 1 "K" H 15150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 15150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15150 19100 50  0001 C CNN
 	1    15150 18800
 	1    0    0    -1  
@@ -2456,8 +1731,6 @@ Wire Wire Line
 Wire Wire Line
 	15650 18700 15650 19100
 Wire Wire Line
-	15350 18800 15950 18800
-Wire Wire Line
 	15650 19400 15650 19500
 Wire Wire Line
 	14950 18700 14900 18700
@@ -2467,7 +1740,7 @@ U 1 1 6107F32D
 P 16150 18800
 F 0 "SW53" H 16150 19185 50  0000 C CNN
 F 1 "L" H 16150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 16150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16150 19100 50  0001 C CNN
 	1    16150 18800
 	1    0    0    -1  
@@ -2488,8 +1761,6 @@ Wire Wire Line
 Wire Wire Line
 	16650 18700 16650 19100
 Wire Wire Line
-	16350 18800 16950 18800
-Wire Wire Line
 	16650 19400 16650 19500
 Wire Wire Line
 	15950 18700 15900 18700
@@ -2499,7 +1770,7 @@ U 1 1 6107F33E
 P 17150 18800
 F 0 "SW57" H 17150 19185 50  0000 C CNN
 F 1 ";" H 17150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 17150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 17150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 17150 19100 50  0001 C CNN
 	1    17150 18800
 	1    0    0    -1  
@@ -2529,7 +1800,7 @@ U 1 1 6107F34F
 P 18150 18800
 F 0 "SW63" H 18150 19185 50  0000 C CNN
 F 1 ":" H 18150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 18150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18150 19100 50  0001 C CNN
 	1    18150 18800
 	1    0    0    -1  
@@ -2550,8 +1821,6 @@ Wire Wire Line
 Wire Wire Line
 	18650 18700 18650 19100
 Wire Wire Line
-	18350 18800 18950 18800
-Wire Wire Line
 	18650 19400 18650 19500
 Wire Wire Line
 	17950 18700 17900 18700
@@ -2561,7 +1830,7 @@ U 1 1 6107F360
 P 19150 18800
 F 0 "SW69" H 19150 19185 50  0000 C CNN
 F 1 "]" H 19150 19094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 19150 19100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19150 19100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19150 19100 50  0001 C CNN
 	1    19150 18800
 	1    0    0    -1  
@@ -2591,7 +1860,7 @@ U 1 1 6101D50D
 P 7900 17800
 F 0 "SW10" H 7900 18185 50  0000 C CNN
 F 1 "Q" H 7900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 7900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7900 18100 50  0001 C CNN
 	1    7900 17800
 	1    0    0    -1  
@@ -2612,8 +1881,6 @@ Wire Wire Line
 Wire Wire Line
 	8400 17700 8400 18100
 Wire Wire Line
-	8100 17800 8700 17800
-Wire Wire Line
 	8400 18400 8400 18500
 $Comp
 L Switch:SW_MEC_5G_LED SW16
@@ -2621,7 +1888,7 @@ U 1 1 6101D51E
 P 8900 17800
 F 0 "SW16" H 8900 18185 50  0000 C CNN
 F 1 "W" H 8900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 8900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8900 18100 50  0001 C CNN
 	1    8900 17800
 	1    0    0    -1  
@@ -2642,8 +1909,6 @@ Wire Wire Line
 Wire Wire Line
 	9400 17700 9400 18100
 Wire Wire Line
-	9100 17800 9700 17800
-Wire Wire Line
 	9400 18400 9400 18500
 Wire Wire Line
 	8700 17700 8650 17700
@@ -2653,7 +1918,7 @@ U 1 1 6101D52F
 P 9900 17800
 F 0 "SW22" H 9900 18185 50  0000 C CNN
 F 1 "E" H 9900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 9900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9900 18100 50  0001 C CNN
 	1    9900 17800
 	1    0    0    -1  
@@ -2674,8 +1939,6 @@ Wire Wire Line
 Wire Wire Line
 	10400 17700 10400 18100
 Wire Wire Line
-	10100 17800 10700 17800
-Wire Wire Line
 	10400 18400 10400 18500
 Wire Wire Line
 	9700 17700 9650 17700
@@ -2685,7 +1948,7 @@ U 1 1 6101D540
 P 10900 17800
 F 0 "SW27" H 10900 18185 50  0000 C CNN
 F 1 "R" H 10900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 10900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10900 18100 50  0001 C CNN
 	1    10900 17800
 	1    0    0    -1  
@@ -2706,8 +1969,6 @@ Wire Wire Line
 Wire Wire Line
 	11400 17700 11400 18100
 Wire Wire Line
-	11100 17800 11700 17800
-Wire Wire Line
 	11400 18400 11400 18500
 Wire Wire Line
 	10700 17700 10650 17700
@@ -2717,7 +1978,7 @@ U 1 1 6101D551
 P 11900 17800
 F 0 "SW31" H 11900 18185 50  0000 C CNN
 F 1 "T" H 11900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 11900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11900 18100 50  0001 C CNN
 	1    11900 17800
 	1    0    0    -1  
@@ -2738,8 +1999,6 @@ Wire Wire Line
 Wire Wire Line
 	12400 17700 12400 18100
 Wire Wire Line
-	12100 17800 12700 17800
-Wire Wire Line
 	12400 18400 12400 18500
 Wire Wire Line
 	11700 17700 11650 17700
@@ -2749,7 +2008,7 @@ U 1 1 6101D562
 P 12900 17800
 F 0 "SW36" H 12900 18185 50  0000 C CNN
 F 1 "Y" H 12900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 12900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12900 18100 50  0001 C CNN
 	1    12900 17800
 	1    0    0    -1  
@@ -2770,8 +2029,6 @@ Wire Wire Line
 Wire Wire Line
 	13400 17700 13400 18100
 Wire Wire Line
-	13100 17800 13700 17800
-Wire Wire Line
 	13400 18400 13400 18500
 Wire Wire Line
 	12700 17700 12650 17700
@@ -2781,7 +2038,7 @@ U 1 1 6101D573
 P 13900 17800
 F 0 "SW42" H 13900 18185 50  0000 C CNN
 F 1 "U" H 13900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 13900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13900 18100 50  0001 C CNN
 	1    13900 17800
 	1    0    0    -1  
@@ -2802,8 +2059,6 @@ Wire Wire Line
 Wire Wire Line
 	14400 17700 14400 18100
 Wire Wire Line
-	14100 17800 14700 17800
-Wire Wire Line
 	14400 18400 14400 18500
 Wire Wire Line
 	13700 17700 13650 17700
@@ -2813,7 +2068,7 @@ U 1 1 6101D584
 P 14900 17800
 F 0 "SW47" H 14900 18185 50  0000 C CNN
 F 1 "I" H 14900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 14900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14900 18100 50  0001 C CNN
 	1    14900 17800
 	1    0    0    -1  
@@ -2834,8 +2089,6 @@ Wire Wire Line
 Wire Wire Line
 	15400 17700 15400 18100
 Wire Wire Line
-	15100 17800 15700 17800
-Wire Wire Line
 	15400 18400 15400 18500
 Wire Wire Line
 	14700 17700 14650 17700
@@ -2845,7 +2098,7 @@ U 1 1 6101D595
 P 15900 17800
 F 0 "SW52" H 15900 18185 50  0000 C CNN
 F 1 "O" H 15900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 15900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15900 18100 50  0001 C CNN
 	1    15900 17800
 	1    0    0    -1  
@@ -2864,8 +2117,6 @@ $EndComp
 Wire Wire Line
 	16400 17700 16400 18100
 Wire Wire Line
-	16100 17800 16700 17800
-Wire Wire Line
 	16400 18400 16400 18500
 Wire Wire Line
 	15700 17700 15650 17700
@@ -2875,7 +2126,7 @@ U 1 1 6101D5A6
 P 16900 17800
 F 0 "SW56" H 16900 18185 50  0000 C CNN
 F 1 "P" H 16900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 16900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16900 18100 50  0001 C CNN
 	1    16900 17800
 	1    0    0    -1  
@@ -2903,7 +2154,7 @@ U 1 1 6101D5B7
 P 17900 17800
 F 0 "SW62" H 17900 18185 50  0000 C CNN
 F 1 "@" H 17900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 17900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 17900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 17900 18100 50  0001 C CNN
 	1    17900 17800
 	1    0    0    -1  
@@ -2924,8 +2175,6 @@ Wire Wire Line
 Wire Wire Line
 	18400 17700 18400 18100
 Wire Wire Line
-	18100 17800 18700 17800
-Wire Wire Line
 	18400 18400 18400 18500
 Wire Wire Line
 	17700 17700 17650 17700
@@ -2935,7 +2184,7 @@ U 1 1 6101D5C8
 P 18900 17800
 F 0 "SW68" H 18900 18185 50  0000 C CNN
 F 1 "[" H 18900 18094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 18900 18100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18900 18100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18900 18100 50  0001 C CNN
 	1    18900 17800
 	1    0    0    -1  
@@ -2965,7 +2214,7 @@ U 1 1 60FCE020
 P 6400 14800
 F 0 "SW1" H 6400 15185 50  0000 C CNN
 F 1 "Esc" H 6400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 6400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6400 15100 50  0001 C CNN
 	1    6400 14800
 	1    0    0    -1  
@@ -2986,8 +2235,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 14700 6900 15100
 Wire Wire Line
-	6600 14800 7200 14800
-Wire Wire Line
 	6900 15400 6900 15500
 Wire Wire Line
 	6200 14700 6150 14700
@@ -2997,7 +2244,7 @@ U 1 1 60FD02CE
 P 7400 14800
 F 0 "SW7" H 7400 15185 50  0000 C CNN
 F 1 "F1" H 7400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 7400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7400 15100 50  0001 C CNN
 	1    7400 14800
 	1    0    0    -1  
@@ -3018,8 +2265,6 @@ Wire Wire Line
 Wire Wire Line
 	7900 14700 7900 15100
 Wire Wire Line
-	7600 14800 8200 14800
-Wire Wire Line
 	7900 15400 7900 15500
 Wire Wire Line
 	7200 14700 7150 14700
@@ -3029,7 +2274,7 @@ U 1 1 60FD0C80
 P 8400 14800
 F 0 "SW12" H 8400 15185 50  0000 C CNN
 F 1 "F2" H 8400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 8400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8400 15100 50  0001 C CNN
 	1    8400 14800
 	1    0    0    -1  
@@ -3050,8 +2295,6 @@ Wire Wire Line
 Wire Wire Line
 	8900 14700 8900 15100
 Wire Wire Line
-	8600 14800 9200 14800
-Wire Wire Line
 	8900 15400 8900 15500
 Wire Wire Line
 	8200 14700 8150 14700
@@ -3061,7 +2304,7 @@ U 1 1 60FD1573
 P 9400 14800
 F 0 "SW18" H 9400 15185 50  0000 C CNN
 F 1 "F3" H 9400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 9400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9400 15100 50  0001 C CNN
 	1    9400 14800
 	1    0    0    -1  
@@ -3091,7 +2334,7 @@ U 1 1 60FD6684
 P 12400 14800
 F 0 "SW33" H 12400 15185 50  0000 C CNN
 F 1 "F5" H 12400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 12400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12400 15100 50  0001 C CNN
 	1    12400 14800
 	1    0    0    -1  
@@ -3112,8 +2355,6 @@ Wire Wire Line
 Wire Wire Line
 	12900 14700 12900 15100
 Wire Wire Line
-	12600 14800 13200 14800
-Wire Wire Line
 	12900 15400 12900 15500
 Wire Wire Line
 	12200 14700 12150 14700
@@ -3123,7 +2364,7 @@ U 1 1 60FD6695
 P 13400 14800
 F 0 "SW38" H 13400 15185 50  0000 C CNN
 F 1 "F6" H 13400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 13400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13400 15100 50  0001 C CNN
 	1    13400 14800
 	1    0    0    -1  
@@ -3144,8 +2385,6 @@ Wire Wire Line
 Wire Wire Line
 	13900 14700 13900 15100
 Wire Wire Line
-	13600 14800 14200 14800
-Wire Wire Line
 	13900 15400 13900 15500
 Wire Wire Line
 	13200 14700 13150 14700
@@ -3155,7 +2394,7 @@ U 1 1 60FD66A6
 P 14400 14800
 F 0 "SW44" H 14400 15185 50  0000 C CNN
 F 1 "F7" H 14400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 14400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14400 15100 50  0001 C CNN
 	1    14400 14800
 	1    0    0    -1  
@@ -3176,8 +2415,6 @@ Wire Wire Line
 Wire Wire Line
 	14900 14700 14900 15100
 Wire Wire Line
-	14600 14800 15200 14800
-Wire Wire Line
 	14900 15400 14900 15500
 Wire Wire Line
 	14200 14700 14150 14700
@@ -3187,7 +2424,7 @@ U 1 1 60FD66B7
 P 15400 14800
 F 0 "SW49" H 15400 15185 50  0000 C CNN
 F 1 "F8" H 15400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 15400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15400 15100 50  0001 C CNN
 	1    15400 14800
 	1    0    0    -1  
@@ -3217,7 +2454,7 @@ U 1 1 60FD66C8
 P 17400 14800
 F 0 "SW58" H 17400 15185 50  0000 C CNN
 F 1 "F9" H 17400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 17400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 17400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 17400 15100 50  0001 C CNN
 	1    17400 14800
 	1    0    0    -1  
@@ -3238,8 +2475,6 @@ Wire Wire Line
 Wire Wire Line
 	17900 14700 17900 15100
 Wire Wire Line
-	17600 14800 18200 14800
-Wire Wire Line
 	17900 15400 17900 15500
 $Comp
 L Switch:SW_MEC_5G_LED SW64
@@ -3247,7 +2482,7 @@ U 1 1 60FEC431
 P 18400 14800
 F 0 "SW64" H 18400 15185 50  0000 C CNN
 F 1 "F10" H 18400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 18400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18400 15100 50  0001 C CNN
 	1    18400 14800
 	1    0    0    -1  
@@ -3268,8 +2503,6 @@ Wire Wire Line
 Wire Wire Line
 	18900 14700 18900 15100
 Wire Wire Line
-	18600 14800 19200 14800
-Wire Wire Line
 	18900 15400 18900 15500
 Wire Wire Line
 	18200 14700 18150 14700
@@ -3279,7 +2512,7 @@ U 1 1 60FEC442
 P 19400 14800
 F 0 "SW70" H 19400 15185 50  0000 C CNN
 F 1 "F11" H 19400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 19400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19400 15100 50  0001 C CNN
 	1    19400 14800
 	1    0    0    -1  
@@ -3300,8 +2533,6 @@ Wire Wire Line
 Wire Wire Line
 	19900 14700 19900 15100
 Wire Wire Line
-	19600 14800 20200 14800
-Wire Wire Line
 	19900 15400 19900 15500
 Wire Wire Line
 	19200 14700 19150 14700
@@ -3311,7 +2542,7 @@ U 1 1 60FEC453
 P 20400 14800
 F 0 "SW73" H 20400 15185 50  0000 C CNN
 F 1 "F12" H 20400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 20400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20400 15100 50  0001 C CNN
 	1    20400 14800
 	1    0    0    -1  
@@ -3335,15 +2566,13 @@ Wire Wire Line
 	20900 15400 20900 15500
 Wire Wire Line
 	20200 14700 20150 14700
-Wire Wire Line
-	9600 14800 10200 14800
 $Comp
 L Switch:SW_MEC_5G_LED SW24
 U 1 1 60FD248E
 P 10400 14800
 F 0 "SW24" H 10400 15185 50  0000 C CNN
 F 1 "F4" H 10400 15094 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern1" H 10400 15100 50  0001 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10400 15100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10400 15100 50  0001 C CNN
 	1    10400 14800
 	1    0    0    -1  
@@ -3669,14 +2898,6 @@ Connection ~ 20150 19700
 Wire Wire Line
 	20150 19700 20150 20700
 Wire Wire Line
-	17600 19800 18200 19800
-Wire Wire Line
-	17350 18800 17950 18800
-Wire Wire Line
-	17100 17800 17700 17800
-Wire Wire Line
-	16600 16800 17200 16800
-Wire Wire Line
 	17900 17500 18900 17500
 Wire Wire Line
 	16900 17500 15900 17500
@@ -3785,16 +3006,6 @@ Connection ~ 14900 15500
 Wire Wire Line
 	14900 15500 15900 15500
 Wire Wire Line
-	10600 14800 12200 14800
-Wire Wire Line
-	6600 17800 7700 17800
-Wire Wire Line
-	6600 18800 7950 18800
-Wire Wire Line
-	6600 19800 8200 19800
-Wire Wire Line
-	18600 19800 20200 19800
-Wire Wire Line
 	22150 16700 22150 17700
 Connection ~ 22150 17700
 Wire Wire Line
@@ -3812,70 +3023,12 @@ Wire Wire Line
 Connection ~ 24150 17700
 Wire Wire Line
 	24150 17700 24150 20700
-Wire Wire Line
-	26150 20700 26150 19700
-Connection ~ 26150 17700
-Wire Wire Line
-	26150 17700 26150 16700
-Connection ~ 26150 18700
-Wire Wire Line
-	26150 18700 26150 17700
-Connection ~ 26150 19700
-Wire Wire Line
-	26150 19700 26150 18700
-Wire Wire Line
-	27150 16700 27150 17700
-Connection ~ 27150 17700
-Wire Wire Line
-	27150 17700 27150 18700
-Connection ~ 27150 18700
-Wire Wire Line
-	27150 18700 27150 19700
-Connection ~ 27150 19700
-Wire Wire Line
-	27150 19700 27150 20700
-Wire Wire Line
-	28150 20700 28150 19700
-Connection ~ 28150 17700
-Wire Wire Line
-	28150 17700 28150 16700
-Connection ~ 28150 18700
-Wire Wire Line
-	28150 18700 28150 17700
-Connection ~ 28150 19700
-Wire Wire Line
-	28150 19700 28150 18700
-Wire Wire Line
-	29150 16700 29150 17700
-Connection ~ 29150 17700
-Wire Wire Line
-	29150 17700 29150 18700
-Connection ~ 29150 18700
-Wire Wire Line
-	29150 18700 29150 19700
-Connection ~ 29150 19700
-Wire Wire Line
-	29150 19700 29150 20700
-Wire Wire Line
-	29900 17500 28900 17500
 Connection ~ 22900 17500
 Connection ~ 23900 17500
 Wire Wire Line
 	23900 17500 22900 17500
-Connection ~ 24900 17500
 Wire Wire Line
 	24900 17500 23900 17500
-Connection ~ 26900 17500
-Wire Wire Line
-	26900 17500 24900 17500
-Connection ~ 27900 17500
-Wire Wire Line
-	27900 17500 26900 17500
-Connection ~ 28900 17500
-Wire Wire Line
-	28900 17500 27900 17500
-Wire Wire Line
-	19900 17500 22900 17500
 Connection ~ 19900 17500
 Wire Wire Line
 	20150 16700 20150 17700
@@ -3886,50 +3039,12 @@ Wire Wire Line
 Connection ~ 20150 16450
 Wire Wire Line
 	20150 16450 20150 16700
-Wire Wire Line
-	20200 16800 19600 16800
-Wire Wire Line
-	24600 16800 26200 16800
-Wire Wire Line
-	24600 17800 26200 17800
-Wire Wire Line
-	23600 19800 26200 19800
-Wire Wire Line
-	24600 20800 26200 20800
-Wire Wire Line
-	19350 18800 26200 18800
-Wire Wire Line
-	20600 20800 22200 20800
 Connection ~ 22900 18500
 Wire Wire Line
 	22900 18500 23900 18500
 Connection ~ 23900 18500
 Wire Wire Line
 	23900 18500 24900 18500
-Connection ~ 24900 18500
-Wire Wire Line
-	24900 18500 26900 18500
-Connection ~ 26900 18500
-Wire Wire Line
-	26900 18500 27900 18500
-Connection ~ 27900 18500
-Wire Wire Line
-	27900 18500 28900 18500
-Connection ~ 28900 18500
-Wire Wire Line
-	28900 18500 29900 18500
-Wire Wire Line
-	29900 19500 28900 19500
-Connection ~ 20900 19500
-Connection ~ 26900 19500
-Wire Wire Line
-	26900 19500 20900 19500
-Connection ~ 27900 19500
-Wire Wire Line
-	27900 19500 26900 19500
-Connection ~ 28900 19500
-Wire Wire Line
-	28900 19500 27900 19500
 Wire Wire Line
 	19400 18500 21400 18500
 Wire Wire Line
@@ -3939,14 +3054,6 @@ Wire Wire Line
 Wire Wire Line
 	21400 18400 21400 18500
 Connection ~ 21400 18500
-Wire Wire Line
-	21400 18500 22900 18500
-Wire Wire Line
-	20600 16800 22200 16800
-Wire Wire Line
-	20600 17800 22200 17800
-Wire Wire Line
-	20200 17800 19100 17800
 Connection ~ 20900 21500
 Connection ~ 22900 21500
 Wire Wire Line
@@ -3954,140 +3061,104 @@ Wire Wire Line
 Connection ~ 23900 21500
 Wire Wire Line
 	23900 21500 24900 21500
-Connection ~ 24900 21500
-Wire Wire Line
-	24900 21500 26900 21500
-Connection ~ 26900 21500
-Wire Wire Line
-	26900 21500 27900 21500
-Connection ~ 27900 21500
-Wire Wire Line
-	27900 21500 28900 21500
-Connection ~ 28900 21500
-Wire Wire Line
-	28900 21500 29900 21500
 Connection ~ 20900 20500
-Wire Wire Line
-	23900 20500 20900 20500
-Connection ~ 23900 20500
-Wire Wire Line
-	26900 20500 23900 20500
-Connection ~ 26900 20500
-Wire Wire Line
-	27900 20500 26900 20500
-Connection ~ 27900 20500
-Wire Wire Line
-	29900 20500 28900 20500
-Wire Wire Line
-	28900 20500 27900 20500
-Connection ~ 28900 20500
 $Comp
 L Device:R R2
 U 1 1 64828A69
-P 30900 16250
-F 0 "R2" H 30970 16296 50  0000 L CNN
-F 1 "R" H 30970 16205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 30830 16250 50  0001 C CNN
-F 3 "~" H 30900 16250 50  0001 C CNN
-	1    30900 16250
+P 26250 15750
+F 0 "R2" H 26320 15796 50  0000 L CNN
+F 1 "100" H 26320 15705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 26180 15750 50  0001 C CNN
+F 3 "~" H 26250 15750 50  0001 C CNN
+	1    26250 15750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R3
 U 1 1 64828AB4
-P 31150 16250
-F 0 "R3" H 31220 16296 50  0000 L CNN
-F 1 "R" H 31220 16205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 31080 16250 50  0001 C CNN
-F 3 "~" H 31150 16250 50  0001 C CNN
-	1    31150 16250
+P 26500 15750
+F 0 "R3" H 26570 15796 50  0000 L CNN
+F 1 "100" H 26570 15705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 26430 15750 50  0001 C CNN
+F 3 "~" H 26500 15750 50  0001 C CNN
+	1    26500 15750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R4
 U 1 1 6482A95D
-P 31400 16250
-F 0 "R4" H 31470 16296 50  0000 L CNN
-F 1 "R" H 31470 16205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 31330 16250 50  0001 C CNN
-F 3 "~" H 31400 16250 50  0001 C CNN
-	1    31400 16250
+P 26750 15750
+F 0 "R4" H 26820 15796 50  0000 L CNN
+F 1 "100" H 26820 15705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 26680 15750 50  0001 C CNN
+F 3 "~" H 26750 15750 50  0001 C CNN
+	1    26750 15750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R6
 U 1 1 6482A9AC
-P 31650 16250
-F 0 "R6" H 31720 16296 50  0000 L CNN
-F 1 "R" H 31720 16205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 31580 16250 50  0001 C CNN
-F 3 "~" H 31650 16250 50  0001 C CNN
-	1    31650 16250
+P 27000 15750
+F 0 "R6" H 27070 15796 50  0000 L CNN
+F 1 "100" H 27070 15705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 26930 15750 50  0001 C CNN
+F 3 "~" H 27000 15750 50  0001 C CNN
+	1    27000 15750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R7
 U 1 1 6482A9FB
-P 31900 16250
-F 0 "R7" H 31970 16296 50  0000 L CNN
-F 1 "R" H 31970 16205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 31830 16250 50  0001 C CNN
-F 3 "~" H 31900 16250 50  0001 C CNN
-	1    31900 16250
+P 27250 15750
+F 0 "R7" H 27320 15796 50  0000 L CNN
+F 1 "100" H 27320 15705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 27180 15750 50  0001 C CNN
+F 3 "~" H 27250 15750 50  0001 C CNN
+	1    27250 15750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	30900 15750 30900 16100
+	26250 15250 26250 15600
 Wire Wire Line
-	31400 15750 31400 16100
-Connection ~ 31400 15750
+	26750 15250 26750 15600
+Connection ~ 26750 15250
 Wire Wire Line
-	31400 15750 31150 15750
+	26750 15250 26500 15250
 Wire Wire Line
-	31900 15750 31900 16100
+	27250 15250 27250 15600
 Wire Wire Line
-	31900 15750 31650 15750
+	27250 15250 27000 15250
 $Comp
 L power:+5V #PWR026
 U 1 1 6511FF6B
-P 31400 15750
-F 0 "#PWR026" H 31400 15600 50  0001 C CNN
-F 1 "+5V" H 31415 15923 50  0000 C CNN
-F 2 "" H 31400 15750 50  0001 C CNN
-F 3 "" H 31400 15750 50  0001 C CNN
-	1    31400 15750
+P 26750 15250
+F 0 "#PWR026" H 26750 15100 50  0001 C CNN
+F 1 "+5V" H 26765 15423 50  0000 C CNN
+F 2 "" H 26750 15250 50  0001 C CNN
+F 3 "" H 26750 15250 50  0001 C CNN
+	1    26750 15250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	31650 15750 31650 16100
-Connection ~ 31650 15750
+	27000 15250 27000 15600
+Connection ~ 27000 15250
 Wire Wire Line
-	31650 15750 31400 15750
+	27000 15250 26750 15250
 Wire Wire Line
-	31150 16100 31150 15750
-Connection ~ 31150 15750
+	26500 15600 26500 15250
+Connection ~ 26500 15250
 Wire Wire Line
-	31150 15750 30900 15750
+	26500 15250 26250 15250
 Wire Wire Line
-	30900 16500 30900 16400
+	26250 16000 26250 15900
 Wire Wire Line
-	31150 16400 31150 16500
+	26500 15900 26500 16000
 Wire Wire Line
-	31400 16500 31400 16400
+	26750 16000 26750 15900
 Wire Wire Line
-	31650 16400 31650 16500
+	27000 15900 27000 16000
 Wire Wire Line
-	31900 16500 31900 16400
-Wire Wire Line
-	29600 16800 30400 16800
-Wire Wire Line
-	30400 17800 29600 17800
-Wire Wire Line
-	29600 18800 30400 18800
-Wire Wire Line
-	30400 19800 29600 19800
-Wire Wire Line
-	29600 20800 30400 20800
+	27250 16000 27250 15900
 Wire Wire Line
 	9900 21500 8900 21500
 Connection ~ 7900 21500
@@ -4149,8 +3220,6 @@ Wire Wire Line
 	14650 19500 13650 19500
 Connection ~ 15650 19500
 Wire Wire Line
-	15650 19500 14650 19500
-Wire Wire Line
 	6900 18500 8400 18500
 Connection ~ 16400 18500
 Connection ~ 8400 18500
@@ -4205,50 +3274,46 @@ Connection ~ 14900 17500
 Wire Wire Line
 	14900 17500 13900 17500
 Wire Wire Line
-	15600 14800 17200 14800
-Wire Wire Line
 	16150 14700 16150 16700
 Wire Wire Line
 	16150 14700 17200 14700
 Entry Wire Line
-	30400 20800 30500 20700
+	25750 19600 25850 19500
 Entry Wire Line
-	30400 19800 30500 19700
+	25750 18600 25850 18500
 Entry Wire Line
-	30400 18800 30500 18700
+	25750 17600 25850 17500
 Entry Wire Line
-	30400 17800 30500 17700
+	25750 16600 25850 16500
 Entry Wire Line
-	30400 16800 30500 16700
+	26250 16000 26150 16100
 Entry Wire Line
-	30900 16500 30800 16600
+	26500 16000 26400 16100
 Entry Wire Line
-	31150 16500 31050 16600
+	26750 16000 26650 16100
 Entry Wire Line
-	31400 16500 31300 16600
+	27000 16000 26900 16100
 Entry Wire Line
-	31650 16500 31550 16600
-Entry Wire Line
-	31900 16500 31800 16600
-Text Label 31900 16450 0    50   ~ 0
+	27250 16000 27150 16100
+Text Label 27250 15950 0    50   ~ 0
 Line2L
-Text Label 31650 16450 0    50   ~ 0
+Text Label 27000 15950 0    50   ~ 0
 Line3L
-Text Label 31400 16450 0    50   ~ 0
+Text Label 26750 15950 0    50   ~ 0
 Line4L
-Text Label 31150 16450 0    50   ~ 0
+Text Label 26500 15950 0    50   ~ 0
 Line5L
-Text Label 30900 16450 0    50   ~ 0
+Text Label 26250 15950 0    50   ~ 0
 Line6L
-Text Label 30100 16800 0    50   ~ 0
+Text Label 25450 16600 0    50   ~ 0
 Line2L
-Text Label 30100 17800 0    50   ~ 0
+Text Label 25450 17600 0    50   ~ 0
 Line3L
-Text Label 30100 18800 0    50   ~ 0
+Text Label 25450 18600 0    50   ~ 0
 Line4L
-Text Label 30100 19800 0    50   ~ 0
+Text Label 25450 19600 0    50   ~ 0
 Line5L
-Text Label 30100 20800 0    50   ~ 0
+Text Label 25450 20600 0    50   ~ 0
 Line6L
 Wire Wire Line
 	6200 14800 6100 14800
@@ -4323,61 +3388,59 @@ Entry Wire Line
 $Comp
 L RaspberryPi_Pico:Pico U1
 U 1 1 6755D815
-P 9750 11750
-F 0 "U1" V 9796 12828 50  0000 L CNN
-F 1 "Pico" V 9705 12828 50  0000 L CNN
-F 2 "RaspberryPi_Pico:RPi_Pico_SMD_TH" V 9750 11750 50  0001 C CNN
-F 3 "" H 9750 11750 50  0001 C CNN
-	1    9750 11750
-	0    -1   -1   0   
+P 7150 11150
+F 0 "U1" V 7196 12228 50  0000 L CNN
+F 1 "Pico" V 7105 12228 50  0000 L CNN
+F 2 "RaspberryPi_Pico:RPi_Pico_SMD_TH" V 7150 11150 50  0001 C CNN
+F 3 "" H 7150 11150 50  0001 C CNN
+	1    7150 11150
+	-1   0    0    1   
 $EndComp
 Entry Wire Line
-	10400 10500 10300 10400
+	5900 10500 5800 10600
 Entry Wire Line
-	10300 10500 10200 10400
+	5900 10600 5800 10700
 Entry Wire Line
-	10200 10500 10100 10400
+	5900 10700 5800 10800
 Entry Wire Line
-	10100 10500 10000 10400
+	5900 10800 5800 10900
 Entry Wire Line
-	9900 10500 9800 10400
-Wire Wire Line
-	20600 14800 21250 14800
+	5900 11000 5800 11100
 $Comp
 L power:+5V #PWR025
 U 1 1 67AEBC99
-P 21250 14500
-F 0 "#PWR025" H 21250 14350 50  0001 C CNN
-F 1 "+5V" H 21265 14673 50  0000 C CNN
-F 2 "" H 21250 14500 50  0001 C CNN
-F 3 "" H 21250 14500 50  0001 C CNN
-	1    21250 14500
+P 20750 13450
+F 0 "#PWR025" H 20750 13300 50  0001 C CNN
+F 1 "+5V" H 20765 13623 50  0000 C CNN
+F 2 "" H 20750 13450 50  0001 C CNN
+F 3 "" H 20750 13450 50  0001 C CNN
+	1    20750 13450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R1
 U 1 1 67AEDBBC
-P 21250 14650
-F 0 "R1" H 21320 14696 50  0000 L CNN
-F 1 "R" H 21320 14605 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 21180 14650 50  0001 C CNN
-F 3 "~" H 21250 14650 50  0001 C CNN
-	1    21250 14650
+P 20750 13600
+F 0 "R1" H 20820 13646 50  0000 L CNN
+F 1 "R" H 20820 13555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 20680 13600 50  0001 C CNN
+F 3 "~" H 20750 13600 50  0001 C CNN
+	1    20750 13600
 	1    0    0    -1  
 $EndComp
 Entry Wire Line
-	10600 10500 10500 10400
-Text Label 10600 10750 1    50   ~ 0
+	5900 10300 5800 10400
+Text Label 6150 10300 2    50   ~ 0
 Line6S
-Text Label 10400 10750 1    50   ~ 0
+Text Label 6150 10500 2    50   ~ 0
 Line5S
-Text Label 10300 10750 1    50   ~ 0
+Text Label 6150 10600 2    50   ~ 0
 Line4S
-Text Label 10200 10500 3    50   ~ 0
+Text Label 5900 10700 0    50   ~ 0
 Line3S
-Text Label 10100 10500 3    50   ~ 0
+Text Label 5900 10800 0    50   ~ 0
 Line2S
-Text Label 9900 10500 3    50   ~ 0
+Text Label 5900 11000 0    50   ~ 0
 Line1S
 Text Label 5900 15500 0    50   ~ 0
 Line1S
@@ -4439,26 +3502,6 @@ Connection ~ 23150 16700
 Wire Wire Line
 	24150 16700 24150 14250
 Connection ~ 24150 16700
-Wire Wire Line
-	26150 16700 26150 14250
-Connection ~ 26150 16700
-Wire Wire Line
-	27150 16700 27150 14250
-Connection ~ 27150 16700
-Wire Wire Line
-	28150 16700 28150 14250
-Connection ~ 28150 16700
-Wire Wire Line
-	29150 16700 29150 14250
-Connection ~ 29150 16700
-Entry Wire Line
-	29150 14250 29050 14150
-Entry Wire Line
-	28150 14250 28050 14150
-Entry Wire Line
-	27150 14250 27050 14150
-Entry Wire Line
-	26150 14250 26050 14150
 Entry Wire Line
 	24150 14250 24050 14150
 Entry Wire Line
@@ -4470,7 +3513,7 @@ Entry Wire Line
 Entry Wire Line
 	19150 14250 19050 14150
 Entry Wire Line
-	18250 14150 18150 14250
+	18050 14150 18150 14250
 Entry Wire Line
 	16150 14250 16050 14150
 Entry Wire Line
@@ -4492,45 +3535,45 @@ Entry Wire Line
 Entry Wire Line
 	6250 14150 6150 14250
 Wire Wire Line
-	9900 12850 9900 12450
+	8250 11000 7850 11000
 Wire Wire Line
-	9800 12850 9800 12450
+	8250 11100 7850 11100
 Wire Wire Line
-	9700 12850 9700 12450
+	8250 11200 7850 11200
 Wire Wire Line
-	9600 12850 9600 12450
+	8250 11300 7850 11300
 Wire Wire Line
-	9400 12850 9400 12450
+	8250 11500 7850 11500
 Wire Wire Line
-	9300 12850 9300 12450
+	8250 11600 7850 11600
 Wire Wire Line
-	9200 12850 9200 12450
+	8250 11700 7850 11700
 Wire Wire Line
-	9100 12850 9100 12450
+	8250 11800 7850 11800
 Wire Wire Line
-	8900 12450 8900 12850
+	7850 12000 8250 12000
 Wire Wire Line
-	8800 12850 8800 12450
+	8250 12100 7850 12100
 Entry Wire Line
-	8800 12850 8700 12950
+	8250 12100 8350 12200
 Entry Wire Line
-	8900 12850 8800 12950
+	8250 12000 8350 12100
 Entry Wire Line
-	9100 12850 9000 12950
+	8250 11800 8350 11900
 Entry Wire Line
-	9200 12850 9100 12950
+	8250 11700 8350 11800
 Entry Wire Line
-	9300 12850 9200 12950
+	8250 11600 8350 11700
 Entry Wire Line
-	9400 12850 9300 12950
+	8250 11500 8350 11600
 Entry Wire Line
-	9600 12850 9500 12950
+	8250 11300 8350 11400
 Entry Wire Line
-	9700 12850 9600 12950
+	8250 11200 8350 11300
 Entry Wire Line
-	9800 12850 9700 12950
+	8250 11100 8350 11200
 Entry Wire Line
-	9900 12850 9800 12950
+	8250 11000 8350 11100
 Text Label 6150 14450 1    50   ~ 0
 Col1
 Text Label 7150 14450 1    50   ~ 0
@@ -4563,767 +3606,1762 @@ Text Label 23150 14450 1    50   ~ 0
 Col15
 Text Label 24150 14450 1    50   ~ 0
 Col16
-Text Label 26150 14450 1    50   ~ 0
-Col17
-Text Label 27150 14450 1    50   ~ 0
-Col18
-Text Label 28150 14450 1    50   ~ 0
-Col19
-Text Label 29150 14450 1    50   ~ 0
-Col20
-Text Label 8800 12850 1    50   ~ 0
+Text Label 8250 12100 2    50   ~ 0
 Col1
-Text Label 8900 12850 1    50   ~ 0
+Text Label 8250 12000 2    50   ~ 0
 Col2
-Text Label 9100 12850 1    50   ~ 0
+Text Label 8250 11800 2    50   ~ 0
 Col3
-Text Label 9200 12850 1    50   ~ 0
+Text Label 8250 11700 2    50   ~ 0
 Col4
-Text Label 9300 12850 1    50   ~ 0
+Text Label 8250 11600 2    50   ~ 0
 Col5
-Text Label 9400 12850 1    50   ~ 0
+Text Label 8250 11500 2    50   ~ 0
 Col6
-Text Label 9600 12850 1    50   ~ 0
+Text Label 8250 11300 2    50   ~ 0
 Col7
-Text Label 9700 12850 1    50   ~ 0
+Text Label 8250 11200 2    50   ~ 0
 Col8
-Text Label 9800 12850 1    50   ~ 0
+Text Label 8250 11100 2    50   ~ 0
 Col9
-Text Label 9900 12850 1    50   ~ 0
+Text Label 8250 11000 2    50   ~ 0
 Col10
 $Comp
 L power:GND #PWR05
 U 1 1 69CFA158
-P 9000 12450
-F 0 "#PWR05" H 9000 12200 50  0001 C CNN
-F 1 "GND" H 9005 12277 50  0000 C CNN
-F 2 "" H 9000 12450 50  0001 C CNN
-F 3 "" H 9000 12450 50  0001 C CNN
-	1    9000 12450
-	1    0    0    -1  
+P 7850 11900
+F 0 "#PWR05" H 7850 11650 50  0001 C CNN
+F 1 "GND" H 7855 11727 50  0000 C CNN
+F 2 "" H 7850 11900 50  0001 C CNN
+F 3 "" H 7850 11900 50  0001 C CNN
+	1    7850 11900
+	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR08
 U 1 1 69CFA24C
-P 9500 12450
-F 0 "#PWR08" H 9500 12200 50  0001 C CNN
-F 1 "GND" H 9505 12277 50  0000 C CNN
-F 2 "" H 9500 12450 50  0001 C CNN
-F 3 "" H 9500 12450 50  0001 C CNN
-	1    9500 12450
-	1    0    0    -1  
+P 7850 11400
+F 0 "#PWR08" H 7850 11150 50  0001 C CNN
+F 1 "GND" H 7855 11227 50  0000 C CNN
+F 2 "" H 7850 11400 50  0001 C CNN
+F 3 "" H 7850 11400 50  0001 C CNN
+	1    7850 11400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR012
 U 1 1 69CFA546
-P 10500 12450
-F 0 "#PWR012" H 10500 12200 50  0001 C CNN
-F 1 "GND" H 10505 12277 50  0000 C CNN
-F 2 "" H 10500 12450 50  0001 C CNN
-F 3 "" H 10500 12450 50  0001 C CNN
-	1    10500 12450
-	1    0    0    -1  
+P 7850 10400
+F 0 "#PWR012" H 7850 10150 50  0001 C CNN
+F 1 "GND" H 7855 10227 50  0000 C CNN
+F 2 "" H 7850 10400 50  0001 C CNN
+F 3 "" H 7850 10400 50  0001 C CNN
+	1    7850 10400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR011
 U 1 1 69CFA6AD
-P 10500 11050
-F 0 "#PWR011" H 10500 10800 50  0001 C CNN
-F 1 "GND" H 10505 10877 50  0000 C CNN
-F 2 "" H 10500 11050 50  0001 C CNN
-F 3 "" H 10500 11050 50  0001 C CNN
-	1    10500 11050
-	-1   0    0    1   
+P 6450 10400
+F 0 "#PWR011" H 6450 10150 50  0001 C CNN
+F 1 "GND" H 6455 10227 50  0000 C CNN
+F 2 "" H 6450 10400 50  0001 C CNN
+F 3 "" H 6450 10400 50  0001 C CNN
+	1    6450 10400
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR09
 U 1 1 69CFAA18
-P 10000 11050
-F 0 "#PWR09" H 10000 10800 50  0001 C CNN
-F 1 "GND" H 10005 10877 50  0000 C CNN
-F 2 "" H 10000 11050 50  0001 C CNN
-F 3 "" H 10000 11050 50  0001 C CNN
-	1    10000 11050
-	-1   0    0    1   
+P 6450 10900
+F 0 "#PWR09" H 6450 10650 50  0001 C CNN
+F 1 "GND" H 6455 10727 50  0000 C CNN
+F 2 "" H 6450 10900 50  0001 C CNN
+F 3 "" H 6450 10900 50  0001 C CNN
+	1    6450 10900
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR04
 U 1 1 69CFABA1
-P 9000 11050
-F 0 "#PWR04" H 9000 10800 50  0001 C CNN
-F 1 "GND" H 9005 10877 50  0000 C CNN
-F 2 "" H 9000 11050 50  0001 C CNN
-F 3 "" H 9000 11050 50  0001 C CNN
-	1    9000 11050
-	-1   0    0    1   
+P 6450 11900
+F 0 "#PWR04" H 6450 11650 50  0001 C CNN
+F 1 "GND" H 6455 11727 50  0000 C CNN
+F 2 "" H 6450 11900 50  0001 C CNN
+F 3 "" H 6450 11900 50  0001 C CNN
+	1    6450 11900
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR013
 U 1 1 69CFAF90
-P 10900 11750
-F 0 "#PWR013" H 10900 11500 50  0001 C CNN
-F 1 "GND" V 10905 11622 50  0000 R CNN
-F 2 "" H 10900 11750 50  0001 C CNN
-F 3 "" H 10900 11750 50  0001 C CNN
-	1    10900 11750
-	0    -1   -1   0   
+P 7150 10000
+F 0 "#PWR013" H 7150 9750 50  0001 C CNN
+F 1 "GND" V 7155 9872 50  0000 R CNN
+F 2 "" H 7150 10000 50  0001 C CNN
+F 3 "" H 7150 10000 50  0001 C CNN
+	1    7150 10000
+	-1   0    0    1   
 $EndComp
-Text GLabel 10600 13200 3    50   Input ~ 0
-Master_TX
-Text GLabel 10700 13200 3    50   Input ~ 0
-Master_RX
 $Comp
 L power:GND #PWR07
 U 1 1 69F8885B
-P 9500 11050
-F 0 "#PWR07" H 9500 10800 50  0001 C CNN
-F 1 "GND" H 9505 10877 50  0000 C CNN
-F 2 "" H 9500 11050 50  0001 C CNN
-F 3 "" H 9500 11050 50  0001 C CNN
-	1    9500 11050
-	-1   0    0    1   
+P 6450 11400
+F 0 "#PWR07" H 6450 11150 50  0001 C CNN
+F 1 "GND" H 6455 11227 50  0000 C CNN
+F 2 "" H 6450 11400 50  0001 C CNN
+F 3 "" H 6450 11400 50  0001 C CNN
+	1    6450 11400
+	0    1    1    0   
 $EndComp
 $Comp
 L power:+5V #PWR02
 U 1 1 69F8A8A3
-P 8800 11050
-F 0 "#PWR02" H 8800 10900 50  0001 C CNN
-F 1 "+5V" H 8815 11223 50  0000 C CNN
-F 2 "" H 8800 11050 50  0001 C CNN
-F 3 "" H 8800 11050 50  0001 C CNN
-	1    8800 11050
-	1    0    0    -1  
-$EndComp
-NoConn ~ 9100 11050
-NoConn ~ 9300 11050
-NoConn ~ 9400 11050
-NoConn ~ 9600 11050
-NoConn ~ 9700 11050
-NoConn ~ 9800 11050
-NoConn ~ 10900 11850
-NoConn ~ 10900 11650
-$Comp
-L RaspberryPi_Pico:Pico U2
-U 1 1 6AB44A76
-P 19700 12250
-F 0 "U2" V 19746 13328 50  0000 L CNN
-F 1 "Pico" V 19655 13328 50  0000 L CNN
-F 2 "RaspberryPi_Pico:RPi_Pico_SMD_TH" V 19700 12250 50  0001 C CNN
-F 3 "" H 19700 12250 50  0001 C CNN
-	1    19700 12250
+P 6450 12100
+F 0 "#PWR02" H 6450 11950 50  0001 C CNN
+F 1 "+5V" H 6465 12273 50  0000 C CNN
+F 2 "" H 6450 12100 50  0001 C CNN
+F 3 "" H 6450 12100 50  0001 C CNN
+	1    6450 12100
 	0    -1   -1   0   
 $EndComp
-Text GLabel 20550 13200 3    50   Input ~ 0
-Master_RX
-Text GLabel 20650 13200 3    50   Input ~ 0
-Master_TX
-Wire Wire Line
-	20650 13200 20650 12950
-Wire Wire Line
-	20550 12950 20550 13200
-Wire Wire Line
-	18750 13350 18750 12950
-Wire Wire Line
-	18850 12950 18850 13350
-Wire Wire Line
-	19050 13350 19050 12950
-Wire Wire Line
-	19150 12950 19150 13350
-Wire Wire Line
-	19250 13350 19250 12950
-Wire Wire Line
-	19350 12950 19350 13350
-Wire Wire Line
-	19550 13350 19550 12950
-Wire Wire Line
-	19650 12950 19650 13350
-Wire Wire Line
-	19750 13350 19750 12950
-Wire Wire Line
-	19850 12950 19850 13350
-Entry Wire Line
-	19850 13350 19750 13450
-Entry Wire Line
-	19750 13350 19650 13450
-Entry Wire Line
-	19650 13350 19550 13450
-Entry Wire Line
-	19550 13350 19450 13450
-Entry Wire Line
-	19350 13350 19250 13450
-Entry Wire Line
-	19250 13350 19150 13450
-Entry Wire Line
-	19150 13350 19050 13450
-Entry Wire Line
-	19050 13350 18950 13450
-Entry Wire Line
-	18750 13450 18850 13350
-Entry Wire Line
-	18650 13450 18750 13350
-Text Label 19850 13350 1    50   ~ 0
-Col20
-Text Label 19750 13350 1    50   ~ 0
-Col19
-Text Label 19650 13350 1    50   ~ 0
-Col18
-Text Label 19550 13350 1    50   ~ 0
-Col17
-Text Label 19350 13350 1    50   ~ 0
-Col16
-Text Label 19250 13350 1    50   ~ 0
-Col15
-Text Label 19150 13350 1    50   ~ 0
-Col14
-Text Label 19050 13350 1    50   ~ 0
-Col13
-Text Label 18850 13350 1    50   ~ 0
-Col12
-Text Label 18750 13350 1    50   ~ 0
-Col11
-$Comp
-L power:GND #PWR017
-U 1 1 6BAC1D78
-P 18950 12950
-F 0 "#PWR017" H 18950 12700 50  0001 C CNN
-F 1 "GND" H 18955 12777 50  0000 C CNN
-F 2 "" H 18950 12950 50  0001 C CNN
-F 3 "" H 18950 12950 50  0001 C CNN
-	1    18950 12950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR019
-U 1 1 6BAC1E0F
-P 19450 12950
-F 0 "#PWR019" H 19450 12700 50  0001 C CNN
-F 1 "GND" H 19455 12777 50  0000 C CNN
-F 2 "" H 19450 12950 50  0001 C CNN
-F 3 "" H 19450 12950 50  0001 C CNN
-	1    19450 12950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR021
-U 1 1 6BAC1F76
-P 19950 12950
-F 0 "#PWR021" H 19950 12700 50  0001 C CNN
-F 1 "GND" H 19955 12777 50  0000 C CNN
-F 2 "" H 19950 12950 50  0001 C CNN
-F 3 "" H 19950 12950 50  0001 C CNN
-	1    19950 12950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR023
-U 1 1 6BAC4262
-P 20450 12950
-F 0 "#PWR023" H 20450 12700 50  0001 C CNN
-F 1 "GND" H 20455 12777 50  0000 C CNN
-F 2 "" H 20450 12950 50  0001 C CNN
-F 3 "" H 20450 12950 50  0001 C CNN
-	1    20450 12950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR022
-U 1 1 6BAC42F9
-P 20450 11550
-F 0 "#PWR022" H 20450 11300 50  0001 C CNN
-F 1 "GND" H 20455 11377 50  0000 C CNN
-F 2 "" H 20450 11550 50  0001 C CNN
-F 3 "" H 20450 11550 50  0001 C CNN
-	1    20450 11550
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR020
-U 1 1 6BAC43CD
-P 19950 11550
-F 0 "#PWR020" H 19950 11300 50  0001 C CNN
-F 1 "GND" H 19955 11377 50  0000 C CNN
-F 2 "" H 19950 11550 50  0001 C CNN
-F 3 "" H 19950 11550 50  0001 C CNN
-	1    19950 11550
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR018
-U 1 1 6BAC4539
-P 19450 11550
-F 0 "#PWR018" H 19450 11300 50  0001 C CNN
-F 1 "GND" H 19455 11377 50  0000 C CNN
-F 2 "" H 19450 11550 50  0001 C CNN
-F 3 "" H 19450 11550 50  0001 C CNN
-	1    19450 11550
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR016
-U 1 1 6BAC46D1
-P 18950 11550
-F 0 "#PWR016" H 18950 11300 50  0001 C CNN
-F 1 "GND" H 18955 11377 50  0000 C CNN
-F 2 "" H 18950 11550 50  0001 C CNN
-F 3 "" H 18950 11550 50  0001 C CNN
-	1    18950 11550
-	-1   0    0    1   
-$EndComp
-NoConn ~ 19050 11550
-$Comp
-L power:+5V #PWR015
-U 1 1 6BD59E27
-P 18850 11550
-F 0 "#PWR015" H 18850 11400 50  0001 C CNN
-F 1 "+5V" H 18865 11723 50  0000 C CNN
-F 2 "" H 18850 11550 50  0001 C CNN
-F 3 "" H 18850 11550 50  0001 C CNN
-	1    18850 11550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR014
-U 1 1 6BD59EC6
-P 18750 11550
-F 0 "#PWR014" H 18750 11400 50  0001 C CNN
-F 1 "+5V" H 18765 11723 50  0000 C CNN
-F 2 "" H 18750 11550 50  0001 C CNN
-F 3 "" H 18750 11550 50  0001 C CNN
-	1    18750 11550
-	1    0    0    -1  
-$EndComp
+NoConn ~ 6450 11800
+NoConn ~ 6450 11600
+NoConn ~ 6450 11500
+NoConn ~ 6450 11300
+NoConn ~ 6450 11200
+NoConn ~ 6450 11100
+NoConn ~ 7250 10000
+NoConn ~ 7050 10000
 $Comp
 L power:+5V #PWR03
 U 1 1 6BD5C09F
-P 8900 11050
-F 0 "#PWR03" H 8900 10900 50  0001 C CNN
-F 1 "+5V" H 8915 11223 50  0000 C CNN
-F 2 "" H 8900 11050 50  0001 C CNN
-F 3 "" H 8900 11050 50  0001 C CNN
-	1    8900 11050
-	1    0    0    -1  
-$EndComp
-NoConn ~ 19250 11550
-NoConn ~ 19350 11550
-NoConn ~ 19550 11550
-NoConn ~ 19650 11550
-NoConn ~ 19750 11550
-NoConn ~ 19850 11550
-Wire Wire Line
-	20050 11550 20050 11100
-Wire Wire Line
-	20150 11100 20150 11550
-Wire Wire Line
-	20250 11550 20250 11100
-Wire Wire Line
-	20350 11100 20350 11550
-Wire Wire Line
-	20550 11550 20550 11100
-Wire Wire Line
-	20650 11550 20650 11100
-Entry Wire Line
-	20050 11100 20150 11000
-Entry Wire Line
-	20150 11100 20250 11000
-Entry Wire Line
-	20250 11100 20350 11000
-Entry Wire Line
-	20350 11100 20450 11000
-Entry Wire Line
-	20550 11100 20650 11000
-Entry Wire Line
-	20650 11100 20750 11000
-Entry Wire Line
-	21750 21400 21850 21500
-Entry Wire Line
-	21750 20400 21850 20500
-Entry Wire Line
-	21750 19400 21850 19500
-Entry Wire Line
-	21750 18400 21850 18500
-Entry Wire Line
-	21750 17400 21850 17500
-Text Label 20050 11100 3    50   ~ 0
-Line1
-Text Label 20150 11100 3    50   ~ 0
-Line2
-Text Label 20250 11100 3    50   ~ 0
-Line3
-Text Label 20350 11100 3    50   ~ 0
-Line4
-Text Label 20550 11100 3    50   ~ 0
-Line5
-Text Label 20650 11100 3    50   ~ 0
-Line6
-Wire Wire Line
-	20900 15500 21650 15500
-Connection ~ 20900 15500
-Entry Wire Line
-	21650 15500 21750 15400
-Text Label 21650 15500 2    50   ~ 0
-Line1
-Text Label 21650 17500 2    50   ~ 0
-Line2
-Text Label 21650 18500 2    50   ~ 0
-Line3
-Text Label 21650 19500 2    50   ~ 0
-Line4
-Text Label 21650 20500 2    50   ~ 0
-Line5
-Text Label 21650 21500 2    50   ~ 0
-Line6
-$Comp
-L power:GND #PWR024
-U 1 1 6D0ACA94
-P 20850 12250
-F 0 "#PWR024" H 20850 12000 50  0001 C CNN
-F 1 "GND" V 20855 12122 50  0000 R CNN
-F 2 "" H 20850 12250 50  0001 C CNN
-F 3 "" H 20850 12250 50  0001 C CNN
-	1    20850 12250
-	0    -1   -1   0   
-$EndComp
-NoConn ~ 20850 12150
-NoConn ~ 20850 12350
-NoConn ~ 20350 12950
-NoConn ~ 20250 12950
-NoConn ~ 20150 12950
-NoConn ~ 20050 12950
-Wire Wire Line
-	10600 10500 10600 11050
-Wire Wire Line
-	9900 10500 9900 11050
-Wire Wire Line
-	10100 11050 10100 10500
-Wire Wire Line
-	10200 10500 10200 11050
-Wire Wire Line
-	10300 11050 10300 10500
-Wire Wire Line
-	10400 10500 10400 11050
-Text GLabel 10700 10500 1    50   Input ~ 0
-NumLock_LED
-Connection ~ 7800 14150
-Wire Wire Line
-	23200 19800 20600 19800
-Wire Wire Line
-	10700 11050 10700 10500
-Text GLabel 31300 19400 0    50   Input ~ 0
-NumLock_LED
-$Comp
-L power:+3.3V #PWR027
-U 1 1 6EA1C4FA
-P 31650 18150
-F 0 "#PWR027" H 31650 18000 50  0001 C CNN
-F 1 "+3.3V" H 31665 18323 50  0000 C CNN
-F 2 "" H 31650 18150 50  0001 C CNN
-F 3 "" H 31650 18150 50  0001 C CNN
-	1    31650 18150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R5
-U 1 1 6EA20442
-P 31650 19150
-F 0 "R5" H 31720 19196 50  0000 L CNN
-F 1 "R" H 31720 19105 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 31580 19150 50  0001 C CNN
-F 3 "~" H 31650 19150 50  0001 C CNN
-	1    31650 19150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:LED D108
-U 1 1 6EA228D1
-P 31650 18650
-F 0 "D108" V 31689 18532 50  0000 R CNN
-F 1 "LED" V 31598 18532 50  0000 R CNN
-F 2 "LED_SMD:LED_0603_1608Metric" H 31650 18650 50  0001 C CNN
-F 3 "~" H 31650 18650 50  0001 C CNN
-	1    31650 18650
+P 6450 12000
+F 0 "#PWR03" H 6450 11850 50  0001 C CNN
+F 1 "+5V" H 6465 12173 50  0000 C CNN
+F 2 "" H 6450 12000 50  0001 C CNN
+F 3 "" H 6450 12000 50  0001 C CNN
+	1    6450 12000
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	31650 19300 31650 19400
+	5900 10300 6450 10300
 Wire Wire Line
-	31650 18800 31650 19000
+	5900 11000 6450 11000
 Wire Wire Line
-	31300 19400 31650 19400
-$Comp
-L Device:R R8
-U 1 1 6EE7C16A
-P 31650 19650
-F 0 "R8" H 31720 19696 50  0000 L CNN
-F 1 "R" H 31720 19605 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 31580 19650 50  0001 C CNN
-F 3 "~" H 31650 19650 50  0001 C CNN
-	1    31650 19650
-	1    0    0    -1  
-$EndComp
+	6450 10800 5900 10800
 Wire Wire Line
-	31650 19500 31650 19400
-Connection ~ 31650 19400
-$Comp
-L power:GND #PWR028
-U 1 1 6EF5D0A6
-P 31650 20150
-F 0 "#PWR028" H 31650 19900 50  0001 C CNN
-F 1 "GND" H 31655 19977 50  0000 C CNN
-F 2 "" H 31650 20150 50  0001 C CNN
-F 3 "" H 31650 20150 50  0001 C CNN
-	1    31650 20150
-	1    0    0    -1  
-$EndComp
+	5900 10700 6450 10700
 Wire Wire Line
-	31650 20150 31650 19800
+	6450 10600 5900 10600
 Wire Wire Line
-	10700 12450 10700 13200
-Wire Wire Line
-	10600 12450 10600 13200
-Wire Wire Line
-	10100 12450 10100 12850
-Wire Wire Line
-	10200 12850 10200 12450
-Wire Wire Line
-	10300 12450 10300 12850
-Wire Wire Line
-	10400 12850 10400 12450
-Entry Wire Line
-	10100 12850 10200 12950
-Entry Wire Line
-	10200 12850 10300 12950
-Entry Wire Line
-	10300 12850 10400 12950
-Entry Wire Line
-	10400 12850 10500 12950
-Entry Wire Line
-	11700 12950 11800 13050
-Entry Wire Line
-	11350 12950 11450 13050
-Entry Wire Line
-	12050 12950 12150 13050
-Entry Wire Line
-	11000 12950 11100 13050
-$Comp
-L Device:LED D109
-U 1 1 6FDA3351
-P 11100 13750
-F 0 "D109" V 11139 13632 50  0000 R CNN
-F 1 "LED" V 11048 13632 50  0000 R CNN
-F 2 "LED_SMD:LED_0603_1608Metric" H 11100 13750 50  0001 C CNN
-F 3 "~" H 11100 13750 50  0001 C CNN
-	1    11100 13750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:LED D112
-U 1 1 6FDA34B2
-P 12150 13750
-F 0 "D112" V 12189 13632 50  0000 R CNN
-F 1 "LED" V 12098 13632 50  0000 R CNN
-F 2 "LED_SMD:LED_0603_1608Metric" H 12150 13750 50  0001 C CNN
-F 3 "~" H 12150 13750 50  0001 C CNN
-	1    12150 13750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:LED D110
-U 1 1 6FDA5522
-P 11450 13750
-F 0 "D110" V 11489 13632 50  0000 R CNN
-F 1 "LED" V 11398 13632 50  0000 R CNN
-F 2 "LED_SMD:LED_0603_1608Metric" H 11450 13750 50  0001 C CNN
-F 3 "~" H 11450 13750 50  0001 C CNN
-	1    11450 13750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:LED D111
-U 1 1 6FDA55AB
-P 11800 13750
-F 0 "D111" V 11839 13632 50  0000 R CNN
-F 1 "LED" V 11748 13632 50  0000 R CNN
-F 2 "LED_SMD:LED_0603_1608Metric" H 11800 13750 50  0001 C CNN
-F 3 "~" H 11800 13750 50  0001 C CNN
-	1    11800 13750
-	0    -1   -1   0   
-$EndComp
-Wire Bus Line
-	7800 12950 7800 14150
-$Comp
-L power:GND #PWR029
-U 1 1 70208BBE
-P 11100 13900
-F 0 "#PWR029" H 11100 13650 50  0001 C CNN
-F 1 "GND" H 11105 13727 50  0000 C CNN
-F 2 "" H 11100 13900 50  0001 C CNN
-F 3 "" H 11100 13900 50  0001 C CNN
-	1    11100 13900
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR030
-U 1 1 70208C10
-P 11450 13900
-F 0 "#PWR030" H 11450 13650 50  0001 C CNN
-F 1 "GND" H 11455 13727 50  0000 C CNN
-F 2 "" H 11450 13900 50  0001 C CNN
-F 3 "" H 11450 13900 50  0001 C CNN
-	1    11450 13900
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR031
-U 1 1 70208D17
-P 11800 13900
-F 0 "#PWR031" H 11800 13650 50  0001 C CNN
-F 1 "GND" H 11805 13727 50  0000 C CNN
-F 2 "" H 11800 13900 50  0001 C CNN
-F 3 "" H 11800 13900 50  0001 C CNN
-	1    11800 13900
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR032
-U 1 1 70208DF2
-P 12150 13900
-F 0 "#PWR032" H 12150 13650 50  0001 C CNN
-F 1 "GND" H 12155 13727 50  0000 C CNN
-F 2 "" H 12150 13900 50  0001 C CNN
-F 3 "" H 12150 13900 50  0001 C CNN
-	1    12150 13900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R12
-U 1 1 70594AA5
-P 12150 13450
-F 0 "R12" H 12220 13496 50  0000 L CNN
-F 1 "R" H 12220 13405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 12080 13450 50  0001 C CNN
-F 3 "~" H 12150 13450 50  0001 C CNN
-	1    12150 13450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R11
-U 1 1 70594B38
-P 11800 13450
-F 0 "R11" H 11870 13496 50  0000 L CNN
-F 1 "R" H 11870 13405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 11730 13450 50  0001 C CNN
-F 3 "~" H 11800 13450 50  0001 C CNN
-	1    11800 13450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R10
-U 1 1 70594C37
-P 11450 13450
-F 0 "R10" H 11520 13496 50  0000 L CNN
-F 1 "R" H 11520 13405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 11380 13450 50  0001 C CNN
-F 3 "~" H 11450 13450 50  0001 C CNN
-	1    11450 13450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R9
-U 1 1 70594D36
-P 11100 13450
-F 0 "R9" H 11170 13496 50  0000 L CNN
-F 1 "R" H 11170 13405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 11030 13450 50  0001 C CNN
-F 3 "~" H 11100 13450 50  0001 C CNN
-	1    11100 13450
-	1    0    0    -1  
-$EndComp
+	5900 10500 6450 10500
 $Comp
 L power:GND #PWR010
 U 1 1 69CFA3DF
-P 10000 12950
-F 0 "#PWR010" H 10000 12700 50  0001 C CNN
-F 1 "GND" H 10005 12777 50  0000 C CNN
-F 2 "" H 10000 12950 50  0001 C CNN
-F 3 "" H 10000 12950 50  0001 C CNN
-	1    10000 12950
-	1    0    0    -1  
+P 7850 10900
+F 0 "#PWR010" H 7850 10650 50  0001 C CNN
+F 1 "GND" H 7855 10727 50  0000 C CNN
+F 2 "" H 7850 10900 50  0001 C CNN
+F 3 "" H 7850 10900 50  0001 C CNN
+	1    7850 10900
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	10000 12950 10000 12450
-Text Label 10200 12850 1    50   ~ 0
-GPIO11
-Text Label 10300 12850 1    50   ~ 0
-GPIO12
-Text Label 10400 12850 1    50   ~ 0
-GPIO13
-Text Label 10100 12850 1    50   ~ 0
-GPIO10
-Text Label 11100 13050 3    50   ~ 0
-GPIO10
-Text Label 11450 13050 3    50   ~ 0
-GPIO11
-Text Label 11800 13050 3    50   ~ 0
-GPIO12
-Text Label 12150 13050 3    50   ~ 0
-GPIO13
-Wire Wire Line
-	11100 13050 11100 13300
-Wire Wire Line
-	11450 13050 11450 13300
-Wire Wire Line
-	11800 13050 11800 13300
-Wire Wire Line
-	12150 13050 12150 13300
-Text Notes 7950 13700 0    50   ~ 0
-マトリックス側の Col とマイコン側の Col が交差しているせいで配線が面倒くさい。\nマイコン側の Col の並び順を入れ替えろ。\n
 Wire Wire Line
 	13900 21500 9900 21500
 Connection ~ 13900 21500
 Connection ~ 9900 21500
-Wire Bus Line
-	18500 14150 18500 13450
-Wire Bus Line
-	18250 14150 18500 14150
-Connection ~ 18500 14150
-Wire Wire Line
-	31650 18150 31650 18500
+NoConn ~ 6450 11700
+Text Notes 26300 16850 0    50   ~ 0
+全てのLEDを並列接続にする。\nカソード側の抵抗値を 100 にする
 $Comp
-L power:+3V3 #PWR?
-U 1 1 71D1920F
-P 19150 11550
-F 0 "#PWR?" H 19150 11400 50  0001 C CNN
-F 1 "+3V3" H 19165 11723 50  0000 C CNN
-F 2 "" H 19150 11550 50  0001 C CNN
-F 3 "" H 19150 11550 50  0001 C CNN
-	1    19150 11550
+L Switch:SW_MEC_5G_LED SW82
+U 1 1 6101D60C
+P 23400 17800
+F 0 "SW82" H 23400 18185 50  0000 C CNN
+F 1 "End" H 23400 18094 50  0000 C CNN
+F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 23400 18100 50  0001 C CNN
+F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 23400 18100 50  0001 C CNN
+	1    23400 17800
 	1    0    0    -1  
 $EndComp
-NoConn ~ 9200 11050
+Entry Wire Line
+	25750 20600 25850 20500
+Wire Wire Line
+	6700 16600 6700 16800
+Wire Wire Line
+	6700 16800 6600 16800
+Wire Wire Line
+	7600 16800 7750 16800
+Wire Wire Line
+	7750 16800 7750 16600
+Connection ~ 7750 16600
+Wire Wire Line
+	7750 16600 6700 16600
+Wire Wire Line
+	8600 16800 8750 16800
+Wire Wire Line
+	8750 16800 8750 16600
+Connection ~ 8750 16600
+Wire Wire Line
+	8750 16600 7750 16600
+Wire Wire Line
+	9600 16800 9750 16800
+Wire Wire Line
+	9750 16800 9750 16600
+Connection ~ 9750 16600
+Wire Wire Line
+	9750 16600 8750 16600
+Wire Wire Line
+	10600 16800 10750 16800
+Wire Wire Line
+	10750 16800 10750 16600
+Connection ~ 10750 16600
+Wire Wire Line
+	10750 16600 9750 16600
+Wire Wire Line
+	11600 16800 11750 16800
+Wire Wire Line
+	11750 16800 11750 16600
+Connection ~ 11750 16600
+Wire Wire Line
+	11750 16600 10750 16600
+Wire Wire Line
+	12600 16800 12750 16800
+Wire Wire Line
+	12750 16800 12750 16600
+Connection ~ 12750 16600
+Wire Wire Line
+	12750 16600 11750 16600
+Wire Wire Line
+	13600 16800 13750 16800
+Wire Wire Line
+	13750 16800 13750 16600
+Connection ~ 13750 16600
+Wire Wire Line
+	13750 16600 12750 16600
+Wire Wire Line
+	14600 16800 14750 16800
+Wire Wire Line
+	14750 16800 14750 16600
+Connection ~ 14750 16600
+Wire Wire Line
+	14750 16600 13750 16600
+Wire Wire Line
+	15600 16800 15750 16800
+Wire Wire Line
+	15750 16800 15750 16600
+Connection ~ 15750 16600
+Wire Wire Line
+	15750 16600 14750 16600
+Wire Wire Line
+	16600 16800 16750 16800
+Wire Wire Line
+	16750 16800 16750 16600
+Connection ~ 16750 16600
+Wire Wire Line
+	16750 16600 15750 16600
+Wire Wire Line
+	17600 16800 17750 16800
+Wire Wire Line
+	17750 16800 17750 16600
+Connection ~ 17750 16600
+Wire Wire Line
+	17750 16600 16750 16600
+Wire Wire Line
+	18600 16800 18750 16800
+Wire Wire Line
+	18750 16800 18750 16600
+Connection ~ 18750 16600
+Wire Wire Line
+	18750 16600 17750 16600
+Wire Wire Line
+	19600 16800 19750 16800
+Wire Wire Line
+	19750 16800 19750 16600
+Connection ~ 19750 16600
+Wire Wire Line
+	19750 16600 18750 16600
+Wire Wire Line
+	20600 16800 20950 16800
+Wire Wire Line
+	20950 16800 20950 16600
+Connection ~ 20950 16600
+Wire Wire Line
+	20950 16600 19750 16600
+Wire Wire Line
+	22600 16800 22750 16800
+Wire Wire Line
+	22750 16800 22750 16600
+Connection ~ 22750 16600
+Wire Wire Line
+	22750 16600 20950 16600
+Wire Wire Line
+	23600 16800 23750 16800
+Wire Wire Line
+	23750 16800 23750 16600
+Connection ~ 23750 16600
+Wire Wire Line
+	23750 16600 22750 16600
+Wire Wire Line
+	24600 16800 24750 16800
+Wire Wire Line
+	24750 16800 24750 16600
+Wire Wire Line
+	24750 16600 23750 16600
+Wire Wire Line
+	6700 17600 6700 17800
+Wire Wire Line
+	6700 17800 6600 17800
+Wire Wire Line
+	6600 18800 6700 18800
+Wire Wire Line
+	6700 18800 6700 18600
+Wire Wire Line
+	6700 18600 8500 18600
+Wire Wire Line
+	6700 19600 6700 19800
+Wire Wire Line
+	6700 19800 6600 19800
+Wire Wire Line
+	6600 20800 6700 20800
+Wire Wire Line
+	6700 20800 6700 20600
+$Comp
+L power:GND #PWR0106
+U 1 1 62C4335D
+P 24200 16800
+F 0 "#PWR0106" H 24200 16550 50  0001 C CNN
+F 1 "GND" H 24205 16627 50  0000 C CNN
+F 2 "" H 24200 16800 50  0001 C CNN
+F 3 "" H 24200 16800 50  0001 C CNN
+	1    24200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 62C433B3
+P 23200 16800
+F 0 "#PWR0107" H 23200 16550 50  0001 C CNN
+F 1 "GND" H 23205 16627 50  0000 C CNN
+F 2 "" H 23200 16800 50  0001 C CNN
+F 3 "" H 23200 16800 50  0001 C CNN
+	1    23200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 62C43409
+P 22200 16800
+F 0 "#PWR0108" H 22200 16550 50  0001 C CNN
+F 1 "GND" H 22205 16627 50  0000 C CNN
+F 2 "" H 22200 16800 50  0001 C CNN
+F 3 "" H 22200 16800 50  0001 C CNN
+	1    22200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 62C4345F
+P 20200 16800
+F 0 "#PWR0109" H 20200 16550 50  0001 C CNN
+F 1 "GND" H 20205 16627 50  0000 C CNN
+F 2 "" H 20200 16800 50  0001 C CNN
+F 3 "" H 20200 16800 50  0001 C CNN
+	1    20200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 62C434E1
+P 19200 16800
+F 0 "#PWR0110" H 19200 16550 50  0001 C CNN
+F 1 "GND" H 19205 16627 50  0000 C CNN
+F 2 "" H 19200 16800 50  0001 C CNN
+F 3 "" H 19200 16800 50  0001 C CNN
+	1    19200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 62C43563
+P 18200 16800
+F 0 "#PWR0111" H 18200 16550 50  0001 C CNN
+F 1 "GND" H 18205 16627 50  0000 C CNN
+F 2 "" H 18200 16800 50  0001 C CNN
+F 3 "" H 18200 16800 50  0001 C CNN
+	1    18200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 62C435E5
+P 17200 16800
+F 0 "#PWR0112" H 17200 16550 50  0001 C CNN
+F 1 "GND" H 17205 16627 50  0000 C CNN
+F 2 "" H 17200 16800 50  0001 C CNN
+F 3 "" H 17200 16800 50  0001 C CNN
+	1    17200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0113
+U 1 1 62C4363B
+P 16200 16800
+F 0 "#PWR0113" H 16200 16550 50  0001 C CNN
+F 1 "GND" H 16205 16627 50  0000 C CNN
+F 2 "" H 16200 16800 50  0001 C CNN
+F 3 "" H 16200 16800 50  0001 C CNN
+	1    16200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 62C43691
+P 15200 16800
+F 0 "#PWR0114" H 15200 16550 50  0001 C CNN
+F 1 "GND" H 15205 16627 50  0000 C CNN
+F 2 "" H 15200 16800 50  0001 C CNN
+F 3 "" H 15200 16800 50  0001 C CNN
+	1    15200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 62C436E7
+P 14200 16800
+F 0 "#PWR0115" H 14200 16550 50  0001 C CNN
+F 1 "GND" H 14205 16627 50  0000 C CNN
+F 2 "" H 14200 16800 50  0001 C CNN
+F 3 "" H 14200 16800 50  0001 C CNN
+	1    14200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 62C4373D
+P 13200 16800
+F 0 "#PWR0116" H 13200 16550 50  0001 C CNN
+F 1 "GND" H 13205 16627 50  0000 C CNN
+F 2 "" H 13200 16800 50  0001 C CNN
+F 3 "" H 13200 16800 50  0001 C CNN
+	1    13200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 62C47A98
+P 12200 16800
+F 0 "#PWR0117" H 12200 16550 50  0001 C CNN
+F 1 "GND" H 12205 16627 50  0000 C CNN
+F 2 "" H 12200 16800 50  0001 C CNN
+F 3 "" H 12200 16800 50  0001 C CNN
+	1    12200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 62C47AF5
+P 11200 16800
+F 0 "#PWR0118" H 11200 16550 50  0001 C CNN
+F 1 "GND" H 11205 16627 50  0000 C CNN
+F 2 "" H 11200 16800 50  0001 C CNN
+F 3 "" H 11200 16800 50  0001 C CNN
+	1    11200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 62C47B4B
+P 10200 16800
+F 0 "#PWR0119" H 10200 16550 50  0001 C CNN
+F 1 "GND" H 10205 16627 50  0000 C CNN
+F 2 "" H 10200 16800 50  0001 C CNN
+F 3 "" H 10200 16800 50  0001 C CNN
+	1    10200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0120
+U 1 1 62C47BA1
+P 9200 16800
+F 0 "#PWR0120" H 9200 16550 50  0001 C CNN
+F 1 "GND" H 9205 16627 50  0000 C CNN
+F 2 "" H 9200 16800 50  0001 C CNN
+F 3 "" H 9200 16800 50  0001 C CNN
+	1    9200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0121
+U 1 1 62C47BF7
+P 8200 16800
+F 0 "#PWR0121" H 8200 16550 50  0001 C CNN
+F 1 "GND" H 8205 16627 50  0000 C CNN
+F 2 "" H 8200 16800 50  0001 C CNN
+F 3 "" H 8200 16800 50  0001 C CNN
+	1    8200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0122
+U 1 1 62C47C4D
+P 7200 16800
+F 0 "#PWR0122" H 7200 16550 50  0001 C CNN
+F 1 "GND" H 7205 16627 50  0000 C CNN
+F 2 "" H 7200 16800 50  0001 C CNN
+F 3 "" H 7200 16800 50  0001 C CNN
+	1    7200 16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0123
+U 1 1 62C5236A
+P 7700 17800
+F 0 "#PWR0123" H 7700 17550 50  0001 C CNN
+F 1 "GND" H 7705 17627 50  0000 C CNN
+F 2 "" H 7700 17800 50  0001 C CNN
+F 3 "" H 7700 17800 50  0001 C CNN
+	1    7700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0124
+U 1 1 62C56850
+P 8700 17800
+F 0 "#PWR0124" H 8700 17550 50  0001 C CNN
+F 1 "GND" H 8705 17627 50  0000 C CNN
+F 2 "" H 8700 17800 50  0001 C CNN
+F 3 "" H 8700 17800 50  0001 C CNN
+	1    8700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0125
+U 1 1 62C568AD
+P 9700 17800
+F 0 "#PWR0125" H 9700 17550 50  0001 C CNN
+F 1 "GND" H 9705 17627 50  0000 C CNN
+F 2 "" H 9700 17800 50  0001 C CNN
+F 3 "" H 9700 17800 50  0001 C CNN
+	1    9700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0126
+U 1 1 62C56903
+P 10700 17800
+F 0 "#PWR0126" H 10700 17550 50  0001 C CNN
+F 1 "GND" H 10705 17627 50  0000 C CNN
+F 2 "" H 10700 17800 50  0001 C CNN
+F 3 "" H 10700 17800 50  0001 C CNN
+	1    10700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0127
+U 1 1 62C56959
+P 11700 17800
+F 0 "#PWR0127" H 11700 17550 50  0001 C CNN
+F 1 "GND" H 11705 17627 50  0000 C CNN
+F 2 "" H 11700 17800 50  0001 C CNN
+F 3 "" H 11700 17800 50  0001 C CNN
+	1    11700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0128
+U 1 1 62C569AF
+P 12700 17800
+F 0 "#PWR0128" H 12700 17550 50  0001 C CNN
+F 1 "GND" H 12705 17627 50  0000 C CNN
+F 2 "" H 12700 17800 50  0001 C CNN
+F 3 "" H 12700 17800 50  0001 C CNN
+	1    12700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0129
+U 1 1 62C56A05
+P 13700 17800
+F 0 "#PWR0129" H 13700 17550 50  0001 C CNN
+F 1 "GND" H 13705 17627 50  0000 C CNN
+F 2 "" H 13700 17800 50  0001 C CNN
+F 3 "" H 13700 17800 50  0001 C CNN
+	1    13700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0130
+U 1 1 62C56A5B
+P 14700 17800
+F 0 "#PWR0130" H 14700 17550 50  0001 C CNN
+F 1 "GND" H 14705 17627 50  0000 C CNN
+F 2 "" H 14700 17800 50  0001 C CNN
+F 3 "" H 14700 17800 50  0001 C CNN
+	1    14700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0131
+U 1 1 62C56AB1
+P 15700 17800
+F 0 "#PWR0131" H 15700 17550 50  0001 C CNN
+F 1 "GND" H 15705 17627 50  0000 C CNN
+F 2 "" H 15700 17800 50  0001 C CNN
+F 3 "" H 15700 17800 50  0001 C CNN
+	1    15700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0132
+U 1 1 62C56B07
+P 16700 17800
+F 0 "#PWR0132" H 16700 17550 50  0001 C CNN
+F 1 "GND" H 16705 17627 50  0000 C CNN
+F 2 "" H 16700 17800 50  0001 C CNN
+F 3 "" H 16700 17800 50  0001 C CNN
+	1    16700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0133
+U 1 1 62C56B5D
+P 17700 17800
+F 0 "#PWR0133" H 17700 17550 50  0001 C CNN
+F 1 "GND" H 17705 17627 50  0000 C CNN
+F 2 "" H 17700 17800 50  0001 C CNN
+F 3 "" H 17700 17800 50  0001 C CNN
+	1    17700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0134
+U 1 1 62C56BB3
+P 18700 17800
+F 0 "#PWR0134" H 18700 17550 50  0001 C CNN
+F 1 "GND" H 18705 17627 50  0000 C CNN
+F 2 "" H 18700 17800 50  0001 C CNN
+F 3 "" H 18700 17800 50  0001 C CNN
+	1    18700 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0135
+U 1 1 62C56C09
+P 20200 17800
+F 0 "#PWR0135" H 20200 17550 50  0001 C CNN
+F 1 "GND" H 20205 17627 50  0000 C CNN
+F 2 "" H 20200 17800 50  0001 C CNN
+F 3 "" H 20200 17800 50  0001 C CNN
+	1    20200 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0136
+U 1 1 62C56CCD
+P 22200 17800
+F 0 "#PWR0136" H 22200 17550 50  0001 C CNN
+F 1 "GND" H 22205 17627 50  0000 C CNN
+F 2 "" H 22200 17800 50  0001 C CNN
+F 3 "" H 22200 17800 50  0001 C CNN
+	1    22200 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0137
+U 1 1 62C56CFF
+P 23200 17800
+F 0 "#PWR0137" H 23200 17550 50  0001 C CNN
+F 1 "GND" H 23205 17627 50  0000 C CNN
+F 2 "" H 23200 17800 50  0001 C CNN
+F 3 "" H 23200 17800 50  0001 C CNN
+	1    23200 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0138
+U 1 1 62C56D55
+P 24200 17800
+F 0 "#PWR0138" H 24200 17550 50  0001 C CNN
+F 1 "GND" H 24205 17627 50  0000 C CNN
+F 2 "" H 24200 17800 50  0001 C CNN
+F 3 "" H 24200 17800 50  0001 C CNN
+	1    24200 17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0147
+U 1 1 62C5705B
+P 18950 18800
+F 0 "#PWR0147" H 18950 18550 50  0001 C CNN
+F 1 "GND" H 18955 18627 50  0000 C CNN
+F 2 "" H 18950 18800 50  0001 C CNN
+F 3 "" H 18950 18800 50  0001 C CNN
+	1    18950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0148
+U 1 1 62C570B1
+P 17950 18800
+F 0 "#PWR0148" H 17950 18550 50  0001 C CNN
+F 1 "GND" H 17955 18627 50  0000 C CNN
+F 2 "" H 17950 18800 50  0001 C CNN
+F 3 "" H 17950 18800 50  0001 C CNN
+	1    17950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0149
+U 1 1 62C57107
+P 16950 18800
+F 0 "#PWR0149" H 16950 18550 50  0001 C CNN
+F 1 "GND" H 16955 18627 50  0000 C CNN
+F 2 "" H 16950 18800 50  0001 C CNN
+F 3 "" H 16950 18800 50  0001 C CNN
+	1    16950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0150
+U 1 1 62C5715D
+P 15950 18800
+F 0 "#PWR0150" H 15950 18550 50  0001 C CNN
+F 1 "GND" H 15955 18627 50  0000 C CNN
+F 2 "" H 15950 18800 50  0001 C CNN
+F 3 "" H 15950 18800 50  0001 C CNN
+	1    15950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0151
+U 1 1 62C571B3
+P 14950 18800
+F 0 "#PWR0151" H 14950 18550 50  0001 C CNN
+F 1 "GND" H 14955 18627 50  0000 C CNN
+F 2 "" H 14950 18800 50  0001 C CNN
+F 3 "" H 14950 18800 50  0001 C CNN
+	1    14950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0152
+U 1 1 62C57215
+P 13950 18800
+F 0 "#PWR0152" H 13950 18550 50  0001 C CNN
+F 1 "GND" H 13955 18627 50  0000 C CNN
+F 2 "" H 13950 18800 50  0001 C CNN
+F 3 "" H 13950 18800 50  0001 C CNN
+	1    13950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0153
+U 1 1 62C5726B
+P 12950 18800
+F 0 "#PWR0153" H 12950 18550 50  0001 C CNN
+F 1 "GND" H 12955 18627 50  0000 C CNN
+F 2 "" H 12950 18800 50  0001 C CNN
+F 3 "" H 12950 18800 50  0001 C CNN
+	1    12950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0154
+U 1 1 62C572C1
+P 11950 18800
+F 0 "#PWR0154" H 11950 18550 50  0001 C CNN
+F 1 "GND" H 11955 18627 50  0000 C CNN
+F 2 "" H 11950 18800 50  0001 C CNN
+F 3 "" H 11950 18800 50  0001 C CNN
+	1    11950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0155
+U 1 1 62C57317
+P 10950 18800
+F 0 "#PWR0155" H 10950 18550 50  0001 C CNN
+F 1 "GND" H 10955 18627 50  0000 C CNN
+F 2 "" H 10950 18800 50  0001 C CNN
+F 3 "" H 10950 18800 50  0001 C CNN
+	1    10950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0156
+U 1 1 62C5739F
+P 9950 18800
+F 0 "#PWR0156" H 9950 18550 50  0001 C CNN
+F 1 "GND" H 9955 18627 50  0000 C CNN
+F 2 "" H 9950 18800 50  0001 C CNN
+F 3 "" H 9950 18800 50  0001 C CNN
+	1    9950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0157
+U 1 1 62C573F5
+P 8950 18800
+F 0 "#PWR0157" H 8950 18550 50  0001 C CNN
+F 1 "GND" H 8955 18627 50  0000 C CNN
+F 2 "" H 8950 18800 50  0001 C CNN
+F 3 "" H 8950 18800 50  0001 C CNN
+	1    8950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0158
+U 1 1 62C5744B
+P 7950 18800
+F 0 "#PWR0158" H 7950 18550 50  0001 C CNN
+F 1 "GND" H 7955 18627 50  0000 C CNN
+F 2 "" H 7950 18800 50  0001 C CNN
+F 3 "" H 7950 18800 50  0001 C CNN
+	1    7950 18800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0159
+U 1 1 62C597DC
+P 8200 19800
+F 0 "#PWR0159" H 8200 19550 50  0001 C CNN
+F 1 "GND" H 8205 19627 50  0000 C CNN
+F 2 "" H 8200 19800 50  0001 C CNN
+F 3 "" H 8200 19800 50  0001 C CNN
+	1    8200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0160
+U 1 1 62C59839
+P 9200 19800
+F 0 "#PWR0160" H 9200 19550 50  0001 C CNN
+F 1 "GND" H 9205 19627 50  0000 C CNN
+F 2 "" H 9200 19800 50  0001 C CNN
+F 3 "" H 9200 19800 50  0001 C CNN
+	1    9200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0161
+U 1 1 62C5988F
+P 10200 19800
+F 0 "#PWR0161" H 10200 19550 50  0001 C CNN
+F 1 "GND" H 10205 19627 50  0000 C CNN
+F 2 "" H 10200 19800 50  0001 C CNN
+F 3 "" H 10200 19800 50  0001 C CNN
+	1    10200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0162
+U 1 1 62C598E5
+P 11200 19800
+F 0 "#PWR0162" H 11200 19550 50  0001 C CNN
+F 1 "GND" H 11205 19627 50  0000 C CNN
+F 2 "" H 11200 19800 50  0001 C CNN
+F 3 "" H 11200 19800 50  0001 C CNN
+	1    11200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0163
+U 1 1 62C5993B
+P 12200 19800
+F 0 "#PWR0163" H 12200 19550 50  0001 C CNN
+F 1 "GND" H 12205 19627 50  0000 C CNN
+F 2 "" H 12200 19800 50  0001 C CNN
+F 3 "" H 12200 19800 50  0001 C CNN
+	1    12200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0164
+U 1 1 62C59991
+P 13200 19800
+F 0 "#PWR0164" H 13200 19550 50  0001 C CNN
+F 1 "GND" H 13205 19627 50  0000 C CNN
+F 2 "" H 13200 19800 50  0001 C CNN
+F 3 "" H 13200 19800 50  0001 C CNN
+	1    13200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0165
+U 1 1 62C599E7
+P 14200 19800
+F 0 "#PWR0165" H 14200 19550 50  0001 C CNN
+F 1 "GND" H 14205 19627 50  0000 C CNN
+F 2 "" H 14200 19800 50  0001 C CNN
+F 3 "" H 14200 19800 50  0001 C CNN
+	1    14200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0166
+U 1 1 62C59A3D
+P 15200 19800
+F 0 "#PWR0166" H 15200 19550 50  0001 C CNN
+F 1 "GND" H 15205 19627 50  0000 C CNN
+F 2 "" H 15200 19800 50  0001 C CNN
+F 3 "" H 15200 19800 50  0001 C CNN
+	1    15200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0167
+U 1 1 62C59A93
+P 16200 19800
+F 0 "#PWR0167" H 16200 19550 50  0001 C CNN
+F 1 "GND" H 16205 19627 50  0000 C CNN
+F 2 "" H 16200 19800 50  0001 C CNN
+F 3 "" H 16200 19800 50  0001 C CNN
+	1    16200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0168
+U 1 1 62C59AE9
+P 17200 19800
+F 0 "#PWR0168" H 17200 19550 50  0001 C CNN
+F 1 "GND" H 17205 19627 50  0000 C CNN
+F 2 "" H 17200 19800 50  0001 C CNN
+F 3 "" H 17200 19800 50  0001 C CNN
+	1    17200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0169
+U 1 1 62C59B3F
+P 18200 19800
+F 0 "#PWR0169" H 18200 19550 50  0001 C CNN
+F 1 "GND" H 18205 19627 50  0000 C CNN
+F 2 "" H 18200 19800 50  0001 C CNN
+F 3 "" H 18200 19800 50  0001 C CNN
+	1    18200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0170
+U 1 1 62C59B95
+P 20200 19800
+F 0 "#PWR0170" H 20200 19550 50  0001 C CNN
+F 1 "GND" H 20205 19627 50  0000 C CNN
+F 2 "" H 20200 19800 50  0001 C CNN
+F 3 "" H 20200 19800 50  0001 C CNN
+	1    20200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0171
+U 1 1 62C59BEB
+P 23200 19800
+F 0 "#PWR0171" H 23200 19550 50  0001 C CNN
+F 1 "GND" H 23205 19627 50  0000 C CNN
+F 2 "" H 23200 19800 50  0001 C CNN
+F 3 "" H 23200 19800 50  0001 C CNN
+	1    23200 19800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0180
+U 1 1 62C59EF1
+P 24200 20800
+F 0 "#PWR0180" H 24200 20550 50  0001 C CNN
+F 1 "GND" H 24205 20627 50  0000 C CNN
+F 2 "" H 24200 20800 50  0001 C CNN
+F 3 "" H 24200 20800 50  0001 C CNN
+	1    24200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0181
+U 1 1 62C59F47
+P 23200 20800
+F 0 "#PWR0181" H 23200 20550 50  0001 C CNN
+F 1 "GND" H 23205 20627 50  0000 C CNN
+F 2 "" H 23200 20800 50  0001 C CNN
+F 3 "" H 23200 20800 50  0001 C CNN
+	1    23200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0182
+U 1 1 62C59F9D
+P 22200 20800
+F 0 "#PWR0182" H 22200 20550 50  0001 C CNN
+F 1 "GND" H 22205 20627 50  0000 C CNN
+F 2 "" H 22200 20800 50  0001 C CNN
+F 3 "" H 22200 20800 50  0001 C CNN
+	1    22200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0183
+U 1 1 62C59FF3
+P 20200 20800
+F 0 "#PWR0183" H 20200 20550 50  0001 C CNN
+F 1 "GND" H 20205 20627 50  0000 C CNN
+F 2 "" H 20200 20800 50  0001 C CNN
+F 3 "" H 20200 20800 50  0001 C CNN
+	1    20200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0184
+U 1 1 62C5A049
+P 19200 20800
+F 0 "#PWR0184" H 19200 20550 50  0001 C CNN
+F 1 "GND" H 19205 20627 50  0000 C CNN
+F 2 "" H 19200 20800 50  0001 C CNN
+F 3 "" H 19200 20800 50  0001 C CNN
+	1    19200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0185
+U 1 1 62C5A09F
+P 18200 20800
+F 0 "#PWR0185" H 18200 20550 50  0001 C CNN
+F 1 "GND" H 18205 20627 50  0000 C CNN
+F 2 "" H 18200 20800 50  0001 C CNN
+F 3 "" H 18200 20800 50  0001 C CNN
+	1    18200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0186
+U 1 1 62C60EEF
+P 17200 20800
+F 0 "#PWR0186" H 17200 20550 50  0001 C CNN
+F 1 "GND" H 17205 20627 50  0000 C CNN
+F 2 "" H 17200 20800 50  0001 C CNN
+F 3 "" H 17200 20800 50  0001 C CNN
+	1    17200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0187
+U 1 1 62C60F4C
+P 13200 20800
+F 0 "#PWR0187" H 13200 20550 50  0001 C CNN
+F 1 "GND" H 13205 20627 50  0000 C CNN
+F 2 "" H 13200 20800 50  0001 C CNN
+F 3 "" H 13200 20800 50  0001 C CNN
+	1    13200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0188
+U 1 1 62C60FA2
+P 9200 20800
+F 0 "#PWR0188" H 9200 20550 50  0001 C CNN
+F 1 "GND" H 9205 20627 50  0000 C CNN
+F 2 "" H 9200 20800 50  0001 C CNN
+F 3 "" H 9200 20800 50  0001 C CNN
+	1    9200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0189
+U 1 1 62C60FF8
+P 8200 20800
+F 0 "#PWR0189" H 8200 20550 50  0001 C CNN
+F 1 "GND" H 8205 20627 50  0000 C CNN
+F 2 "" H 8200 20800 50  0001 C CNN
+F 3 "" H 8200 20800 50  0001 C CNN
+	1    8200 20800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0190
+U 1 1 62C6104E
+P 7200 20800
+F 0 "#PWR0190" H 7200 20550 50  0001 C CNN
+F 1 "GND" H 7205 20627 50  0000 C CNN
+F 2 "" H 7200 20800 50  0001 C CNN
+F 3 "" H 7200 20800 50  0001 C CNN
+	1    7200 20800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8350 18800 8500 18800
+Wire Wire Line
+	8500 18800 8500 18600
+Connection ~ 8500 18600
+Wire Wire Line
+	8500 18600 9500 18600
+Wire Wire Line
+	9500 18600 9500 18800
+Wire Wire Line
+	9500 18800 9350 18800
+Connection ~ 9500 18600
+Wire Wire Line
+	9500 18600 10500 18600
+Wire Wire Line
+	10350 18800 10500 18800
+Wire Wire Line
+	10500 18800 10500 18600
+Connection ~ 10500 18600
+Wire Wire Line
+	10500 18600 11500 18600
+Wire Wire Line
+	11350 18800 11500 18800
+Wire Wire Line
+	11500 18800 11500 18600
+Connection ~ 11500 18600
+Wire Wire Line
+	11500 18600 12500 18600
+Wire Wire Line
+	12350 18800 12500 18800
+Wire Wire Line
+	12500 18800 12500 18600
+Connection ~ 12500 18600
+Wire Wire Line
+	12500 18600 13500 18600
+Wire Wire Line
+	13350 18800 13500 18800
+Wire Wire Line
+	13500 18800 13500 18600
+Connection ~ 13500 18600
+Wire Wire Line
+	13500 18600 14500 18600
+Wire Wire Line
+	14350 18800 14500 18800
+Wire Wire Line
+	14500 18800 14500 18600
+Connection ~ 14500 18600
+Wire Wire Line
+	14500 18600 15500 18600
+Wire Wire Line
+	15350 18800 15500 18800
+Wire Wire Line
+	15500 18800 15500 18600
+Connection ~ 15500 18600
+Wire Wire Line
+	15500 18600 16500 18600
+Wire Wire Line
+	16350 18800 16500 18800
+Wire Wire Line
+	16500 18800 16500 18600
+Connection ~ 16500 18600
+Wire Wire Line
+	16500 18600 17500 18600
+Wire Wire Line
+	17350 18800 17500 18800
+Wire Wire Line
+	17500 18800 17500 18600
+Connection ~ 17500 18600
+Wire Wire Line
+	17500 18600 18500 18600
+Wire Wire Line
+	18350 18800 18500 18800
+Wire Wire Line
+	18500 18800 18500 18600
+Connection ~ 18500 18600
+Wire Wire Line
+	18500 18600 19450 18600
+Wire Wire Line
+	19350 18800 19450 18800
+Wire Wire Line
+	19450 18800 19450 18600
+Wire Wire Line
+	22600 17800 22750 17800
+Wire Wire Line
+	22750 17800 22750 17600
+Connection ~ 22750 17600
+Wire Wire Line
+	22750 17600 20750 17600
+Wire Wire Line
+	23600 17800 23750 17800
+Wire Wire Line
+	23750 17800 23750 17600
+Connection ~ 23750 17600
+Wire Wire Line
+	23750 17600 22750 17600
+Wire Wire Line
+	24600 17800 24750 17800
+Wire Wire Line
+	24750 17800 24750 17600
+Wire Wire Line
+	24750 17600 23750 17600
+Wire Wire Line
+	24600 20800 24800 20800
+Wire Wire Line
+	24800 20800 24800 20600
+Wire Wire Line
+	22600 20800 22750 20800
+Wire Wire Line
+	22750 20800 22750 20600
+Connection ~ 22750 20600
+Wire Wire Line
+	22750 20600 23750 20600
+Wire Wire Line
+	23600 20800 23750 20800
+Wire Wire Line
+	23750 20800 23750 20600
+Connection ~ 23750 20600
+Wire Wire Line
+	23750 20600 24800 20600
+Wire Wire Line
+	23600 19800 23750 19800
+Wire Wire Line
+	23750 19800 23750 19600
+Wire Wire Line
+	23750 19600 20750 19600
+Wire Wire Line
+	20600 19800 20750 19800
+Wire Wire Line
+	20750 19800 20750 19600
+Connection ~ 20750 19600
+Wire Wire Line
+	20750 19600 18750 19600
+Wire Wire Line
+	20750 20800 20750 20600
+Connection ~ 20750 20600
+Wire Wire Line
+	20750 20600 22750 20600
+Wire Wire Line
+	20600 20800 20750 20800
+Wire Wire Line
+	19600 20800 19750 20800
+Wire Wire Line
+	19750 20800 19750 20600
+Connection ~ 19750 20600
+Wire Wire Line
+	19750 20600 20750 20600
+Wire Wire Line
+	18600 20800 18750 20800
+Wire Wire Line
+	18750 20800 18750 20600
+Connection ~ 18750 20600
+Wire Wire Line
+	18750 20600 19750 20600
+Wire Wire Line
+	17600 20800 17750 20800
+Wire Wire Line
+	17750 20800 17750 20600
+Connection ~ 17750 20600
+Wire Wire Line
+	17750 20600 18750 20600
+Wire Wire Line
+	18600 19800 18750 19800
+Wire Wire Line
+	18750 19800 18750 19600
+Connection ~ 18750 19600
+Wire Wire Line
+	18750 19600 17750 19600
+Wire Wire Line
+	17600 19800 17750 19800
+Wire Wire Line
+	17750 19800 17750 19600
+Connection ~ 17750 19600
+Wire Wire Line
+	17750 19600 16750 19600
+Wire Wire Line
+	16600 19800 16750 19800
+Wire Wire Line
+	16750 19800 16750 19600
+Connection ~ 16750 19600
+Wire Wire Line
+	16750 19600 15750 19600
+Wire Wire Line
+	15750 19800 15600 19800
+Wire Wire Line
+	15750 19600 15750 19800
+Connection ~ 15750 19600
+Wire Wire Line
+	15750 19600 14750 19600
+Wire Wire Line
+	14750 19800 14600 19800
+Wire Wire Line
+	13600 19800 13750 19800
+Wire Wire Line
+	13750 19800 13750 19600
+Connection ~ 13750 19600
+Wire Wire Line
+	13750 19600 12750 19600
+Wire Wire Line
+	12600 19800 12750 19800
+Wire Wire Line
+	12750 19800 12750 19600
+Connection ~ 12750 19600
+Wire Wire Line
+	12750 19600 11750 19600
+Wire Wire Line
+	11600 19800 11750 19800
+Wire Wire Line
+	11750 19800 11750 19600
+Connection ~ 11750 19600
+Wire Wire Line
+	11750 19600 10750 19600
+Wire Wire Line
+	10600 19800 10750 19800
+Wire Wire Line
+	10750 19800 10750 19600
+Connection ~ 10750 19600
+Wire Wire Line
+	10750 19600 9800 19600
+Wire Wire Line
+	9600 19800 9800 19800
+Wire Wire Line
+	9800 19800 9800 19600
+Connection ~ 9800 19600
+Wire Wire Line
+	9800 19600 8750 19600
+Wire Wire Line
+	8600 19800 8750 19800
+Wire Wire Line
+	8750 19800 8750 19600
+Connection ~ 8750 19600
+Wire Wire Line
+	8750 19600 6700 19600
+Wire Wire Line
+	8600 20800 8750 20800
+Wire Wire Line
+	8750 20800 8750 20600
+Connection ~ 8750 20600
+Wire Wire Line
+	8750 20600 9750 20600
+Wire Wire Line
+	6700 20600 7750 20600
+Wire Wire Line
+	7600 20800 7750 20800
+Wire Wire Line
+	7750 20800 7750 20600
+Connection ~ 7750 20600
+Wire Wire Line
+	7750 20600 8750 20600
+Wire Wire Line
+	9600 20800 9750 20800
+Wire Wire Line
+	9750 20800 9750 20600
+Connection ~ 9750 20600
+Wire Wire Line
+	9750 20600 13750 20600
+Wire Wire Line
+	13600 20800 13750 20800
+Wire Wire Line
+	13750 20800 13750 20600
+Connection ~ 13750 20600
+Wire Wire Line
+	13750 20600 17750 20600
+Wire Wire Line
+	6600 14800 6750 14800
+Wire Wire Line
+	6750 14800 6750 14600
+Wire Wire Line
+	6750 14600 7750 14600
+Wire Wire Line
+	20600 14800 20750 14800
+Wire Wire Line
+	20750 14800 20750 14600
+Wire Wire Line
+	19600 14800 19750 14800
+Wire Wire Line
+	19750 14800 19750 14600
+Connection ~ 19750 14600
+Wire Wire Line
+	19750 14600 20750 14600
+Wire Wire Line
+	18600 14800 18750 14800
+Wire Wire Line
+	18750 14800 18750 14600
+Connection ~ 18750 14600
+Wire Wire Line
+	18750 14600 19750 14600
+Wire Wire Line
+	17600 14800 17750 14800
+Wire Wire Line
+	17750 14800 17750 14600
+Connection ~ 17750 14600
+Wire Wire Line
+	17750 14600 18750 14600
+$Comp
+L power:GND #PWR0191
+U 1 1 6762D860
+P 20200 14800
+F 0 "#PWR0191" H 20200 14550 50  0001 C CNN
+F 1 "GND" H 20205 14627 50  0000 C CNN
+F 2 "" H 20200 14800 50  0001 C CNN
+F 3 "" H 20200 14800 50  0001 C CNN
+	1    20200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0192
+U 1 1 6762DB69
+P 19200 14800
+F 0 "#PWR0192" H 19200 14550 50  0001 C CNN
+F 1 "GND" H 19205 14627 50  0000 C CNN
+F 2 "" H 19200 14800 50  0001 C CNN
+F 3 "" H 19200 14800 50  0001 C CNN
+	1    19200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0193
+U 1 1 6762DD9B
+P 18200 14800
+F 0 "#PWR0193" H 18200 14550 50  0001 C CNN
+F 1 "GND" H 18205 14627 50  0000 C CNN
+F 2 "" H 18200 14800 50  0001 C CNN
+F 3 "" H 18200 14800 50  0001 C CNN
+	1    18200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0194
+U 1 1 6762DFD9
+P 17200 14800
+F 0 "#PWR0194" H 17200 14550 50  0001 C CNN
+F 1 "GND" H 17205 14627 50  0000 C CNN
+F 2 "" H 17200 14800 50  0001 C CNN
+F 3 "" H 17200 14800 50  0001 C CNN
+	1    17200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0195
+U 1 1 6762E1DB
+P 15200 14800
+F 0 "#PWR0195" H 15200 14550 50  0001 C CNN
+F 1 "GND" H 15205 14627 50  0000 C CNN
+F 2 "" H 15200 14800 50  0001 C CNN
+F 3 "" H 15200 14800 50  0001 C CNN
+	1    15200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0196
+U 1 1 6762E231
+P 14200 14800
+F 0 "#PWR0196" H 14200 14550 50  0001 C CNN
+F 1 "GND" H 14205 14627 50  0000 C CNN
+F 2 "" H 14200 14800 50  0001 C CNN
+F 3 "" H 14200 14800 50  0001 C CNN
+	1    14200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0197
+U 1 1 6762E287
+P 13200 14800
+F 0 "#PWR0197" H 13200 14550 50  0001 C CNN
+F 1 "GND" H 13205 14627 50  0000 C CNN
+F 2 "" H 13200 14800 50  0001 C CNN
+F 3 "" H 13200 14800 50  0001 C CNN
+	1    13200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0198
+U 1 1 6762E2DD
+P 12200 14800
+F 0 "#PWR0198" H 12200 14550 50  0001 C CNN
+F 1 "GND" H 12205 14627 50  0000 C CNN
+F 2 "" H 12200 14800 50  0001 C CNN
+F 3 "" H 12200 14800 50  0001 C CNN
+	1    12200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0199
+U 1 1 6762E333
+P 10200 14800
+F 0 "#PWR0199" H 10200 14550 50  0001 C CNN
+F 1 "GND" H 10205 14627 50  0000 C CNN
+F 2 "" H 10200 14800 50  0001 C CNN
+F 3 "" H 10200 14800 50  0001 C CNN
+	1    10200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0200
+U 1 1 6762E389
+P 9200 14800
+F 0 "#PWR0200" H 9200 14550 50  0001 C CNN
+F 1 "GND" H 9205 14627 50  0000 C CNN
+F 2 "" H 9200 14800 50  0001 C CNN
+F 3 "" H 9200 14800 50  0001 C CNN
+	1    9200 14800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0201
+U 1 1 67630993
+P 8200 14800
+F 0 "#PWR0201" H 8200 14550 50  0001 C CNN
+F 1 "GND" H 8205 14627 50  0000 C CNN
+F 2 "" H 8200 14800 50  0001 C CNN
+F 3 "" H 8200 14800 50  0001 C CNN
+	1    8200 14800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 17800 8250 17800
+Wire Wire Line
+	8250 17800 8250 17600
+Connection ~ 8250 17600
+Wire Wire Line
+	8250 17600 6700 17600
+Wire Wire Line
+	9100 17800 9250 17800
+Wire Wire Line
+	9250 17800 9250 17600
+Connection ~ 9250 17600
+Wire Wire Line
+	9250 17600 8250 17600
+Wire Wire Line
+	10100 17800 10250 17800
+Wire Wire Line
+	10250 17800 10250 17600
+Connection ~ 10250 17600
+Wire Wire Line
+	10250 17600 9250 17600
+Wire Wire Line
+	11100 17800 11250 17800
+Wire Wire Line
+	11250 17800 11250 17600
+Connection ~ 11250 17600
+Wire Wire Line
+	11250 17600 10250 17600
+Wire Wire Line
+	12100 17800 12250 17800
+Wire Wire Line
+	12250 17800 12250 17600
+Connection ~ 12250 17600
+Wire Wire Line
+	12250 17600 11250 17600
+Wire Wire Line
+	13250 17600 13250 17800
+Wire Wire Line
+	13250 17800 13100 17800
+Connection ~ 13250 17600
+Wire Wire Line
+	13250 17600 12250 17600
+Wire Wire Line
+	14100 17800 14250 17800
+Wire Wire Line
+	14250 17800 14250 17600
+Connection ~ 14250 17600
+Wire Wire Line
+	14250 17600 13250 17600
+Wire Wire Line
+	15250 17600 15250 17800
+Wire Wire Line
+	15250 17800 15100 17800
+Connection ~ 15250 17600
+Wire Wire Line
+	15250 17600 14250 17600
+Wire Wire Line
+	16100 17800 16250 17800
+Wire Wire Line
+	16250 17800 16250 17600
+Connection ~ 16250 17600
+Wire Wire Line
+	16250 17600 15250 17600
+Wire Wire Line
+	17250 17600 17250 17800
+Wire Wire Line
+	17250 17800 17100 17800
+Connection ~ 17250 17600
+Wire Wire Line
+	17250 17600 16250 17600
+Wire Wire Line
+	18100 17800 18250 17800
+Wire Wire Line
+	18250 17800 18250 17600
+Connection ~ 18250 17600
+Wire Wire Line
+	18250 17600 17250 17600
+Wire Wire Line
+	19250 17600 19250 17800
+Wire Wire Line
+	19250 17800 19100 17800
+Connection ~ 19250 17600
+Wire Wire Line
+	19250 17600 18250 17600
+Wire Wire Line
+	20750 17800 20750 17600
+Wire Wire Line
+	20600 17800 20750 17800
+Connection ~ 20750 17600
+Wire Wire Line
+	20750 17600 19250 17600
+Wire Wire Line
+	8750 14600 8750 14800
+Wire Wire Line
+	8750 14800 8600 14800
+Connection ~ 8750 14600
+Wire Wire Line
+	8750 14600 9750 14600
+Wire Wire Line
+	9600 14800 9750 14800
+Wire Wire Line
+	9750 14800 9750 14600
+Connection ~ 9750 14600
+Wire Wire Line
+	9750 14600 10750 14600
+Wire Wire Line
+	10750 14600 10750 14800
+Wire Wire Line
+	10750 14800 10600 14800
+Connection ~ 10750 14600
+Wire Wire Line
+	10750 14600 12750 14600
+Wire Wire Line
+	12600 14800 12750 14800
+Wire Wire Line
+	12750 14800 12750 14600
+Connection ~ 12750 14600
+Wire Wire Line
+	12750 14600 13750 14600
+Wire Wire Line
+	13750 14600 13750 14800
+Wire Wire Line
+	13750 14800 13600 14800
+Connection ~ 13750 14600
+Wire Wire Line
+	13750 14600 14750 14600
+Wire Wire Line
+	14600 14800 14750 14800
+Wire Wire Line
+	14750 14800 14750 14600
+Connection ~ 14750 14600
+Wire Wire Line
+	14750 14600 15750 14600
+Wire Wire Line
+	15750 14600 15750 14800
+Wire Wire Line
+	15750 14800 15600 14800
+Connection ~ 15750 14600
+Wire Wire Line
+	15750 14600 17750 14600
+Wire Wire Line
+	7600 14800 7750 14800
+Wire Wire Line
+	7750 14800 7750 14600
+Connection ~ 7750 14600
+Wire Wire Line
+	7750 14600 8750 14600
+$Comp
+L power:GND #PWR0202
+U 1 1 69298303
+P 7200 14800
+F 0 "#PWR0202" H 7200 14550 50  0001 C CNN
+F 1 "GND" H 7205 14627 50  0000 C CNN
+F 2 "" H 7200 14800 50  0001 C CNN
+F 3 "" H 7200 14800 50  0001 C CNN
+	1    7200 14800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14650 19500 15650 19500
+Wire Wire Line
+	14750 19800 14750 19600
+Connection ~ 14750 19600
+Wire Wire Line
+	14750 19600 13750 19600
+Wire Wire Line
+	19900 17500 22900 17500
+Wire Wire Line
+	21400 18500 22900 18500
+Wire Wire Line
+	20900 20500 23900 20500
+Wire Wire Line
+	24750 16600 25750 16600
+Connection ~ 24750 16600
+Wire Wire Line
+	25750 17600 24750 17600
+Connection ~ 24750 17600
+Wire Wire Line
+	25750 20600 24800 20600
+Connection ~ 24800 20600
+Wire Wire Line
+	25750 19600 23750 19600
+Connection ~ 23750 19600
+Wire Wire Line
+	25750 18600 19450 18600
+Connection ~ 19450 18600
+Wire Wire Line
+	18900 15500 17900 15500
+Connection ~ 18900 15500
+Connection ~ 17900 15500
+Wire Wire Line
+	17900 17500 16900 17500
+Connection ~ 17900 17500
+Connection ~ 16900 17500
+Wire Wire Line
+	18400 18500 17400 18500
+Connection ~ 18400 18500
+Connection ~ 17400 18500
+Wire Wire Line
+	17650 19500 18650 19500
+Connection ~ 17650 19500
+Connection ~ 18650 19500
+Wire Wire Line
+	17900 20500 18900 20500
+Connection ~ 17900 20500
+Connection ~ 18900 20500
+Wire Wire Line
+	18900 21500 17900 21500
 Wire Wire Line
 	20900 21500 22900 21500
+Connection ~ 18900 21500
+Connection ~ 17900 21500
+Wire Wire Line
+	7850 10800 8250 10800
+Wire Wire Line
+	8250 10700 7850 10700
+Wire Wire Line
+	7850 10600 8250 10600
+Wire Wire Line
+	8250 10500 7850 10500
+Wire Wire Line
+	7850 10300 8250 10300
+Entry Wire Line
+	8350 10900 8250 10800
+Entry Wire Line
+	8350 10800 8250 10700
+Entry Wire Line
+	8350 10700 8250 10600
+Entry Wire Line
+	8350 10600 8250 10500
+Entry Wire Line
+	8350 10400 8250 10300
+Text Label 8250 10800 2    50   ~ 0
+Col11
+Text Label 8250 10700 2    50   ~ 0
+Col12
+Text Label 8250 10600 2    50   ~ 0
+Col13
+Text Label 8250 10500 2    50   ~ 0
+Col14
+Text Label 8250 10300 2    50   ~ 0
+Col15
+Text Label 8250 10200 2    50   ~ 0
+Col16
+Wire Wire Line
+	7850 10200 8250 10200
+Entry Wire Line
+	8350 10300 8250 10200
+Wire Wire Line
+	20750 13750 20750 14600
+Connection ~ 20750 14600
+Connection ~ 8350 14150
 Wire Bus Line
-	6250 14150 7800 14150
+	6250 14150 8350 14150
 Wire Bus Line
-	30500 16600 31800 16600
+	25850 16100 27150 16100
 Wire Bus Line
-	30500 16600 30500 20700
+	25850 16100 25850 20500
 Wire Bus Line
 	5800 10400 5800 21400
 Wire Bus Line
-	5800 10400 10500 10400
+	8350 14150 24050 14150
 Wire Bus Line
-	20150 11000 21750 11000
-Wire Bus Line
-	21750 11000 21750 21400
-Wire Bus Line
-	10200 12950 12050 12950
-Wire Bus Line
-	7800 14150 16050 14150
-Wire Bus Line
-	7800 12950 9800 12950
-Wire Bus Line
-	18500 14150 29050 14150
-Wire Bus Line
-	18500 13450 19750 13450
+	8350 10300 8350 14150
 $EndSCHEMATC
