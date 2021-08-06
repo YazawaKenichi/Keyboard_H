@@ -3067,7 +3067,7 @@ L Device:R R2
 U 1 1 64828A69
 P 26250 15750
 F 0 "R2" H 26320 15796 50  0000 L CNN
-F 1 "R" H 26320 15705 50  0000 L CNN
+F 1 "100" H 26320 15705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 26180 15750 50  0001 C CNN
 F 3 "~" H 26250 15750 50  0001 C CNN
 	1    26250 15750
@@ -3078,7 +3078,7 @@ L Device:R R3
 U 1 1 64828AB4
 P 26500 15750
 F 0 "R3" H 26570 15796 50  0000 L CNN
-F 1 "R" H 26570 15705 50  0000 L CNN
+F 1 "100" H 26570 15705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 26430 15750 50  0001 C CNN
 F 3 "~" H 26500 15750 50  0001 C CNN
 	1    26500 15750
@@ -3089,7 +3089,7 @@ L Device:R R4
 U 1 1 6482A95D
 P 26750 15750
 F 0 "R4" H 26820 15796 50  0000 L CNN
-F 1 "R" H 26820 15705 50  0000 L CNN
+F 1 "100" H 26820 15705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 26680 15750 50  0001 C CNN
 F 3 "~" H 26750 15750 50  0001 C CNN
 	1    26750 15750
@@ -3100,7 +3100,7 @@ L Device:R R6
 U 1 1 6482A9AC
 P 27000 15750
 F 0 "R6" H 27070 15796 50  0000 L CNN
-F 1 "R" H 27070 15705 50  0000 L CNN
+F 1 "100" H 27070 15705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 26930 15750 50  0001 C CNN
 F 3 "~" H 27000 15750 50  0001 C CNN
 	1    27000 15750
@@ -3111,7 +3111,7 @@ L Device:R R7
 U 1 1 6482A9FB
 P 27250 15750
 F 0 "R7" H 27320 15796 50  0000 L CNN
-F 1 "R" H 27320 15705 50  0000 L CNN
+F 1 "100" H 27320 15705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 27180 15750 50  0001 C CNN
 F 3 "~" H 27250 15750 50  0001 C CNN
 	1    27250 15750
@@ -3128,17 +3128,6 @@ Wire Wire Line
 	27250 15250 27250 15600
 Wire Wire Line
 	27250 15250 27000 15250
-$Comp
-L power:+5V #PWR026
-U 1 1 6511FF6B
-P 26750 15250
-F 0 "#PWR026" H 26750 15100 50  0001 C CNN
-F 1 "+5V" H 26765 15423 50  0000 C CNN
-F 2 "" H 26750 15250 50  0001 C CNN
-F 3 "" H 26750 15250 50  0001 C CNN
-	1    26750 15250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	27000 15250 27000 15600
 Connection ~ 27000 15250
@@ -3373,18 +3362,6 @@ Connection ~ 6900 20500
 Wire Wire Line
 	6900 21500 5900 21500
 Connection ~ 6900 21500
-Entry Wire Line
-	5900 21500 5800 21400
-Entry Wire Line
-	5900 20500 5800 20400
-Entry Wire Line
-	5900 19500 5800 19400
-Entry Wire Line
-	5900 18500 5800 18400
-Entry Wire Line
-	5900 17500 5800 17400
-Entry Wire Line
-	5900 15500 5800 15400
 $Comp
 L RaspberryPi_Pico:Pico U1
 U 1 1 6755D815
@@ -3396,16 +3373,6 @@ F 3 "" H 7150 11150 50  0001 C CNN
 	1    7150 11150
 	-1   0    0    1   
 $EndComp
-Entry Wire Line
-	5900 10500 5800 10600
-Entry Wire Line
-	5900 10600 5800 10700
-Entry Wire Line
-	5900 10700 5800 10800
-Entry Wire Line
-	5900 10800 5800 10900
-Entry Wire Line
-	5900 11000 5800 11100
 $Comp
 L power:+5V #PWR025
 U 1 1 67AEBC99
@@ -3428,32 +3395,6 @@ F 3 "~" H 20750 13600 50  0001 C CNN
 	1    20750 13600
 	1    0    0    -1  
 $EndComp
-Entry Wire Line
-	5900 10300 5800 10400
-Text Label 6150 10300 2    50   ~ 0
-Line6S
-Text Label 6150 10500 2    50   ~ 0
-Line5S
-Text Label 6150 10600 2    50   ~ 0
-Line4S
-Text Label 5900 10700 0    50   ~ 0
-Line3S
-Text Label 5900 10800 0    50   ~ 0
-Line2S
-Text Label 5900 11000 0    50   ~ 0
-Line1S
-Text Label 5900 15500 0    50   ~ 0
-Line1S
-Text Label 5900 17500 0    50   ~ 0
-Line2S
-Text Label 5900 18500 0    50   ~ 0
-Line3S
-Text Label 5900 19500 0    50   ~ 0
-Line4S
-Text Label 5900 20500 0    50   ~ 0
-Line5S
-Text Label 5900 21500 0    50   ~ 0
-Line6S
 Wire Wire Line
 	6150 14700 6150 14250
 Connection ~ 6150 14700
@@ -3502,38 +3443,6 @@ Connection ~ 23150 16700
 Wire Wire Line
 	24150 16700 24150 14250
 Connection ~ 24150 16700
-Entry Wire Line
-	24150 14250 24050 14150
-Entry Wire Line
-	23150 14250 23050 14150
-Entry Wire Line
-	22150 14250 22050 14150
-Entry Wire Line
-	20150 14250 20050 14150
-Entry Wire Line
-	19150 14250 19050 14150
-Entry Wire Line
-	18050 14150 18150 14250
-Entry Wire Line
-	16150 14250 16050 14150
-Entry Wire Line
-	15150 14250 15050 14150
-Entry Wire Line
-	14150 14250 14050 14150
-Entry Wire Line
-	13150 14250 13050 14150
-Entry Wire Line
-	12150 14250 12050 14150
-Entry Wire Line
-	10150 14250 10050 14150
-Entry Wire Line
-	9150 14250 9050 14150
-Entry Wire Line
-	8150 14250 8050 14150
-Entry Wire Line
-	7250 14150 7150 14250
-Entry Wire Line
-	6250 14150 6150 14250
 Wire Wire Line
 	8250 11000 7850 11000
 Wire Wire Line
@@ -3554,78 +3463,6 @@ Wire Wire Line
 	7850 12000 8250 12000
 Wire Wire Line
 	8250 12100 7850 12100
-Entry Wire Line
-	8250 12100 8350 12200
-Entry Wire Line
-	8250 12000 8350 12100
-Entry Wire Line
-	8250 11800 8350 11900
-Entry Wire Line
-	8250 11700 8350 11800
-Entry Wire Line
-	8250 11600 8350 11700
-Entry Wire Line
-	8250 11500 8350 11600
-Entry Wire Line
-	8250 11300 8350 11400
-Entry Wire Line
-	8250 11200 8350 11300
-Entry Wire Line
-	8250 11100 8350 11200
-Entry Wire Line
-	8250 11000 8350 11100
-Text Label 6150 14450 1    50   ~ 0
-Col1
-Text Label 7150 14450 1    50   ~ 0
-Col2
-Text Label 8150 14450 1    50   ~ 0
-Col3
-Text Label 9150 14450 1    50   ~ 0
-Col4
-Text Label 10150 14450 1    50   ~ 0
-Col5
-Text Label 12150 14450 1    50   ~ 0
-Col6
-Text Label 13150 14450 1    50   ~ 0
-Col7
-Text Label 14150 14450 1    50   ~ 0
-Col8
-Text Label 15150 14450 1    50   ~ 0
-Col9
-Text Label 16150 14450 1    50   ~ 0
-Col10
-Text Label 18150 14450 1    50   ~ 0
-Col11
-Text Label 19150 14450 1    50   ~ 0
-Col12
-Text Label 20150 14450 1    50   ~ 0
-Col13
-Text Label 22150 14450 1    50   ~ 0
-Col14
-Text Label 23150 14450 1    50   ~ 0
-Col15
-Text Label 24150 14450 1    50   ~ 0
-Col16
-Text Label 8250 12100 2    50   ~ 0
-Col1
-Text Label 8250 12000 2    50   ~ 0
-Col2
-Text Label 8250 11800 2    50   ~ 0
-Col3
-Text Label 8250 11700 2    50   ~ 0
-Col4
-Text Label 8250 11600 2    50   ~ 0
-Col5
-Text Label 8250 11500 2    50   ~ 0
-Col6
-Text Label 8250 11300 2    50   ~ 0
-Col7
-Text Label 8250 11200 2    50   ~ 0
-Col8
-Text Label 8250 11100 2    50   ~ 0
-Col9
-Text Label 8250 11000 2    50   ~ 0
-Col10
 $Comp
 L power:GND #PWR05
 U 1 1 69CFA158
@@ -3756,74 +3593,6 @@ Wire Wire Line
 	6450 10600 5900 10600
 Wire Wire Line
 	5900 10500 6450 10500
-Text GLabel 26650 19400 0    50   Input ~ 0
-NumLock_LED
-$Comp
-L power:+3.3V #PWR027
-U 1 1 6EA1C4FA
-P 27000 18150
-F 0 "#PWR027" H 27000 18000 50  0001 C CNN
-F 1 "+3.3V" H 27015 18323 50  0000 C CNN
-F 2 "" H 27000 18150 50  0001 C CNN
-F 3 "" H 27000 18150 50  0001 C CNN
-	1    27000 18150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R5
-U 1 1 6EA20442
-P 27000 19150
-F 0 "R5" H 27070 19196 50  0000 L CNN
-F 1 "R" H 27070 19105 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 26930 19150 50  0001 C CNN
-F 3 "~" H 27000 19150 50  0001 C CNN
-	1    27000 19150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:LED D108
-U 1 1 6EA228D1
-P 27000 18650
-F 0 "D108" V 27039 18532 50  0000 R CNN
-F 1 "LED" V 26948 18532 50  0000 R CNN
-F 2 "LED_SMD:LED_0603_1608Metric" H 27000 18650 50  0001 C CNN
-F 3 "~" H 27000 18650 50  0001 C CNN
-	1    27000 18650
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	27000 19300 27000 19400
-Wire Wire Line
-	27000 18800 27000 19000
-Wire Wire Line
-	26650 19400 27000 19400
-$Comp
-L Device:R R8
-U 1 1 6EE7C16A
-P 27000 19650
-F 0 "R8" H 27070 19696 50  0000 L CNN
-F 1 "R" H 27070 19605 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 26930 19650 50  0001 C CNN
-F 3 "~" H 27000 19650 50  0001 C CNN
-	1    27000 19650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27000 19500 27000 19400
-Connection ~ 27000 19400
-$Comp
-L power:GND #PWR028
-U 1 1 6EF5D0A6
-P 27000 20150
-F 0 "#PWR028" H 27000 19900 50  0001 C CNN
-F 1 "GND" H 27005 19977 50  0000 C CNN
-F 2 "" H 27000 20150 50  0001 C CNN
-F 3 "" H 27000 20150 50  0001 C CNN
-	1    27000 20150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	27000 20150 27000 19800
 $Comp
 L power:GND #PWR010
 U 1 1 69CFA3DF
@@ -3835,14 +3604,10 @@ F 3 "" H 7850 10900 50  0001 C CNN
 	1    7850 10900
 	0    -1   -1   0   
 $EndComp
-Text Notes 6150 13000 0    50   ~ 0
-マトリックス側の Col とマイコン側の Col が交差しているせいで配線が面倒くさい。\nマイコン側の Col の並び順を入れ替えろ。\n
 Wire Wire Line
 	13900 21500 9900 21500
 Connection ~ 13900 21500
 Connection ~ 9900 21500
-Wire Wire Line
-	27000 18150 27000 18500
 NoConn ~ 6450 11700
 Text Notes 26300 16850 0    50   ~ 0
 全てのLEDを並列接続にする。\nカソード側の抵抗値を 100 にする
@@ -5394,46 +5159,122 @@ Wire Wire Line
 	8250 10500 7850 10500
 Wire Wire Line
 	7850 10300 8250 10300
-Entry Wire Line
-	8350 10900 8250 10800
-Entry Wire Line
-	8350 10800 8250 10700
-Entry Wire Line
-	8350 10700 8250 10600
-Entry Wire Line
-	8350 10600 8250 10500
-Entry Wire Line
-	8350 10400 8250 10300
-Text Label 8250 10800 2    50   ~ 0
-Col11
-Text Label 8250 10700 2    50   ~ 0
-Col12
-Text Label 8250 10600 2    50   ~ 0
-Col13
-Text Label 8250 10500 2    50   ~ 0
-Col14
-Text Label 8250 10300 2    50   ~ 0
-Col15
-Text Label 8250 10200 2    50   ~ 0
-Col16
 Wire Wire Line
 	7850 10200 8250 10200
-Entry Wire Line
-	8350 10300 8250 10200
 Wire Wire Line
 	20750 13750 20750 14600
 Connection ~ 20750 14600
+Text GLabel 26250 15000 0    50   Input ~ 0
+BackLight
+Wire Wire Line
+	26250 15000 26750 15000
+Wire Wire Line
+	26750 15000 26750 15250
+Text GLabel 5900 10300 0    50   Input ~ 0
+GPIO17
+Text GLabel 5900 10500 0    50   Input ~ 0
+GPIO18
+Text GLabel 5900 10600 0    50   Input ~ 0
+GPIO19
+Text GLabel 5900 10700 0    50   Input ~ 0
+GPIO20
+Text GLabel 5900 10800 0    50   Input ~ 0
+GPIO21
+Text GLabel 5900 11000 0    50   Input ~ 0
+GPIO22
+Text GLabel 8250 10200 2    50   Input ~ 0
+GPIO15
+Text GLabel 8250 10300 2    50   Input ~ 0
+GPIO14
+Text GLabel 8250 10500 2    50   Input ~ 0
+GPIO13
+Text GLabel 8250 10600 2    50   Input ~ 0
+GPIO12
+Text GLabel 8250 10700 2    50   Input ~ 0
+GPIO11
+Text GLabel 8250 10800 2    50   Input ~ 0
+GPIO10
+Text GLabel 8250 11000 2    50   Input ~ 0
+GPIO9
+Text GLabel 8250 11100 2    50   Input ~ 0
+GPIO8
+Text GLabel 8250 11200 2    50   Input ~ 0
+GPIO7
+Text GLabel 8250 11300 2    50   Input ~ 0
+GPIO6
+Text GLabel 8250 11500 2    50   Input ~ 0
+GPIO5
+Text GLabel 8250 11600 2    50   Input ~ 0
+GPIO4
+Text GLabel 8250 11700 2    50   Input ~ 0
+GPIO3
+Text GLabel 8250 11800 2    50   Input ~ 0
+GPIO2
+Text GLabel 8250 12000 2    50   Input ~ 0
+GPIO1
+Text GLabel 8250 12100 2    50   Input ~ 0
+GPIO0
+Text GLabel 5900 15500 0    50   Input ~ 0
+GPIO22
+Text GLabel 5900 17500 0    50   Input ~ 0
+GPIO21
+Text GLabel 5900 18500 0    50   Input ~ 0
+GPIO20
+Text GLabel 5900 19500 0    50   Input ~ 0
+GPIO19
+Text GLabel 5900 20500 0    50   Input ~ 0
+GPIO18
+Text GLabel 5900 21500 0    50   Input ~ 0
+GPIO17
+Text GLabel 6150 14250 1    50   Input ~ 0
+GPIO0
+Text GLabel 7150 14250 1    50   Input ~ 0
+GPIO1
+Text GLabel 8150 14250 1    50   Input ~ 0
+GPIO2
+Text GLabel 9150 14250 1    50   Input ~ 0
+GPIO3
+Text GLabel 10150 14250 1    50   Input ~ 0
+GPIO4
+Text GLabel 12150 14250 1    50   Input ~ 0
+GPIO5
+Text GLabel 13150 14250 1    50   Input ~ 0
+GPIO6
+Text GLabel 14150 14250 1    50   Input ~ 0
+GPIO7
+Text GLabel 15150 14250 1    50   Input ~ 0
+GPIO8
+Text GLabel 16150 14250 1    50   Input ~ 0
+GPIO9
+Text GLabel 18150 14250 1    50   Input ~ 0
+GPIO10
+Text GLabel 19150 14250 1    50   Input ~ 0
+GPIO11
+Text GLabel 20150 14250 1    50   Input ~ 0
+GPIO12
+Text GLabel 22150 14250 1    50   Input ~ 0
+GPIO13
+Text GLabel 23150 14250 1    50   Input ~ 0
+GPIO14
+Text GLabel 24150 14250 1    50   Input ~ 0
+Gpio15
+Text GLabel 5900 10200 0    50   Input ~ 0
+GPIO16
+Wire Wire Line
+	5900 10200 6450 10200
+Text GLabel 10000 10750 0    50   Input ~ 0
+GPIO16
+Wire Wire Line
+	10000 10750 10250 10750
+Wire Wire Line
+	10250 10750 10250 10500
+Wire Wire Line
+	10250 11000 10250 10750
+Connection ~ 10250 10750
+NoConn ~ 10250 10500
+NoConn ~ 10250 11000
 Wire Bus Line
 	25850 16100 27150 16100
 Wire Bus Line
 	25850 16100 25850 20500
-Wire Bus Line
-	5800 10400 5800 21400
-Wire Bus Line
-	6250 14150 8350 14150
-Wire Bus Line
-	8350 10300 8350 14150
-Connection ~ 8350 14150
-Wire Bus Line
-	8350 14150 24050 14150
 $EndSCHEMATC
