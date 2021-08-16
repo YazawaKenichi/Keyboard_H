@@ -19,7 +19,7 @@ U 1 1 6100FCB6
 P 2500 9850
 F 0 "SW2" H 2500 10235 50  0000 C CNN
 F 1 "Zen/Han" H 2500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 2500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 10150 50  0001 C CNN
 	1    2500 9850
 	1    0    0    -1  
@@ -49,7 +49,7 @@ U 1 1 6100FCC7
 P 3500 9850
 F 0 "SW8" H 3500 10235 50  0000 C CNN
 F 1 "1" H 3500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 3500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3500 10150 50  0001 C CNN
 	1    3500 9850
 	1    0    0    -1  
@@ -79,7 +79,7 @@ U 1 1 6100FCD8
 P 4500 9850
 F 0 "SW13" H 4500 10235 50  0000 C CNN
 F 1 "2" H 4500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 4500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4500 10150 50  0001 C CNN
 	1    4500 9850
 	1    0    0    -1  
@@ -109,7 +109,7 @@ U 1 1 6100FCE9
 P 5500 9850
 F 0 "SW19" H 5500 10235 50  0000 C CNN
 F 1 "3" H 5500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 5500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5500 10150 50  0001 C CNN
 	1    5500 9850
 	1    0    0    -1  
@@ -139,7 +139,7 @@ U 1 1 6100FCFA
 P 6500 9850
 F 0 "SW25" H 6500 10235 50  0000 C CNN
 F 1 "4" H 6500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6500 10150 50  0001 C CNN
 	1    6500 9850
 	1    0    0    -1  
@@ -169,7 +169,7 @@ U 1 1 6100FD0B
 P 7500 9850
 F 0 "SW29" H 7500 10235 50  0000 C CNN
 F 1 "5" H 7500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7500 10150 50  0001 C CNN
 	1    7500 9850
 	1    0    0    -1  
@@ -199,7 +199,7 @@ U 1 1 6100FD1C
 P 8500 9850
 F 0 "SW34" H 8500 10235 50  0000 C CNN
 F 1 "6" H 8500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8500 10150 50  0001 C CNN
 	1    8500 9850
 	1    0    0    -1  
@@ -229,7 +229,7 @@ U 1 1 6100FD2D
 P 9500 9850
 F 0 "SW39" H 9500 10235 50  0000 C CNN
 F 1 "7" H 9500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9500 10150 50  0001 C CNN
 	1    9500 9850
 	1    0    0    -1  
@@ -259,7 +259,7 @@ U 1 1 6100FD3E
 P 10500 9850
 F 0 "SW45" H 10500 10235 50  0000 C CNN
 F 1 "8" H 10500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10500 10150 50  0001 C CNN
 	1    10500 9850
 	1    0    0    -1  
@@ -289,7 +289,7 @@ U 1 1 6100FD4F
 P 11500 9850
 F 0 "SW50" H 11500 10235 50  0000 C CNN
 F 1 "9" H 11500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11500 10150 50  0001 C CNN
 	1    11500 9850
 	1    0    0    -1  
@@ -319,7 +319,7 @@ U 1 1 6100FD60
 P 12500 9850
 F 0 "SW54" H 12500 10235 50  0000 C CNN
 F 1 "0" H 12500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12500 10150 50  0001 C CNN
 	1    12500 9850
 	1    0    0    -1  
@@ -349,7 +349,7 @@ U 1 1 6100FD71
 P 13500 9850
 F 0 "SW59" H 13500 10235 50  0000 C CNN
 F 1 "-" H 13500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13500 10150 50  0001 C CNN
 	1    13500 9850
 	1    0    0    -1  
@@ -379,7 +379,7 @@ U 1 1 6100FD82
 P 14500 9850
 F 0 "SW65" H 14500 10235 50  0000 C CNN
 F 1 "^" H 14500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14500 10150 50  0001 C CNN
 	1    14500 9850
 	1    0    0    -1  
@@ -409,7 +409,7 @@ U 1 1 6100FD93
 P 15500 9850
 F 0 "SW71" H 15500 10235 50  0000 C CNN
 F 1 "\\" H 15500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 15500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15500 10150 50  0001 C CNN
 	1    15500 9850
 	1    0    0    -1  
@@ -439,7 +439,7 @@ U 1 1 6100FDA4
 P 16500 9850
 F 0 "SW74" H 16500 10235 50  0000 C CNN
 F 1 "BS" H 16500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16500 10150 50  0001 C CNN
 	1    16500 9850
 	1    0    0    -1  
@@ -463,7 +463,7 @@ U 1 1 6100FDB5
 P 18500 9850
 F 0 "SW78" H 18500 10235 50  0000 C CNN
 F 1 "PrtSc" H 18500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 18500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18500 10150 50  0001 C CNN
 	1    18500 9850
 	1    0    0    -1  
@@ -493,7 +493,7 @@ U 1 1 6100FDC6
 P 19500 9850
 F 0 "SW81" H 19500 10235 50  0000 C CNN
 F 1 "Home" H 19500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 19500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19500 10150 50  0001 C CNN
 	1    19500 9850
 	1    0    0    -1  
@@ -523,7 +523,7 @@ U 1 1 6100FDD7
 P 20500 9850
 F 0 "SW85" H 20500 10235 50  0000 C CNN
 F 1 "PgUp" H 20500 10144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20500 10150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 20500 10150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20500 10150 50  0001 C CNN
 	1    20500 9850
 	1    0    0    -1  
@@ -553,7 +553,7 @@ U 1 1 6101D4FC
 P 2500 10850
 F 0 "SW3" H 2500 11235 50  0000 C CNN
 F 1 "Tab" H 2500 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 2500 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 2500 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 11150 50  0001 C CNN
 	1    2500 10850
 	1    0    0    -1  
@@ -583,7 +583,7 @@ U 1 1 6101D5EA
 P 16500 10850
 F 0 "SW75" H 16500 11235 50  0000 C CNN
 F 1 "Enter" H 16500 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16500 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_ISOEnter_Plate" H 16500 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16500 11150 50  0001 C CNN
 	1    16500 10850
 	1    0    0    -1  
@@ -611,7 +611,7 @@ U 1 1 6101D5FB
 P 18500 10850
 F 0 "SW79" H 18500 11235 50  0000 C CNN
 F 1 "Delete" H 18500 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18500 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 18500 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18500 11150 50  0001 C CNN
 	1    18500 10850
 	1    0    0    -1  
@@ -660,7 +660,7 @@ U 1 1 6101D61D
 P 20500 10850
 F 0 "SW86" H 20500 11235 50  0000 C CNN
 F 1 "PgDn" H 20500 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20500 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 20500 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20500 11150 50  0001 C CNN
 	1    20500 10850
 	1    0    0    -1  
@@ -690,7 +690,7 @@ U 1 1 6107F294
 P 2500 11850
 F 0 "SW4" H 2500 12235 50  0000 C CNN
 F 1 "CaptLock" H 2500 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 2500 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 2500 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 12150 50  0001 C CNN
 	1    2500 11850
 	1    0    0    -1  
@@ -720,7 +720,7 @@ U 1 1 6107F40A
 P 2500 12850
 F 0 "SW5" H 2500 13235 50  0000 C CNN
 F 1 "Shift" H 2500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 2500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Plate" H 2500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 13150 50  0001 C CNN
 	1    2500 12850
 	1    0    0    -1  
@@ -750,7 +750,7 @@ U 1 1 6107F41B
 P 4500 12850
 F 0 "SW14" H 4500 13235 50  0000 C CNN
 F 1 "Z" H 4500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 4500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4500 13150 50  0001 C CNN
 	1    4500 12850
 	1    0    0    -1  
@@ -780,7 +780,7 @@ U 1 1 6107F42C
 P 5500 12850
 F 0 "SW20" H 5500 13235 50  0000 C CNN
 F 1 "X" H 5500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 5500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5500 13150 50  0001 C CNN
 	1    5500 12850
 	1    0    0    -1  
@@ -810,7 +810,7 @@ U 1 1 6107F43D
 P 6500 12850
 F 0 "SW26" H 6500 13235 50  0000 C CNN
 F 1 "C" H 6500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6500 13150 50  0001 C CNN
 	1    6500 12850
 	1    0    0    -1  
@@ -840,7 +840,7 @@ U 1 1 6107F44E
 P 7500 12850
 F 0 "SW30" H 7500 13235 50  0000 C CNN
 F 1 "V" H 7500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7500 13150 50  0001 C CNN
 	1    7500 12850
 	1    0    0    -1  
@@ -868,7 +868,7 @@ U 1 1 6107F45F
 P 8500 12850
 F 0 "SW35" H 8500 13235 50  0000 C CNN
 F 1 "B" H 8500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8500 13150 50  0001 C CNN
 	1    8500 12850
 	1    0    0    -1  
@@ -898,7 +898,7 @@ U 1 1 6107F470
 P 9500 12850
 F 0 "SW40" H 9500 13235 50  0000 C CNN
 F 1 "N" H 9500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9500 13150 50  0001 C CNN
 	1    9500 12850
 	1    0    0    -1  
@@ -928,7 +928,7 @@ U 1 1 6107F481
 P 10500 12850
 F 0 "SW46" H 10500 13235 50  0000 C CNN
 F 1 "M" H 10500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10500 13150 50  0001 C CNN
 	1    10500 12850
 	1    0    0    -1  
@@ -958,7 +958,7 @@ U 1 1 6107F492
 P 11500 12850
 F 0 "SW51" H 11500 13235 50  0000 C CNN
 F 1 "," H 11500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11500 13150 50  0001 C CNN
 	1    11500 12850
 	1    0    0    -1  
@@ -988,7 +988,7 @@ U 1 1 6107F4A3
 P 12500 12850
 F 0 "SW55" H 12500 13235 50  0000 C CNN
 F 1 "." H 12500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12500 13150 50  0001 C CNN
 	1    12500 12850
 	1    0    0    -1  
@@ -1018,7 +1018,7 @@ U 1 1 6107F4B4
 P 13500 12850
 F 0 "SW60" H 13500 13235 50  0000 C CNN
 F 1 "/" H 13500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13500 13150 50  0001 C CNN
 	1    13500 12850
 	1    0    0    -1  
@@ -1048,7 +1048,7 @@ U 1 1 6107F4C5
 P 14500 12850
 F 0 "SW66" H 14500 13235 50  0000 C CNN
 F 1 "\\" H 14500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14500 13150 50  0001 C CNN
 	1    14500 12850
 	1    0    0    -1  
@@ -1078,7 +1078,7 @@ U 1 1 6107F4D6
 P 16500 12850
 F 0 "SW76" H 16500 13235 50  0000 C CNN
 F 1 "Shift" H 16500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 16500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16500 13150 50  0001 C CNN
 	1    16500 12850
 	1    0    0    -1  
@@ -1097,7 +1097,7 @@ U 1 1 6107F51A
 P 19500 12850
 F 0 "SW83" H 19500 13235 50  0000 C CNN
 F 1 "Up" H 19500 13144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19500 13150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 19500 13150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19500 13150 50  0001 C CNN
 	1    19500 12850
 	1    0    0    -1  
@@ -1127,7 +1127,7 @@ U 1 1 6107F580
 P 2500 13850
 F 0 "SW6" H 2500 14235 50  0000 C CNN
 F 1 "Ctrl" H 2500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 2500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 2500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 14150 50  0001 C CNN
 	1    2500 13850
 	1    0    0    -1  
@@ -1157,7 +1157,7 @@ U 1 1 6107F591
 P 3500 13850
 F 0 "SW9" H 3500 14235 50  0000 C CNN
 F 1 "Fn" H 3500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 3500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 3500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3500 14150 50  0001 C CNN
 	1    3500 13850
 	1    0    0    -1  
@@ -1187,7 +1187,7 @@ U 1 1 6107F5A2
 P 4500 13850
 F 0 "SW15" H 4500 14235 50  0000 C CNN
 F 1 "Win" H 4500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 4500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 4500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4500 14150 50  0001 C CNN
 	1    4500 13850
 	1    0    0    -1  
@@ -1217,7 +1217,7 @@ U 1 1 6107F5B3
 P 5500 13850
 F 0 "SW21" H 5500 14235 50  0000 C CNN
 F 1 "Alt" H 5500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 5500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 5500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5500 14150 50  0001 C CNN
 	1    5500 13850
 	1    0    0    -1  
@@ -1247,7 +1247,7 @@ U 1 1 6107F5F7
 P 9500 13850
 F 0 "SW41" H 9500 14235 50  0000 C CNN
 F 1 "Space" H 9500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_Plate" H 9500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9500 14150 50  0001 C CNN
 	1    9500 13850
 	1    0    0    -1  
@@ -1277,7 +1277,7 @@ U 1 1 6107F63B
 P 13500 13850
 F 0 "SW61" H 13500 14235 50  0000 C CNN
 F 1 "Alt" H 13500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 13500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13500 14150 50  0001 C CNN
 	1    13500 13850
 	1    0    0    -1  
@@ -1307,7 +1307,7 @@ U 1 1 6107F64C
 P 14500 13850
 F 0 "SW67" H 14500 14235 50  0000 C CNN
 F 1 "Win" H 14500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 14500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14500 14150 50  0001 C CNN
 	1    14500 13850
 	1    0    0    -1  
@@ -1337,7 +1337,7 @@ U 1 1 6107F65D
 P 15500 13850
 F 0 "SW72" H 15500 14235 50  0000 C CNN
 F 1 "Fn" H 15500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 15500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15500 14150 50  0001 C CNN
 	1    15500 13850
 	1    0    0    -1  
@@ -1367,7 +1367,7 @@ U 1 1 6107F66E
 P 16500 13850
 F 0 "SW77" H 16500 14235 50  0000 C CNN
 F 1 "Ctrl" H 16500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 16500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16500 14150 50  0001 C CNN
 	1    16500 13850
 	1    0    0    -1  
@@ -1397,7 +1397,7 @@ U 1 1 6107F67F
 P 18500 13850
 F 0 "SW80" H 18500 14235 50  0000 C CNN
 F 1 "Left" H 18500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 18500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 18500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 18500 14150 50  0001 C CNN
 	1    18500 13850
 	1    0    0    -1  
@@ -1427,7 +1427,7 @@ U 1 1 6107F690
 P 19500 13850
 F 0 "SW84" H 19500 14235 50  0000 C CNN
 F 1 "Dn" H 19500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 19500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19500 14150 50  0001 C CNN
 	1    19500 13850
 	1    0    0    -1  
@@ -1457,7 +1457,7 @@ U 1 1 6107F6A1
 P 20500 13850
 F 0 "SW87" H 20500 14235 50  0000 C CNN
 F 1 "Right" H 20500 14144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 20500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 20500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 20500 14150 50  0001 C CNN
 	1    20500 13850
 	1    0    0    -1  
@@ -1500,7 +1500,7 @@ U 1 1 6107F2A5
 P 4250 11850
 F 0 "SW11" H 4250 12235 50  0000 C CNN
 F 1 "A" H 4250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 4250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4250 12150 50  0001 C CNN
 	1    4250 11850
 	1    0    0    -1  
@@ -1530,7 +1530,7 @@ U 1 1 6107F2B6
 P 5250 11850
 F 0 "SW17" H 5250 12235 50  0000 C CNN
 F 1 "S" H 5250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 5250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5250 12150 50  0001 C CNN
 	1    5250 11850
 	1    0    0    -1  
@@ -1560,7 +1560,7 @@ U 1 1 6107F2C7
 P 6250 11850
 F 0 "SW23" H 6250 12235 50  0000 C CNN
 F 1 "D" H 6250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6250 12150 50  0001 C CNN
 	1    6250 11850
 	1    0    0    -1  
@@ -1590,7 +1590,7 @@ U 1 1 6107F2D8
 P 7250 11850
 F 0 "SW28" H 7250 12235 50  0000 C CNN
 F 1 "F" H 7250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7250 12150 50  0001 C CNN
 	1    7250 11850
 	1    0    0    -1  
@@ -1620,7 +1620,7 @@ U 1 1 6107F2E9
 P 8250 11850
 F 0 "SW32" H 8250 12235 50  0000 C CNN
 F 1 "G" H 8250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8250 12150 50  0001 C CNN
 	1    8250 11850
 	1    0    0    -1  
@@ -1650,7 +1650,7 @@ U 1 1 6107F2FA
 P 9250 11850
 F 0 "SW37" H 9250 12235 50  0000 C CNN
 F 1 "H" H 9250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9250 12150 50  0001 C CNN
 	1    9250 11850
 	1    0    0    -1  
@@ -1680,7 +1680,7 @@ U 1 1 6107F30B
 P 10250 11850
 F 0 "SW43" H 10250 12235 50  0000 C CNN
 F 1 "J" H 10250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10250 12150 50  0001 C CNN
 	1    10250 11850
 	1    0    0    -1  
@@ -1710,7 +1710,7 @@ U 1 1 6107F31C
 P 11250 11850
 F 0 "SW48" H 11250 12235 50  0000 C CNN
 F 1 "K" H 11250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11250 12150 50  0001 C CNN
 	1    11250 11850
 	1    0    0    -1  
@@ -1740,7 +1740,7 @@ U 1 1 6107F32D
 P 12250 11850
 F 0 "SW53" H 12250 12235 50  0000 C CNN
 F 1 "L" H 12250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12250 12150 50  0001 C CNN
 	1    12250 11850
 	1    0    0    -1  
@@ -1770,7 +1770,7 @@ U 1 1 6107F33E
 P 13250 11850
 F 0 "SW57" H 13250 12235 50  0000 C CNN
 F 1 ";" H 13250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13250 12150 50  0001 C CNN
 	1    13250 11850
 	1    0    0    -1  
@@ -1800,7 +1800,7 @@ U 1 1 6107F34F
 P 14250 11850
 F 0 "SW63" H 14250 12235 50  0000 C CNN
 F 1 ":" H 14250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14250 12150 50  0001 C CNN
 	1    14250 11850
 	1    0    0    -1  
@@ -1830,7 +1830,7 @@ U 1 1 6107F360
 P 15250 11850
 F 0 "SW69" H 15250 12235 50  0000 C CNN
 F 1 "]" H 15250 12144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15250 12150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 15250 12150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15250 12150 50  0001 C CNN
 	1    15250 11850
 	1    0    0    -1  
@@ -1860,7 +1860,7 @@ U 1 1 6101D50D
 P 4000 10850
 F 0 "SW10" H 4000 11235 50  0000 C CNN
 F 1 "Q" H 4000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 4000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4000 11150 50  0001 C CNN
 	1    4000 10850
 	1    0    0    -1  
@@ -1888,7 +1888,7 @@ U 1 1 6101D51E
 P 5000 10850
 F 0 "SW16" H 5000 11235 50  0000 C CNN
 F 1 "W" H 5000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 5000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5000 11150 50  0001 C CNN
 	1    5000 10850
 	1    0    0    -1  
@@ -1918,7 +1918,7 @@ U 1 1 6101D52F
 P 6000 10850
 F 0 "SW22" H 6000 11235 50  0000 C CNN
 F 1 "E" H 6000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6000 11150 50  0001 C CNN
 	1    6000 10850
 	1    0    0    -1  
@@ -1948,7 +1948,7 @@ U 1 1 6101D540
 P 7000 10850
 F 0 "SW27" H 7000 11235 50  0000 C CNN
 F 1 "R" H 7000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 7000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7000 11150 50  0001 C CNN
 	1    7000 10850
 	1    0    0    -1  
@@ -1978,7 +1978,7 @@ U 1 1 6101D551
 P 8000 10850
 F 0 "SW31" H 8000 11235 50  0000 C CNN
 F 1 "T" H 8000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8000 11150 50  0001 C CNN
 	1    8000 10850
 	1    0    0    -1  
@@ -2008,7 +2008,7 @@ U 1 1 6101D562
 P 9000 10850
 F 0 "SW36" H 9000 11235 50  0000 C CNN
 F 1 "Y" H 9000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9000 11150 50  0001 C CNN
 	1    9000 10850
 	1    0    0    -1  
@@ -2038,7 +2038,7 @@ U 1 1 6101D573
 P 10000 10850
 F 0 "SW42" H 10000 11235 50  0000 C CNN
 F 1 "U" H 10000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10000 11150 50  0001 C CNN
 	1    10000 10850
 	1    0    0    -1  
@@ -2068,7 +2068,7 @@ U 1 1 6101D584
 P 11000 10850
 F 0 "SW47" H 11000 11235 50  0000 C CNN
 F 1 "I" H 11000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11000 11150 50  0001 C CNN
 	1    11000 10850
 	1    0    0    -1  
@@ -2098,7 +2098,7 @@ U 1 1 6101D595
 P 12000 10850
 F 0 "SW52" H 12000 11235 50  0000 C CNN
 F 1 "O" H 12000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 12000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 12000 11150 50  0001 C CNN
 	1    12000 10850
 	1    0    0    -1  
@@ -2126,7 +2126,7 @@ U 1 1 6101D5A6
 P 13000 10850
 F 0 "SW56" H 13000 11235 50  0000 C CNN
 F 1 "P" H 13000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13000 11150 50  0001 C CNN
 	1    13000 10850
 	1    0    0    -1  
@@ -2154,7 +2154,7 @@ U 1 1 6101D5B7
 P 14000 10850
 F 0 "SW62" H 14000 11235 50  0000 C CNN
 F 1 "@" H 14000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14000 11150 50  0001 C CNN
 	1    14000 10850
 	1    0    0    -1  
@@ -2184,7 +2184,7 @@ U 1 1 6101D5C8
 P 15000 10850
 F 0 "SW68" H 15000 11235 50  0000 C CNN
 F 1 "[" H 15000 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15000 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 15000 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15000 11150 50  0001 C CNN
 	1    15000 10850
 	1    0    0    -1  
@@ -2214,7 +2214,7 @@ U 1 1 60FCE020
 P 2500 7850
 F 0 "SW1" H 2500 8235 50  0000 C CNN
 F 1 "Esc" H 2500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 2500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 8150 50  0001 C CNN
 	1    2500 7850
 	1    0    0    -1  
@@ -2244,7 +2244,7 @@ U 1 1 60FD02CE
 P 3500 7850
 F 0 "SW7" H 3500 8235 50  0000 C CNN
 F 1 "F1" H 3500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 3500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 3500 8150 50  0001 C CNN
 	1    3500 7850
 	1    0    0    -1  
@@ -2274,7 +2274,7 @@ U 1 1 60FD0C80
 P 4500 7850
 F 0 "SW12" H 4500 8235 50  0000 C CNN
 F 1 "F2" H 4500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 4500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4500 8150 50  0001 C CNN
 	1    4500 7850
 	1    0    0    -1  
@@ -2304,7 +2304,7 @@ U 1 1 60FD1573
 P 5500 7850
 F 0 "SW18" H 5500 8235 50  0000 C CNN
 F 1 "F3" H 5500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 5500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 5500 8150 50  0001 C CNN
 	1    5500 7850
 	1    0    0    -1  
@@ -2334,7 +2334,7 @@ U 1 1 60FD6684
 P 8500 7850
 F 0 "SW33" H 8500 8235 50  0000 C CNN
 F 1 "F5" H 8500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 8500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 8500 8150 50  0001 C CNN
 	1    8500 7850
 	1    0    0    -1  
@@ -2364,7 +2364,7 @@ U 1 1 60FD6695
 P 9500 7850
 F 0 "SW38" H 9500 8235 50  0000 C CNN
 F 1 "F6" H 9500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 9500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9500 8150 50  0001 C CNN
 	1    9500 7850
 	1    0    0    -1  
@@ -2394,7 +2394,7 @@ U 1 1 60FD66A6
 P 10500 7850
 F 0 "SW44" H 10500 8235 50  0000 C CNN
 F 1 "F7" H 10500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 10500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 10500 8150 50  0001 C CNN
 	1    10500 7850
 	1    0    0    -1  
@@ -2424,7 +2424,7 @@ U 1 1 60FD66B7
 P 11500 7850
 F 0 "SW49" H 11500 8235 50  0000 C CNN
 F 1 "F8" H 11500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 11500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 11500 8150 50  0001 C CNN
 	1    11500 7850
 	1    0    0    -1  
@@ -2454,7 +2454,7 @@ U 1 1 60FD66C8
 P 13500 7850
 F 0 "SW58" H 13500 8235 50  0000 C CNN
 F 1 "F9" H 13500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 13500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 13500 8150 50  0001 C CNN
 	1    13500 7850
 	1    0    0    -1  
@@ -2482,7 +2482,7 @@ U 1 1 60FEC431
 P 14500 7850
 F 0 "SW64" H 14500 8235 50  0000 C CNN
 F 1 "F10" H 14500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 14500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 14500 8150 50  0001 C CNN
 	1    14500 7850
 	1    0    0    -1  
@@ -2512,7 +2512,7 @@ U 1 1 60FEC442
 P 15500 7850
 F 0 "SW70" H 15500 8235 50  0000 C CNN
 F 1 "F11" H 15500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 15500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 15500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 15500 8150 50  0001 C CNN
 	1    15500 7850
 	1    0    0    -1  
@@ -2542,7 +2542,7 @@ U 1 1 60FEC453
 P 16500 7850
 F 0 "SW73" H 16500 8235 50  0000 C CNN
 F 1 "F12" H 16500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 16500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 16500 8150 50  0001 C CNN
 	1    16500 7850
 	1    0    0    -1  
@@ -2572,7 +2572,7 @@ U 1 1 60FD248E
 P 6500 7850
 F 0 "SW24" H 6500 8235 50  0000 C CNN
 F 1 "F4" H 6500 8144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 6500 8150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6500 8150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6500 8150 50  0001 C CNN
 	1    6500 7850
 	1    0    0    -1  
@@ -3243,7 +3243,7 @@ L Device:R R1
 U 1 1 67AEDBBC
 P 16850 7500
 F 0 "R1" H 16920 7546 50  0000 L CNN
-F 1 "R" H 16920 7455 50  0000 L CNN
+F 1 "5k" H 16920 7455 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 16780 7500 50  0001 C CNN
 F 3 "~" H 16850 7500 50  0001 C CNN
 	1    16850 7500
@@ -3307,7 +3307,7 @@ U 1 1 6101D60C
 P 19500 10850
 F 0 "SW82" H 19500 11235 50  0000 C CNN
 F 1 "End" H 19500 11144 50  0000 C CNN
-F 2 "Cherry_MX_Key_Switch:Cherry_MX_Key_Switch_LED_Pattern2" H 19500 11150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 19500 11150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 19500 11150 50  0001 C CNN
 	1    19500 10850
 	1    0    0    -1  
@@ -4856,7 +4856,7 @@ Text GLabel 2350 5550 0    50   Input ~ 0
 MasterRX
 Text GLabel 2350 6350 0    50   Input ~ 0
 Row0
-Text GLabel 3550 5950 2    50   Input ~ 0
+Text GLabel 3550 5850 2    50   Input ~ 0
 Col8
 Text GLabel 2350 6250 0    50   Input ~ 0
 Row1
@@ -4868,17 +4868,17 @@ Text GLabel 2350 5950 0    50   Input ~ 0
 Row4
 Text GLabel 2350 5850 0    50   Input ~ 0
 Row5
-Text GLabel 3550 6050 2    50   Input ~ 0
+Text GLabel 3550 5950 2    50   Input ~ 0
 Col7
-Text GLabel 3550 6150 2    50   Input ~ 0
+Text GLabel 3550 6050 2    50   Input ~ 0
 Col6
-Text GLabel 3550 6250 2    50   Input ~ 0
+Text GLabel 3550 6150 2    50   Input ~ 0
 Col5
-Text GLabel 3550 6350 2    50   Input ~ 0
+Text GLabel 3550 6250 2    50   Input ~ 0
 Col4
-Text GLabel 3550 6450 2    50   Input ~ 0
+Text GLabel 3550 6350 2    50   Input ~ 0
 Col3
-Text GLabel 3550 6550 2    50   Input ~ 0
+Text GLabel 3550 6450 2    50   Input ~ 0
 Col2
 Text GLabel 2350 6450 0    50   Input ~ 0
 Col0
@@ -4916,8 +4916,8 @@ L Device:R R5
 U 1 1 629F2A47
 P 16850 9500
 F 0 "R5" H 16920 9546 50  0000 L CNN
-F 1 "R" H 16920 9455 50  0000 L CNN
-F 2 "" V 16780 9500 50  0001 C CNN
+F 1 "5k" H 16920 9455 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 16780 9500 50  0001 C CNN
 F 3 "~" H 16850 9500 50  0001 C CNN
 	1    16850 9500
 	1    0    0    -1  
@@ -4934,8 +4934,8 @@ L Device:R R3
 U 1 1 629FBAD8
 P 16750 10500
 F 0 "R3" H 16820 10546 50  0000 L CNN
-F 1 "R" H 16820 10455 50  0000 L CNN
-F 2 "" V 16680 10500 50  0001 C CNN
+F 1 "5k" H 16820 10455 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 16680 10500 50  0001 C CNN
 F 3 "~" H 16750 10500 50  0001 C CNN
 	1    16750 10500
 	1    0    0    -1  
@@ -4953,8 +4953,8 @@ L Device:R R2
 U 1 1 62ADB97F
 P 16050 11300
 F 0 "R2" H 16120 11346 50  0000 L CNN
-F 1 "R" H 16120 11255 50  0000 L CNN
-F 2 "" V 15980 11300 50  0001 C CNN
+F 1 "5k" H 16120 11255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 15980 11300 50  0001 C CNN
 F 3 "~" H 16050 11300 50  0001 C CNN
 	1    16050 11300
 	1    0    0    -1  
@@ -4990,8 +4990,8 @@ L Device:R R4
 U 1 1 62F220E2
 P 16800 12300
 F 0 "R4" H 16870 12346 50  0000 L CNN
-F 1 "R" H 16870 12255 50  0000 L CNN
-F 2 "" V 16730 12300 50  0001 C CNN
+F 1 "5k" H 16870 12255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 16730 12300 50  0001 C CNN
 F 3 "~" H 16800 12300 50  0001 C CNN
 	1    16800 12300
 	1    0    0    -1  
@@ -5060,7 +5060,7 @@ F 3 "" H 4900 5750 50  0001 C CNN
 	1    4900 5750
 	0    1    1    0   
 $EndComp
-Text GLabel 3550 5850 2    50   Input ~ 0
+Text GLabel 4900 5850 0    50   Input ~ 0
 Col9
 $Comp
 L power:VCC #PWR011
@@ -5097,19 +5097,19 @@ F 3 "" H 6100 5450 50  0001 C CNN
 	1    6100 5450
 	0    1    1    0   
 $EndComp
-Text GLabel 4900 5850 0    50   Input ~ 0
-Col10
 Text GLabel 4900 5950 0    50   Input ~ 0
-Col11
+Col10
 Text GLabel 4900 6050 0    50   Input ~ 0
-Col12
+Col11
 Text GLabel 4900 6150 0    50   Input ~ 0
-Col13
+Col12
 Text GLabel 4900 6250 0    50   Input ~ 0
-Col14
+Col13
 Text GLabel 4900 6350 0    50   Input ~ 0
+Col14
+Text GLabel 4900 6450 0    50   Input ~ 0
 Col15
-Text GLabel 4900 6550 0    50   Input ~ 0
+Text GLabel 3550 6550 2    50   Input ~ 0
 PWM
 NoConn ~ 6100 5850
 NoConn ~ 6100 5950
@@ -5119,7 +5119,6 @@ NoConn ~ 6100 6250
 NoConn ~ 6100 6350
 NoConn ~ 6100 6450
 NoConn ~ 6100 6550
-NoConn ~ 4900 6450
 Text GLabel 7500 5700 1    50   Input ~ 0
 RST
 $Comp
@@ -5128,7 +5127,7 @@ U 1 1 653EC8E5
 P 7500 5900
 F 0 "SW88" H 7500 6185 50  0000 C CNN
 F 1 "SW_MEC_5G" H 7500 6094 50  0000 C CNN
-F 2 "" H 7500 6100 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm_H5mm" H 7500 6100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7500 6100 50  0001 C CNN
 	1    7500 5900
 	0    1    1    0   
@@ -5144,4 +5143,19 @@ F 3 "" H 7500 6100 50  0001 C CNN
 	1    7500 6100
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R6
+U 1 1 6561D944
+P 20850 9500
+F 0 "R6" H 20920 9546 50  0000 L CNN
+F 1 "5k" H 20920 9455 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 20780 9500 50  0001 C CNN
+F 3 "~" H 20850 9500 50  0001 C CNN
+	1    20850 9500
+	1    0    0    -1  
+$EndComp
+Connection ~ 20850 9650
+Text GLabel 20850 9350 1    50   Input ~ 0
+PWM
+NoConn ~ 4900 6550
 $EndSCHEMATC
