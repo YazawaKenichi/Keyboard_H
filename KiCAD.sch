@@ -4796,7 +4796,7 @@ Col11
 Text GLabel 16250 7300 1    50   Input ~ 0
 Col12
 $Comp
-L Arduino:Sparkfun_Pro_Micro U1
+L KiCAD-rescue:Sparkfun_Pro_Micro-Arduino U1
 U 1 1 61433DA9
 P 2950 6050
 F 0 "U1" H 2950 6939 60  0000 C CNN
@@ -5024,7 +5024,7 @@ Wire Wire Line
 	19700 12850 20850 12850
 Connection ~ 16850 7650
 $Comp
-L Arduino:Sparkfun_Pro_Micro U2
+L KiCAD-rescue:Sparkfun_Pro_Micro-Arduino U2
 U 1 1 63808FF3
 P 5500 6050
 F 0 "U2" H 5500 6939 60  0000 C CNN
