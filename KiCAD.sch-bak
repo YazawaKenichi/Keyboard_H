@@ -1247,7 +1247,7 @@ U 1 1 6107F5F7
 P 9500 13850
 F 0 "SW41" H 9500 14235 50  0000 C CNN
 F 1 "Space" H 9500 14144 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_Plate" H 9500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 9500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9500 14150 50  0001 C CNN
 	1    9500 13850
 	1    0    0    -1  
@@ -4796,7 +4796,7 @@ Col11
 Text GLabel 16250 7300 1    50   Input ~ 0
 Col12
 $Comp
-L Arduino:Sparkfun_Pro_Micro U1
+L KiCAD-rescue:Sparkfun_Pro_Micro-Arduino U1
 U 1 1 61433DA9
 P 2950 6050
 F 0 "U1" H 2950 6939 60  0000 C CNN
@@ -5024,7 +5024,7 @@ Wire Wire Line
 	19700 12850 20850 12850
 Connection ~ 16850 7650
 $Comp
-L Arduino:Sparkfun_Pro_Micro U2
+L KiCAD-rescue:Sparkfun_Pro_Micro-Arduino U2
 U 1 1 63808FF3
 P 5500 6050
 F 0 "U2" H 5500 6939 60  0000 C CNN

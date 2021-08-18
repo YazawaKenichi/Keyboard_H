@@ -1187,7 +1187,7 @@ U 1 1 6107F5A2
 P 4500 13850
 F 0 "SW15" H 4500 14235 50  0000 C CNN
 F 1 "Win" H 4500 14144 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 4500 14150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 4500 14150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4500 14150 50  0001 C CNN
 	1    4500 13850
 	1    0    0    -1  
