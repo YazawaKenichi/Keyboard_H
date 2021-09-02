@@ -15,4 +15,4 @@ This is My First Keyboard Project.
 - LED と制限抵抗は必ず一つにまとめる。
 - .
 - output current 出力の最大値 MAX 100 mA
-- current limit 
+- current limit 制限電流 MIN 150 mA TYP 350 mA MAX 450 mA
