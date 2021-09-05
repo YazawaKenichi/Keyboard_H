@@ -9,11 +9,16 @@ This is My First Keyboard Project.
 ##### メモ
 - USB バスパワー:5V 500mA
 - Raspberry Pi Pico の GPIO のパワー
+- Raspberry Pi Pico のピンによる電気特性は [RP2040 のデータシート](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) 『5.2.3. Pin Specifications』を参照
+- .
 - キーボード全体で 300mA になるようにしたい。
 - USB 5V だが、実際 500 mA くらい使用すると 4.8V くらいに下がってしまうので、USB デバイスはそうならないように余裕を持たせて設計する。
 - GPIO で FET のゲートを制御し、Vbus からの電力を供給する。
 - LED と制限抵抗は必ず一つにまとめる。
 - .
+- [ ] 謎があって、USB から電力を入手するとしても、87 個の LED を並列に点灯させようとすると、一つの 抵抗 + LED に流せる電流は最大でも 300 mA / 87 個 ≒ 3.4 mA となってちょっと弱すぎじゃね？って感じがしてしまう。これじゃあ LED 点灯できないじゃん...
+- .
+- LED のデータシート？これ何？
 - output current 出力の最大値 MAX 100 mA
 - current limit 制限電流 MIN 150 mA TYP 350 mA MAX 450 mA
 - .
@@ -32,7 +37,7 @@ This is My First Keyboard Project.
 - LED 電圧 3.03 V
 - 電流 10.58 mA
 - 抵抗値 21.2 Ω
-- ※小数点以下一桁目より下は当てにならないかも... 0.1 レベルなら当てになるかも。
+- ※小数点以下一桁目より下はry
 - .
 - ついでのついでに参考として、データシートの値を記録しておく。
 - デューティー比 100% 電流値  30 mA
@@ -42,4 +47,19 @@ This is My First Keyboard Project.
 - 疑問点
 - PWM 制御すれば、デューティー比 100 % の時よりも大きな電流を流せるということはわかるけど、推奨デューティー比が 1/10 とかになってて、結局欲しい輝度に届かなくなったりしないのかな？
 - Arduino でいいから実験してみると良いかもしれない。
+- .
+- FET + PWM で実験してみた。
+- Nch MOSFET 2N7000 で実験したので、回路的にはローサイド駆動。
+- 電流制限抵抗 45Ω PWM: 20ms(50Hz) 100% において、以下を記録。
+- 電流 30 mA LED 降下電圧 3.5 V 抵抗降下電圧 1.46 V 但し、100% では僅かに発熱したため、100% 以下での駆動を推奨する。
+- .
+- なんかもうぐちゃぐちゃしてきたから、いっそのこと実験して特性曲線を自分でプロットすればいいんじゃないかと思って、特性曲線を描いてみた。いや、厳密には点を打っていっただけなんだけど...
+- そのスプレッドシートが[こちら](https://docs.google.com/spreadsheets/d/14N7y58BiVdMig64xLq-WeDRAnExjTIeJXDbpEm-JDAk/edit?usp=sharing)
+- .
+- PWM 制御について参考にしたサイトと数式（自作）
+- [PWM について考える基礎](https://www.sist.ac.jp/club/mcf/Umeta_lecture/PWM.html)
+- [上記サイト内で出てくる数式](https://www.geogebra.org/m/sed2b5tw) y が電力 x が電流 r が制限抵抗 v が電源電圧。回路は 電源-抵抗-対象素子-GND
+- .
+- いろいろ考えたけど、USB 電源である以上、最大 500 mA で、しかも余裕を持たせないといけないから 300 mA にしないといけないことも考慮して、一つの 抵抗-LED に流せる電流を考えたら、3.5 mA が限界なわけで、結局 3.5 mA 流すことになるならそれで考えたら良いのではないかという結論に至った。
+- Vbus-可変抵抗-LED-[D]NchMOSFET(ON)-[S]GND[G]330Ωカーボン抵抗-3V3PWM の回路において、PWM 100% かつ LED 電流 3.5 の時、630Ω の電流制限抵抗がいい感じ。
 
