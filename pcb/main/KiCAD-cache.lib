@@ -96,11 +96,26 @@ X ~ 2 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-rescue_Pico-RaspberryPi_Pico
+# Mechanical_MountingHole
 #
-DEF KiCAD-rescue_Pico-RaspberryPi_Pico U 0 40 Y Y 1 F N
+DEF Mechanical_MountingHole H 0 40 Y Y 1 F N
+F0 "H" 0 200 50 H V C CNN
+F1 "Mechanical_MountingHole" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# RaspberryPi_Pico_Pico
+#
+DEF RaspberryPi_Pico_Pico U 0 40 Y Y 1 F N
 F0 "U" -550 1100 50 H V C CNN
-F1 "KiCAD-rescue_Pico-RaspberryPi_Pico" 0 750 50 H V C CNN
+F1 "RaspberryPi_Pico_Pico" 0 750 50 H V C CNN
 F2 "RPi_Pico:RPi_Pico_SMD_TH" 0 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -149,21 +164,6 @@ X GPIO4 6 -700 450 100 R 50 50 1 1 B
 X GPIO5 7 -700 350 100 R 50 50 1 1 B
 X GND 8 -700 250 100 R 50 50 1 1 W
 X GPIO6 9 -700 150 100 R 50 50 1 1 B
-ENDDRAW
-ENDDEF
-#
-# Mechanical_MountingHole
-#
-DEF Mechanical_MountingHole H 0 40 Y Y 1 F N
-F0 "H" 0 200 50 H V C CNN
-F1 "Mechanical_MountingHole" 0 125 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- MountingHole*
-$ENDFPLIST
-DRAW
-C 0 0 50 0 1 50 N
 ENDDRAW
 ENDDEF
 #
