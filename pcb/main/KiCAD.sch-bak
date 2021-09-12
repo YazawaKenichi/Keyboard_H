@@ -3401,17 +3401,6 @@ F 3 "" H 11750 7575 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L KiCAD-rescue:Pico-RaspberryPi_Pico U1
-U 1 1 63A3E8CA
-P 2250 7850
-F 0 "U1" H 2250 9065 50  0000 C CNN
-F 1 "Pico" H 2250 8974 50  0000 C CNN
-F 2 "RPi_Pico:RPi_Pico_SMD_TH" V 2250 7850 50  0001 C CNN
-F 3 "" H 2250 7850 50  0001 C CNN
-	1    2250 7850
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR08
 U 1 1 6430438F
 P 1550 7600
@@ -6153,4 +6142,15 @@ Wire Wire Line
 Connection ~ 3450 7300
 Wire Wire Line
 	3450 7300 3450 7400
+$Comp
+L RaspberryPi_Pico:Pico U?
+U 1 1 6143F7AA
+P 2250 7850
+F 0 "U?" H 2250 9065 50  0000 C CNN
+F 1 "Pico" H 2250 8974 50  0000 C CNN
+F 2 "RPi_Pico:RPi_Pico_SMD_TH" V 2250 7850 50  0001 C CNN
+F 3 "" H 2250 7850 50  0001 C CNN
+	1    2250 7850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
