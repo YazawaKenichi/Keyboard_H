@@ -2,7 +2,7 @@
   (lib (name keyboard_parts)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/keyboard_parts.pretty")(options "")(descr ""))
   (lib (name keyswitches)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/keyswitches.pretty")(options "")(descr ""))
   (lib (name keyswitch-kicad-library)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/keyswitch-kicad-library")(options "")(descr ""))
-  (lib (name Button_Switch_Keyboard)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/kicad-footprints/Button_Switch_Keyboard.pretty")(options "")(descr ""))
+  (lib (name Button_Switch_Keyboard)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/YazawaLib/Button_Switch_Keyboard.pretty")(options "")(descr ""))
   (lib (name Alps_Only)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/MX_Alps_Hybrid/Alps_Only.pretty")(options "")(descr ""))
   (lib (name Kailh_Choc)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/MX_Alps_Hybrid/Kailh_Choc.pretty")(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri "D:/Keyboard_H/pcb/lib/lib and mod/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty")(options "")(descr ""))
