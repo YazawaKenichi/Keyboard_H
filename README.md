@@ -6,6 +6,8 @@ This is My First Keyboard Project.
 ただしハードウェア設計に関するファイルのみ。うｐ主のインフラの事情的に、ハードは Windows ソフトは Ubuntu で開発することになってしまったので、ハードとソフトでリポジトリを分けた。
 統合してぇなぁ...
 
+### 以下全部自己満メモ！自分用れどめ！
+
 ##### LED の点灯回路について考える
 - USB バスパワー:5V 500mA
 - Raspberry Pi Pico の GPIO のパワー
